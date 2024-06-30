@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDropzone } from 'react-dropzone';
-import './style.css'; 
+import './style.css';
 import uploadIcon from '../images/upload-icon.png';
 
 const UploadForm = () => {

@@ -3,7 +3,6 @@ const multer = require('multer');
 const path = require('path');
 const mime = require('mime-types');
 const cors = require('cors'); // Import CORS middleware
-const { stat } = require('fs');
 
 const app = express();
 const port = 5000; // Use a different port for the backend
@@ -21,7 +20,7 @@ const storage = multer.diskStorage({
   }
 });
 
-// Create multer instance with specified storage options
+// Create multer instance with specified storage options and file filter
 const upload = multer({
   storage: storage,
   fileFilter: function (req, file, cb) {
@@ -29,8 +28,7 @@ const upload = multer({
     if (mime.extension(file.mimetype) === 'xls') {
       cb(null, true);
     } else {
-      cb
-      (new Error('Only .xls files are allowed!'), false);
+      cb(new Error('Only .xls files are allowed!'));
     }
   }
 });
@@ -47,6 +45,15 @@ app.post('/upload', upload.single('file'), (req, res) => {
   }
 
   res.status(200).send('File uploaded successfully.');
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  if (err) {
+    res.status(400).send(err.message);
+  } else {
+    next();
+  }
 });
 
 // Start the server
