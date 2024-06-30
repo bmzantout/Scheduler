@@ -1,0 +1,823 @@
+	Year	Period	Code	Name	Section	Dept.	T	P	L	Cr	ECTS	Category	Lecturer	Room	Schedule	# of Students	Successfull	Unsuccessfull	Conditional	Withdrawn	Average	Staff ID	
+	2023	002	ADA 407	Data Science for Social Scientists	ADA 407_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Ezgi Avcý 	DB14	Tu 14 - 17	58 	0 	0 	0 	1 	0,00 	 00005032 	
+	2023	002	ADA 423	Statistical Inference Methods with Appli	ADA 423_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Ezgi Avcý 	D030	Th 16 - 19	70 	0 	0 	0 	2 	0,00 	 00005032 	
+	2023	002	ADA 440	Python for Data Science	ADA 440_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Yýldýrým Akbal 	H007/009-PC D028	Mo 14 - 17	66 	0 	0 	0 	5 	0,00 	 00000891 	
+	2023	002	ADA 442	Statistical Learning	ADA 442_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Hakan Emekci 	GB07-PC-L	Fr 14 - 17	38 	0 	0 	0 	0 	0,00 	 00004212 	
+	2023	002	ADA 449	Numerical Methods for Data Science	ADA 449_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Yýldýrým Akbal 	H007/009-PC	Th 13 - 16	55 	0 	0 	0 	6 	0,00 	 00000891 	
+	2023	002	ARCH 102	Introduction to Architectural Design	ARCH 102_01	Department of Architecture	2	8	0	6	10	Course	Nilay Karaköy Atay (S) , Melis Acar Koçer , Ýpek Akýn (S) , Gökhan Kýnayoðlu , Bilge Ýmamoðlu 		Tu 13 - 15 Tu 09 - 12 Fr 13 - 15 Fr 09 - 12	69 	0 	0 	0 	2 	0,00 	 00005661 (S) , 00001047 , 00003943 (S) , 00000270 , 00000017 	
+	2023	002	ARCH 112	Architectural Communication Techniques I	ARCH 112_01	Department of Architecture	2	2	0	3	6	Course	Çaðrým Koçer , Afet Derin Ýnan Çýnar 		Th 09 - 13	55 	0 	0 	0 	3 	0,00 	 00001046 , 00000003 	
+	2023	002	ARCH 112-O	Architectural Communication Tech II	ARCH 112-O_1	Department of Architecture	2	2	0	3	5	Course	Çaðrým Koçer , Afet Derin Ýnan Çýnar 		Th 09 - 13	13 	0 	0 	0 	1 	0,00 	 00001046 , 00000003 	
+	2023	002	ARCH 202	Architectural Design II	ARCH 202_01	Department of Architecture	2	8	0	6	11	Course	Eser Köken Ýþleyici (S) , Duygu Tüntaþ Þerbetçi , Azize Elif Yabacý , Anýl Eren Ýpek (S) , Heves Beþeli Özkoç 		Tu 09 - 12 Tu 13 - 15 Fr 09 - 12 Fr 13 - 15	58 	0 	0 	0 	0 	0,00 	 00004828 (S) , 00001878 , 00000011 , 00003945 (S) , 00000885 	
+	2023	002	ARCH 222	History of Architecture II	ARCH 222_01	Department of Architecture	3	0	0	3	5	Course	Melis Acar Koçer 	K084	We 09 - 12	17 	0 	0 	0 	0 	0,00 	 00001047 	
+	2023	002	ARCH 222-O	History of Architecture II	ARCH 222-O_1	Department of Architecture	2	1	0	2	5	Course	Melis Acar Koçer 	K084	We 09 - 12	43 	0 	0 	0 	1 	0,00 	 00001047 	
+	2023	002	ARCH 302-O	Architectural Design IV	ARCH 302-O_1	Department of Architecture	2	8	0	6	11	Course	Ekin Çoban Turhan (S) , Seray Türkay Coþkun , Neþe Gurallar , Afet Derin Ýnan Çýnar , Ferit Can Aker (S) 		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	51 	0 	0 	0 	0 	0,00 	 00003944 (S) , 00001374 , 00004835 , 00000003 , 00000503 (S) 	
+	2023	002	ARCH 322	Issues in Contemporary Architecture	ARCH 322_01	Department of Architecture	3	0	0	3	5	Course	Berin Fatma Gür 	F117	We 09 - 12	20 	0 	0 	0 	0 	0,00 	 00000360 	
+	2023	002	ARCH 372-O	Building Technologies in Architecture	ARCH 372-O_1	Department of Architecture	3	0	0	3	5	Course	Heves Beþeli Özkoç 	K084	Mo 09 - 12	53 	0 	0 	0 	2 	0,00 	 00000885 	
+	2023	002	ARCH 399-O	Summer Practice I_Construction Site	ARCH 399-O_1	Department of Architecture	0	0	0	0	2	Internship	Melis Acar Koçer 		Fr 19 - 20	1 	0 	0 	0 	0 	0,00 	 00001047 	
+	2023	002	ARCH 402	Architectural Design VI	ARCH 402_01	Department of Architecture	2	8	0	6	12	Course	Çaðrým Koçer , Mehmet Ziya Ýmren (S) , Esatcan Coþkun (S) , Onur Yüncü , Baþak Uçar Kýrmýzýgül 		Tu 09 - 12 Tu 13 - 15 Fr 09 - 12 Fr 13 - 15	67 	0 	0 	0 	0 	0,00 	 00001046 , 00000502 (S) , 00001473 (S) , 00000328 , 00000014 	
+	2023	002	ARCH 434	Parametric Design Thinking	ARCH 434_01	Department of Architecture	3	0	0	3	5	Course	Gökhan Kýnayoðlu 	F214	We 09 - 12	16 	0 	0 	0 	2 	0,00 	 00000270 	
+	2023	002	ARCH 462-O	Profession and Practice	ARCH 462-O_1	Department of Architecture	1	0	0	1	2	Course	Onur Yüncü 	D030	Mo 12 - 13	68 	0 	0 	0 	0 	0,00 	 00000328 	
+	2023	002	ARCH 472	Architecture of Display	ARCH 472_01	Department of Architecture	3	0	0	3	5	Course	Seray Türkay Coþkun 	F212	Th 09 - 12	15 	0 	0 	0 	2 	0,00 	 00001374 	
+	2023	002	ARCH 482	Ideology and Space	ARCH 482_01	Department of Architecture	3	0	0	3	5	Course	Neþe Gurallar 	F115	Mo 14 - 17	15 	0 	0 	0 	0 	0,00 	 00004835 	
+	2023	002	ARCH 484	Architecture of Urban Form Through Histo	ARCH 484_01	Department of Architecture	3	0	0	3	5	Course	Namýk Günay Erkal 	F214	Mo 13 - 17	18 	0 	0 	0 	0 	0,00 	 00000863 	
+	2023	002	ART 100	Visual Arts and Aesthetics	ART 100_01	Basic Sciences	3	0	0	3	5	Course	Derya Aðaoðlu (S) 	DB18	Th 16 - 19	66 	0 	0 	0 	1 	0,00 	 00005687 (S) 	
+	2023	002	ART 140	Music History	ART 140_01	Basic Sciences	3	0	0	3	5	Course	Müge Deniz Eriþkin Karabey (S) 	G208	We 15 - 18	45 	0 	0 	0 	3 	0,00 	 00004815 (S) 	
+	2023	002	BA 110	Critical Skills and Business: Discovery	BA 110_01	Department of Business Administration	3	0	0	3	6	Course	Semih Yalman (S) 	DB14	Th 14 - 17	58 	0 	0 	0 	1 	0,00 	 00004090 (S) 	
+	2023	002	BA 110	Critical Skills and Business: Discovery	BA 110_02	Department of Business Administration	3	0	0	3	6	Course	Semih Yalman (S) 	DB16	Fr 16 - 19	55 	0 	0 	0 	0 	0,00 	 00004090 (S) 	
+	2023	002	BA 202	Management Science	BA 202_01	Department of Business Administration	3	0	0	3	6	Course	Melike Meterelliyoz (S) 	D032	We 09 - 12	50 	0 	0 	0 	5 	0,00 	 00005819 (S) 	
+	2023	002	BA 203	Principles of Financial Accounting	BA 203_01	Department of Business Administration	3	0	0	3	6	Course	Sadettin Aydýn Yüksel 	G113	Fr 11 - 14	35 	0 	0 	0 	1 	0,00 	 00005038 	
+	2023	002	BA 204	Organizational Behavior	BA 204_01	Department of Business Administration	3	0	0	3	6	Course	Kýymet Duygu Erdaþ 	G213	Tu 09 - 12	54 	0 	0 	0 	1 	0,00 	 00003102 	
+	2023	002	BA 220	Fundamentals of Entrepreneurship	BA 220_01	Department of Business Administration	3	0	0	3	6	Course	Burze Yaþar 	G108	Fr 15 - 18	39 	0 	0 	0 	0 	0,00 	 00000308 	
+	2023	002	BA 300	Summer Practice  I	BA 300_01	Department of Business Administration	1	0	0	1	2	Internship	Aras Alkýþ 		Fr 18 - 19	10 	0 	0 	0 	3 	0,00 	 00001340 	
+	2023	002	BA 301	Principles of Marketing	BA 301_01	Department of Business Administration	3	0	0	3	6	Course	Can Armutlu 	G006	Th 11 - 14	35 	0 	0 	0 	1 	0,00 	 00000481 	
+	2023	002	BA 302	Business Law	BA 302_01	Department of Business Administration	3	0	0	3	6	Course	Þebnem Akipek Öcal 	G005	Tu 12 - 15	30 	0 	0 	0 	0 	0,00 	 00000279 	
+	2023	002	BA 303	Managerial Accounting	BA 303_01	Department of Business Administration	3	0	0	3	6	Course	Iþýl Sevilay Yýlmaz 	G003	Mo 11 - 14	16 	0 	0 	0 	0 	0,00 	 00000864 	
+	2023	002	BA 304	Corporate Finance	BA 304_01	Department of Business Administration	3	0	0	3	6	Course	Iþýl Sevilay Yýlmaz 	D228	We 15 - 18	34 	0 	0 	0 	0 	0,00 	 00000864 	
+	2023	002	BA 307	Foundations of Finance	BA 307_01	Department of Business Administration	3	0	0	3	6	Course	Sadettin Aydýn Yüksel 	G212	We 15 - 18	30 	0 	0 	0 	1 	0,00 	 00005038 	
+	2023	002	BA 322	New Enterprises	BA 322_01	Department of Business Administration	3	0	0	3	6	Course	Burze Yaþar 	G213	Fr 11 - 14	26 	0 	0 	0 	1 	0,00 	 00000308 	
+	2023	002	BA 400-O	Summer Practice II	BA 400-O_01	Department of Business Administration	1	0	0	1	2	Internship	Aras Alkýþ 		Fr 19 - 20	13 	0 	0 	0 	0 	0,00 	 00001340 	
+	2023	002	BA 401	Research Methods	BA 401_01	Department of Business Administration	3	0	0	3	6	Course	Kýymet Duygu Erdaþ 	G005	We 09 - 12	2 	0 	0 	0 	1 	0,00 	 00003102 	
+	2023	002	BA 401-O	Research Methods	BA 401-O_01	Department of Business Administration	3	0	0	3	7	Course	Kýymet Duygu Erdaþ 	G005	We 09 - 12	16 	0 	0 	0 	0 	0,00 	 00003102 	
+	2023	002	BA 402	Senior Project and Seminar	BA 402_01	Department of Business Administration	3	0	0	3	7	Course	Semih Yalman (S) 	G203	Fr 12 - 15	36 	0 	0 	0 	0 	0,00 	 00004090 (S) 	
+	2023	002	BA 410	Independent Research	BA 410_01	Department of Business Administration	3	0	0	3	6	Course	Sadettin Aydýn Yüksel 	G101	Fr 16 - 19	8 	0 	0 	0 	0 	0,00 	 00005038 	
+	2023	002	BA 421	Strategic Management	BA 421_01	Department of Business Administration	3	0	0	3	6	Course	Levent Akdeniz 	D234	Tu 09 - 12	25 	0 	0 	0 	0 	0,00 	 00005533 	
+	2023	002	BA 431	Financial Markets and Institutions	BA 431_01	Department of Business Administration	3	0	0	3	6	Course	Aslý Yüksel 	D234	Tu 16 - 19	51 	0 	0 	0 	7 	0,00 	 00005530 	
+	2023	002	BA 435	Real Estate Finance	BA 435_01	Department of Business Administration	3	0	0	3	6	Course	Aslý Yüksel 	G108	Mo 09 - 12	36 	0 	0 	0 	1 	0,00 	 00005530 	
+	2023	002	BA 441	International Finance	BA 441_01	Department of Business Administration	3	0	0	3	6	Course	Aslý Yüksel 	G208	We 09 - 12	26 	0 	0 	0 	0 	0,00 	 00005530 	
+	2023	002	BA 452	Managing and Leading	BA 452_01	Department of Business Administration	3	0	0	3	6	Course	Kýymet Duygu Erdaþ 	G208	Fr 11 - 14	28 	0 	0 	0 	0 	0,00 	 00003102 	
+	2023	002	BA 461	Consumer Behavior	BA 461_01	Department of Business Administration	3	0	0	3	6	Course	Can Armutlu 	G010	Mo 13 - 16	39 	0 	0 	0 	0 	0,00 	 00000481 	
+	2023	002	BA 462	New Product Development	BA 462_01	Department of Business Administration	3	0	0	3	6	Course	Aras Alkýþ 	G203	Mo 13 - 16	33 	0 	0 	0 	0 	0,00 	 00001340 	
+	2023	002	BA 463	Marketing Research	BA 463_01	Department of Business Administration	3	0	0	3	6	Course	Can Armutlu 	G208	We 12 - 15	40 	0 	0 	0 	0 	0,00 	 00000481 	
+	2023	002	BA 464	Brand Management	BA 464_01	Department of Business Administration	3	0	0	3	6	Course	Aras Alkýþ 	G205	We 12 - 15	39 	0 	0 	0 	0 	0,00 	 00001340 	
+	2023	002	BA 470	Environmental, Social, and Governance In	BA 470_01	Department of Business Administration	3	0	0	3	6	Course	Iþýl Sevilay Yýlmaz 	D234	Mo 16 - 19	27 	0 	0 	0 	0 	0,00 	 00000864 	
+	2023	002	BIO 110	Introduction to Modern Biology	BIO 110_01	Basic Sciences	3	0	0	3	5	Course	Gözde Ünsoy (S) 	D030	Th 09 - 12	61 	0 	0 	0 	2 	0,00 	 00002028 (S) 	
+	2023	002	BIO 110	Introduction to Modern Biology	BIO 110_02	Basic Sciences	3	0	0	3	5	Course	Gözde Ünsoy (S) 	D028	Th 13 - 16	61 	0 	0 	0 	0 	0,00 	 00002028 (S) 	
+	2023	002	BIO 110	Introduction to Modern Biology	BIO 110_03	Basic Sciences	3	0	0	3	5	Course	Gözde Ünsoy (S) 	D032	Fr 13 - 16	66 	0 	0 	0 	0 	0,00 	 00002028 (S) 	
+	2023	002	CE 200	Computer Aided Technical Drawing	CE 200_01	Department of Civil Engineering	   0	   0	   4	2	   4	Course	Oktay Baþ (S) 	H007/009-PC	Tu 09 - 11 Th 09 - 11	2 	0 	0 	0 	0 	0,00 	 00002791 (S) 	
+	2023	002	CE 212	Engineering Mechanics II	CE 212_01	Department of Civil Engineering	   3	0	   0	3	   5	Course	Rýza Secer Orkun Keskin 	G201	Mo 11 - 13 We 15 - 16	2 	0 	0 	0 	0 	0,00 	 00001812 	
+	2023	002	CE 214	Introduction to Mechanics of Materials	CE 214_01	Department of Civil Engineering	  3	   0	2	4	6	Course	Rýza Secer Orkun Keskin 	G201 HB03-MF-L	We 12 - 15 Fr 11 - 13	2 	0 	0 	0 	0 	0,00 	 00001812 	
+	2023	002	CE 232-O	Fluid Mechanics	CE 232_01	Department of Civil Engineering	   3	   0	   0	3	   5	Course	Mehmet Ali Kökpýnar 	G101 G201	Mo 13 - 14 Tu 13 - 15	2 	0 	0 	0 	0 	0,00 	 00000872 	
+	2023	002	CE 312	Fundamentals of Steel Design	CE 312_01	Department of Civil Engineering	  3	  0	   0	3	   6	Course	Özkan Kale 	G201 G101	Tu 15 - 17 We 13 - 14	5 	0 	0 	0 	0 	0,00 	 00001005 	
+	2023	002	CE 314	Reinforced Concrete Fundamentals	CE 314_01	Department of Civil Engineering	 3	 0	   0	3	   6	Course	Güney Özcebe 	A422	Tu 14 - 15 We 14 - 16	7 	0 	0 	0 	0 	0,00 	 00000186 	
+	2023	002	CE 332	Water Resources Engineering	CE 332_01	Department of Civil Engineering	  3	   0	   0	3	   6	Course	Mehmet Ali Kökpýnar 	G201	Mo 15 - 17 We 16 - 17	5 	0 	0 	0 	0 	0,00 	 00000872 	
+	2023	002	CE 399-O	Summer Practice I	CE 399_01	Department of Civil Engineering	 1	0	   0	1	   2	Internship	Rýza Secer Orkun Keskin 		We 18 - 19	1 	0 	0 	0 	0 	0,00 	 00001812 	
+	2023	002	CE 410-O	Civil Engineering Design	CE 410_01	Department of Civil Engineering	   2	2	  0	3	  10	Course	Özkan Kale 	G101	Mo 09 - 10 We 09 - 12	1 	0 	0 	0 	0 	0,00 	 00001005 	
+	2023	002	CE 434	Coastal Engineering	CE 434_01	Department of Civil Engineering	   3	0	   0	3	   6	Course	Aslý Numanoðlu Genç 	F206	Mo 11 - 13 Tu 11 - 12	6 	0 	0 	0 	0 	0,00 	 00002023 	
+	2023	002	CE 455	Sustainable Construction	CE 455_01	Department of Civil Engineering	3	0	0	3	6	Course	Can Baran Aktaþ 	G101	Tu 18 - 21	1 	0 	0 	0 	0 	0,00 	 00001407 	
+	2023	002	CE 499-O	Summer Practice II	CE 499_01	Department of Civil Engineering	   1	0	   0	1	   2	Internship	Rýza Secer Orkun Keskin 		We 19 - 20	4 	0 	0 	0 	0 	0,00 	 00001812 	
+	2023	002	CHEM 100	General Chemistry	CHEM 100_01	Basic Sciences	3	0	0	3	5	Course	Ahmet Muhtar Önal (S) 	DB20 D026	Mo 09 - 11 We 09 - 10	58 	0 	0 	0 	0 	0,00 	 00005718 (S) 	
+	2023	002	CHEM 100	General Chemistry	CHEM 100_02	Basic Sciences	3	0	0	3	5	Course	Ahmet Muhtar Önal (S) 	DB20 D026	Mo 13 - 15 We 10 - 11	61 	0 	0 	0 	2 	0,00 	 00005718 (S) 	
+	2023	002	CHEM 100	General Chemistry	CHEM 100_03	Basic Sciences	3	0	0	3	5	Course	Elçin Deniz Özdamar (S) 	DB18 D030	Tu 14 - 15 Th 12 - 14	76 	0 	0 	0 	0 	0,00 	 00005813 (S) 	
+	2023	002	CHEM 100	General Chemistry	CHEM 100_04	Basic Sciences	3	0	0	3	5	Course	Elçin Deniz Özdamar (S) 	D028 D030	Tu 16 - 18 Th 15 - 16	72 	0 	0 	0 	0 	0,00 	 00005813 (S) 	
+	2023	002	CIT 221	Global Environmental Issues	CIT 221_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Zeynep Songülen Ýnanç (S) 	G105	Tu 09 - 12	41 	0 	0 	0 	2 	0,00 	 00005653 (S) 	
+	2023	002	CIT 301	Civic Involvement	CIT 301_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Bezen Coþkun (S) 	G105	Tu 12 - 15	41 	0 	0 	0 	0 	0,00 	 00002049 (S) 	
+	2023	002	CIT 301	Civic Involvement	CIT 301_02	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Bezen Coþkun (S) 	G010	Tu 16 - 19	46 	0 	0 	0 	0 	0,00 	 00002049 (S) 	
+	2023	002	CIT 330	Sociology of the City	CIT 330_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Mustafa Çaðlar Atmaca (S) 	G003	Th 16 - 19	46 	0 	0 	0 	0 	0,00 	 00005654 (S) 	
+	2023	002	CIT 330	Sociology of the City	CIT 330_02	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Mustafa Çaðlar Atmaca (S) 	G010	Fr 16 - 19	46 	0 	0 	0 	0 	0,00 	 00005654 (S) 	
+	2023	002	CIT 362	Introduction to Sustainable Development	CIT 362_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Ercan Gündoðan (S) 	G112	Tu 12 - 15	17 	0 	0 	0 	1 	0,00 	 00004088 (S) 	
+	2023	002	CIT 362	Introduction to Sustainable Development	CIT 362_02	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Ercan Gündoðan (S) 	G205	Th 12 - 15	36 	0 	0 	0 	1 	0,00 	 00004088 (S) 	
+	2023	002	CIT 370	Global Concerns: Inequalities and Discri	CIT 370_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Burcu Sarý Karademir (S) 	G006	We 12 - 15	46 	0 	0 	0 	0 	0,00 	 00002565 (S) 	
+	2023	002	CIT 374	International Gender Politics	CIT 374_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Sercan Çýnar (S) 	G108	Fr 12 - 15	45 	0 	0 	0 	0 	0,00 	 00003184 (S) 	
+	2023	002	CIT 392	Peace Studies and Conflict Resolution	CIT 392_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Burcu Özdemir Sarýgil (S) 	G203	Th 12 - 15	40 	0 	0 	0 	1 	0,00 	 00005818 (S) 	
+	2023	002	CIT 430	Citizenship Theories	CIT 430_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Nalan Soyarýk Þentürk (S) 	G108	Th 16 - 19	46 	0 	0 	0 	2 	0,00 	 00005655 (S) 	
+	2023	002	CIT 440	Human Rights Law	CIT 440_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Mehmet Mücahit Arvas (S) 	G010	Mo 16 - 19	49 	0 	0 	0 	0 	0,00 	 00003967 (S) 	
+	2023	002	CIT 491	Gender and Violence	CIT 491_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Kerem Selçuk (S) 	G113	We 16 - 19	47 	0 	0 	0 	1 	0,00 	 00000121 (S) 	
+	2023	002	CITY 102	Basic Design in Planning II	CITY 102_01	Department of City and Regional Planning	2	8	0	6	10	Course	Irmak Özgür 		Tu 09 - 12 Tu 13 - 15 Fr 09 - 12 Fr 13 - 15	21 	0 	0 	0 	0 	0,00 	 00000628 	
+	2023	002	CITY 112	Graphic Communication Techniques in Arch	CITY 112_01	Department of City and Regional Planning	2	2	0	3	6	Course	Zeynep Eraydýn 		Th 09 - 13	16 	0 	0 	0 	0 	0,00 	 00003212 	
+	2023	002	CITY 112-O	Graphic Communication Techniques in Arch	CITY 112-O_1	Department of City and Regional Planning	2	2	0	3	5	Course	Zeynep Eraydýn 		Th 09 - 13	3 	0 	0 	0 	0 	0,00 	 00003212 	
+	2023	002	CITY 202	Planning Studio II	CITY 202_01	Department of City and Regional Planning	2	8	0	6	12	Course	Zeki Kamil Ülkenli , Baykan Günay 		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	5 	0 	0 	0 	0 	0,00 	 00000593 , 00000795 	
+	2023	002	CITY 202-O	Planning Studio II	CITY 202-O_1	Department of City and Regional Planning	2	8	0	6	11	Course	Baykan Günay , Zeki Kamil Ülkenli 		Tu 13 - 15 Tu 09 - 12 Fr 13 - 15 Fr 09 - 12	13 	0 	0 	0 	0 	0,00 	 00000795 , 00000593 	
+	2023	002	CITY 232	The City in History	CITY 232_01	Department of City and Regional Planning	3	0	0	3	5	Course	Zeki Kamil Ülkenli 	F206	We 13 - 16	24 	0 	0 	0 	1 	0,00 	 00000593 	
+	2023	002	CITY 302-O	Planning Studio IV	CITY 302-O_1	Department of City and Regional Planning	2	8	0	6	11	Course	Zeynep Eraydýn 		Tu 13 - 15 Tu 09 - 12 Fr 13 - 15 Fr 09 - 12	19 	0 	0 	0 	0 	0,00 	 00003212 	
+	2023	002	CITY 322-O	Urban Circulation and Transport Planning	CITY 322-O_1	Department of City and Regional Planning	3	0	0	3	4	Course	Sema Bayazýt (S) 	F117	Mo 13 - 16	13 	0 	0 	0 	0 	0,00 	 00003075 (S) 	
+	2023	002	CITY 352-O	Planning Theory and Techniques	CITY 352-O_1	Department of City and Regional Planning	3	0	0	3	5	Course	Baykan Günay 	G103	Mo 09 - 12	14 	0 	0 	0 	0 	0,00 	 00000795 	
+	2023	002	CITY 362	 Sociology of Planning and Design	CITY 362_01	Department of City and Regional Planning	3	0	0	3	5	Course	Ela Ataç Kavurmacý 	G005	Th 09 - 12	18 	0 	0 	0 	0 	0,00 	 00000594 	
+	2023	002	CITY 402-O	Planning Studio VI	CITY 402-O_1	Department of City and Regional Planning	2	8	0	6	10	Course	Ela Ataç Kavurmacý , Serdar Özbay (S) 		Tu 09 - 12 Tu 13 - 15 Fr 13 - 15 Fr 09 - 12	19 	0 	0 	0 	0 	0,00 	 00000594 , 00001880 (S) 	
+	2023	002	CITY 412-O	Urban Morphology	CITY 412-O_1	Department of City and Regional Planning	2	1	0	2	5	Course	Irmak Özgür 	G009	We 09 - 12	28 	0 	0 	0 	0 	0,00 	 00000628 	
+	2023	002	CITY 499-O	Summer Practise II: Planning and Design	CITY 499-O_1	Department of City and Regional Planning	0	0	0	0	2	Internship	Irmak Özgür 		Fr 20 - 21	1 	0 	0 	0 	0 	0,00 	 00000628 	
+	2023	002	CMPE 113	Fundamentals of Programming I	CMPE 113_01	Department of Computer Engineering	2	0	2	3	5	Course	Eren Ulu 	A514-PC-L DB18	Mo 11 - 13 Tu 09 - 11	62 	0 	0 	0 	2 	0,00 	 00000469 	
+	2023	002	CMPE 113	Fundamentals of Programming I	CMPE 113_02	Department of Computer Engineering	2	0	2	3	5	Course	Eren Ulu 	A514-PC-L D026	Mo 15 - 17 Tu 13 - 15	64 	0 	0 	0 	0 	0,00 	 00000469 	
+	2023	002	CMPE 113	Fundamentals of Programming I	CMPE 113_03	Department of Computer Engineering	2	0	2	3	5	Course	Eren Ulu 	D030 A514-PC-L	We 13 - 15 Th 17 - 19	61 	0 	0 	0 	3 	0,00 	 00000469 	
+	2023	002	CMPE 113	Fundamentals of Programming I	CMPE 113_04	Department of Computer Engineering	2	0	2	3	5	Course	Eren Ulu 	A514-PC-L D026	We 11 - 13 Th 15 - 17	60 	0 	0 	0 	1 	0,00 	 00000469 	
+	2023	002	CMPE 113	Fundamentals of Programming I	CMPE 113_05	Department of Computer Engineering	2	0	2	3	5	Course	Eren Ulu 	DB18 A514-PC-L	Tu 15 - 17 We 15 - 17	59 	0 	0 	0 	1 	0,00 	 00000469 	
+	2023	002	CMPE 114	Fundamentals of Programming II	CMPE 114_01	Department of Computer Engineering	2	0	2	3	6	Course	Özlem Albayrak 	D028 A514-PC-L	Mo 09 - 11 Tu 09 - 11	61 	0 	0 	0 	5 	0,00 	 00005055 	
+	2023	002	CMPE 114	Fundamentals of Programming II	CMPE 114_02	Department of Computer Engineering	2	0	2	3	6	Course	Özlem Albayrak 	A514-PC-L D030	Tu 13 - 15 We 15 - 17	65 	0 	0 	0 	1 	0,00 	 00005055 	
+	2023	002	CMPE 223	Data Structures and Algorithms I	CMPE 223_01	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	DB16	Mo 16 - 18 Fr 14 - 15	51 	0 	0 	0 	2 	0,00 	 00000244 	
+	2023	002	CMPE 223	Data Structures and Algorithms I	CMPE 223_02	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	D028 DB16	Tu 12 - 14 Fr 15 - 16	52 	0 	0 	0 	8 	0,00 	 00000244 	
+	2023	002	CMPE 223	Data Structures and Algorithms I	CMPE 223_03	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	G009 DB16	Tu 10 - 11 Fr 12 - 14	44 	0 	0 	0 	13 	0,00 	 00000244 	
+	2023	002	CMPE 224	Data Structures and Algorithms II	CMPE 224_01	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	DB18	Fr 09 - 12	69 	0 	0 	0 	2 	0,00 	 00003019 	
+	2023	002	CMPE 224	Data Structures and Algorithms II	CMPE 224_02	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	DB18	We 13 - 16	74 	0 	0 	0 	2 	0,00 	 00003019 	
+	2023	002	CMPE 224	Data Structures and Algorithms II	CMPE 224_03	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	K183	Fr 13 - 16	29 	0 	0 	0 	0 	0,00 	 00003019 	
+	2023	002	CMPE 232	Database Systems	CMPE 232_01	Department of Computer Engineering	3	0	0	3	5	Course	Kasým Murat Karakaya 	DB18	Tu 11 - 14	75 	0 	0 	0 	3 	0,00 	 00005804 	
+	2023	002	CMPE 232	Database Systems	CMPE 232_02	Department of Computer Engineering	3	0	0	3	5	Course	Kasým Murat Karakaya 	DB18	We 16 - 19	73 	0 	0 	0 	0 	0,00 	 00005804 	
+	2023	002	CMPE 232	Database Systems	CMPE 232_03	Department of Computer Engineering	3	0	0	3	5	Course	Kasým Murat Karakaya 	DB14	Th 11 - 14	76 	0 	0 	0 	0 	0,00 	 00005804 	
+	2023	002	CMPE 242	Data Structures and Algorithms I	CMPE 242_01	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	DB16	Mo 16 - 18 Fr 14 - 15	2 	0 	0 	0 	0 	0,00 	 00000244 	
+	2023	002	CMPE 242	Data Structures and Algorithms I	CMPE 242_02	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	D028 DB16	Tu 12 - 14 Fr 15 - 16	1 	0 	0 	0 	0 	0,00 	 00000244 	
+	2023	002	CMPE 252	C Programming	CMPE 252_01	Department of Computer Engineering	2	0	2	3	6	Course	Gökçe Nur Yýlmaz 	A514-PC-L D228	Mo 18 - 20 Th 11 - 13	57 	0 	0 	0 	1 	0,00 	 00003053 	
+	2023	002	CMPE 252	C Programming	CMPE 252_02	Department of Computer Engineering	2	0	2	3	6	Course	Gökçe Nur Yýlmaz 	D234 A514-PC-L	We 11 - 13 Fr 17 - 19	58 	0 	0 	0 	1 	0,00 	 00003053 	
+	2023	002	CMPE 252	C Programming	CMPE 252_03	Department of Computer Engineering	2	0	2	3	6	Course	Ayþe Yasemin Seydim (S) 	A514-PC-L DB14	Tu 19 - 21 Th 09 - 11	57 	0 	0 	0 	0 	0,00 	 00005863 (S) 	
+	2023	002	CMPE 252	C Programming	CMPE 252_04	Department of Computer Engineering	2	0	2	3	6	Course	Ayþe Yasemin Seydim (S) 	A514-PC-L D234	We 17 - 19 Fr 09 - 11	52 	0 	0 	0 	1 	0,00 	 00005863 (S) 	
+	2023	002	CMPE 313	Software Engineering	CMPE 313_01	Department of Computer Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	D032	Tu 13 - 16	1 	0 	0 	0 	0 	0,00 	 00003895 	
+	2023	002	CMPE 313	Software Engineering	CMPE 313_02	Department of Computer Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	DB20	We 15 - 18	2 	0 	0 	0 	0 	0,00 	 00003895 	
+	2023	002	CMPE 313	Software Engineering	CMPE 313_03	Department of Computer Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	D026	Fr 15 - 18	3 	0 	0 	0 	0 	0,00 	 00003895 	
+	2023	002	CMPE 322	Theory of Computation	CMPE 322_01	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	K085 DB20	Mo 09 - 11 Fr 11 - 12	12 	0 	0 	0 	0 	0,00 	 00004099 	
+	2023	002	CMPE 322	Theory of Computation	CMPE 322_02	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	D234	We 15 - 18	4 	0 	0 	0 	0 	0,00 	 00004099 	
+	2023	002	CMPE 326	Concepts of Programming Languages	CMPE 326_01	Department of Computer Engineering	3	0	0	3	5	Course	Fýrat Akba 	D030 DB20	Mo 13 - 15 We 13 - 14	63 	0 	0 	0 	0 	0,00 	 00004099 	
+	2023	002	CMPE 326	Concepts of Programming Languages	CMPE 326_02	Department of Computer Engineering	3	0	0	3	5	Course	Saiful Islam 	K184 DB20	Mo 15 - 17 We 14 - 15	63 	0 	0 	0 	0 	0,00 	 00004842 	
+	2023	002	CMPE 326	Concepts of Programming Languages	CMPE 326_03	Department of Computer Engineering	3	0	0	3	5	Course	Fýrat Akba 	D030 DB20	We 09 - 11 Fr 12 - 13	67 	0 	0 	0 	0 	0,00 	 00004099 	
+	2023	002	CMPE 326	Concepts of Programming Languages	CMPE 326_04	Department of Computer Engineering	3	0	0	3	5	Course	Saiful Islam 	D032 DB14	Tu 11 - 13 Fr 13 - 14	63 	0 	0 	0 	0 	0,00 	 00004842 	
+	2023	002	CMPE 327	Theory of Computation	CMPE 327_01	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	K085 DB20	Mo 09 - 11 Fr 11 - 12	69 	0 	0 	0 	0 	0,00 	 00004099 	
+	2023	002	CMPE 327	Theory of Computation	CMPE 327_02	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	D234	We 15 - 18	23 	0 	0 	0 	1 	0,00 	 00004099 	
+	2023	002	CMPE 343	Data Structures and Algorithms II	CMPE 343_01	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	DB18	Fr 09 - 12	6 	0 	0 	0 	0 	0,00 	 00003019 	
+	2023	002	CMPE 343	Data Structures and Algorithms II	CMPE 343_02	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	DB18	We 13 - 16	5 	0 	0 	0 	0 	0,00 	 00003019 	
+	2023	002	CMPE 343	Data Structures and Algorithms II	CMPE 343_03	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 		Fr 13 - 16	4 	0 	0 	0 	0 	0,00 	 00003019 	
+	2023	002	CMPE 362	Digital Image Processing	CMPE 362_01	Department of Computer Engineering	3	0	0	3	5	Course	Yücel Çimtay 	G205	We 15 - 18	51 	0 	0 	0 	6 	0,00 	 00003890 	
+	2023	002	CMPE 382	Operating Systems	CMPE 382_01	Department of Computer Engineering	3	0	0	3	5	Course	Müslim Bozyiðit 	DB14 D032	Mo 11 - 13 Tu 16 - 17	65 	0 	0 	0 	2 	0,00 	 00005532 	
+	2023	002	CMPE 382	Operating Systems	CMPE 382_02	Department of Computer Engineering	3	0	0	3	5	Course	Müslim Bozyiðit 	D032 D030	Tu 17 - 18 We 11 - 13	66 	0 	0 	0 	0 	0,00 	 00005532 	
+	2023	002	CMPE 382	Operating Systems	CMPE 382_03	Department of Computer Engineering	3	0	0	3	5	Course	Saiful Islam 	DB20 DB14	Tu 09 - 11 Fr 14 - 15	54 	0 	0 	0 	1 	0,00 	 00004842 	
+	2023	002	CMPE 399	Summer Practice I	CMPE 399_01	Department of Computer Engineering	1	0	0	1	2	Internship	Venera Adanova 		Fr 18 - 19	16 	0 	0 	0 	0 	0,00 	 00001814 	
+	2023	002	CMPE 414	Information Retrieval	CMPE 414_01	Department of Computer Engineering	   3	   0	   0	3	   5	Course	Ali Berkol (S) 	K184	We 16 - 19	66 	0 	0 	0 	1 	0,00 	 00005650 (S) 	
+	2023	002	CMPE 421	Artificial Intelligence	CMPE 421_01	Department of Computer Engineering	3	0	0	3	5	Course	Ali Berkol (S) 	D026	Mo 18 - 21	73 	0 	0 	0 	0 	0,00 	 00005650 (S) 	
+	2023	002	CMPE 442	Introduction to Machine Learning	CMPE 442_01	Department of Computer Engineering	3	0	0	3	5	Course	Venera Adanova 	D030 DB16	Mo 09 - 11 We 17 - 18	60 	0 	0 	0 	2 	0,00 	 00001814 	
+	2023	002	CMPE 442	Introduction to Machine Learning	CMPE 442_02	Department of Computer Engineering	3	0	0	3	5	Course	Venera Adanova 	DB14 DB16	Mo 13 - 14 We 15 - 17	63 	0 	0 	0 	2 	0,00 	 00001814 	
+	2023	002	CMPE 472	Computer Networks	CMPE 472_01	Department of Computer Engineering	2	0	2	3	6	Course	Emin Kuðu 	D030 A514-PC-L	Mo 16 - 18 Tu 15 - 17	66 	0 	0 	0 	2 	0,00 	 00001446 	
+	2023	002	CMPE 472	Computer Networks	CMPE 472_02	Department of Computer Engineering	2	0	2	3	6	Course	Emin Kuðu 	A514-PC-L D032	Tu 17 - 19 We 14 - 16	65 	0 	0 	0 	0 	0,00 	 00001446 	
+	2023	002	CMPE 490	Introduction to Research in Computer Eng	CMPE 490_01	Department of Computer Engineering	0	6	0	3	6	Course	Tolga Kurtuluþ Çapýn 		Mo 18 - 19	13 	0 	0 	0 	1 	0,00 	 00000244 	
+	2023	002	CMPE 491-O	Senior Project I	CMPE 491_01	Department of Computer Engineering	1	4	0	3	8	Course	Yücel Çimtay 		Tu 18 - 19	30 	0 	0 	0 	0 	0,00 	 00003890 	
+	2023	002	CMPE 492-O	Senior Project II	CMPE 492_01	Department of Computer Engineering	1	4	0	3	8	Course	Saiful Islam 		Tu 18 - 19	112 	0 	0 	0 	0 	0,00 	 00004842 	
+	2023	002	CMPE 499-O	Summer Practice II	CMPE 499_01	Department of Computer Engineering	1	0	0	1	2	Internship	Venera Adanova 		Fr 19 - 20	12 	0 	0 	0 	0 	0,00 	 00001814 	
+	2023	002	COM 250	Effective Communication Techniques	COM 250_01	Basic Sciences	3	0	0	3	5	Course	Esin Tarhan Över (S) 	G212	Tu 13 - 16	38 	0 	0 	0 	0 	0,00 	 00000334 (S) 	
+	2023	002	COM 250	Effective Communication Techniques	COM 250_02	Basic Sciences	3	0	0	3	5	Course	Esin Tarhan Över (S) 	GB05	Th 09 - 12	38 	0 	0 	0 	0 	0,00 	 00000334 (S) 	
+	2023	002	COM 250	Effective Communication Techniques	COM 250_03	Basic Sciences	3	0	0	3	5	Course	Esin Tarhan Över (S) 	GB05	Th 13 - 16	38 	0 	0 	0 	0 	0,00 	 00000334 (S) 	
+	2023	002	ECEP 102	Development in Early Childhood	ECEP 102_01	Early Childhood Education	3	0	0	3	5	Course	Adile Gülþah Saranlý 	GB10-PECE-L	Tu 14 - 16 Fr 15 - 17	3 	0 	0 	0 	0 	0,00 	 00000002 	
+	2023	002	ECEP 104	Development and Education in Infancy	ECEP 104_01	Early Childhood Education	2	0	0	2	5	Course	Adile Gülþah Saranlý 	GB10-PECE-L	Tu 14 - 16 Fr 15 - 17	1 	0 	0 	0 	0 	0,00 	 00000002 	
+	2023	002	ECEP 203	Mathematics Education in Early Childhood	ECEP 203_01	Early Childhood Education	3	0	0	3	5	Course	Fatma Yalçýn 	GB10-PECE-L	Fr 09 - 12	1 	0 	0 	0 	0 	0,00 	 00004802 	
+	2023	002	ECEP 204	Development and Education of Play in E.C	ECEP 204_01	Early Childhood Education	3	0	0	3	3	Course	Sühendan Semine Er 	GB10-PECE-L	We 11 - 13	5 	0 	0 	0 	0 	0,00 	 00000067 	
+	2023	002	ECEP 205	Curriculum in Early Childhood	ECEP 205_01	Early Childhood Education	3	0	0	3	5	Course	Çaðla Öneren Þendil 	GB10-PECE-L	Mo 09 - 12	4 	0 	0 	0 	0 	0,00 	 00001058 	
+	2023	002	ECEP 206	Drama in Early Childhood Education	ECEP 206_01	Early Childhood Education	2	0	0	2	3	Course	Elif Buldu 	GB10-PECE-L	Mo 14 - 17	1 	0 	0 	0 	0 	0,00 	 00002609 	
+	2023	002	ECEP 255	Traditional Games in Early Childhood Edu	ECEP 255_01	Early Childhood Education	2	0	0	2	4	Course	Melike Kandemir 	G205	Fr 15 - 17	10 	0 	0 	0 	0 	0,00 	 00004130 	
+	2023	002	ECEP 301	Art Education in Early Childhood	ECEP 301_01	Department of Elementary Education	3	0	0	3	4	Course	Elif Özcan (S) 	D126-EF-L	Th 09 - 12	1 	0 	0 	0 	0 	0,00 	 00004129 (S) 	
+	2023	002	ECEP 302	Environmental Education in E.C	ECEP 302_01	Early Childhood Education	3	0	0	3	5	Course	Mehmet Þen 	D126-EF-L	Mo 11 - 13	1 	0 	0 	0 	0 	0,00 	 00004404 	
+	2023	002	ECEP 304	Child Mental Health	ECEP 304_01	Early Childhood Education	3	0	0	3	5	Course	Çaðla Öneren Þendil 	GB10-PECE-L	Tu 09 - 12	2 	0 	0 	0 	0 	0,00 	 00001058 	
+	2023	002	ECEP 306	Early Childhood Literature	ECEP 306_01	Early Childhood Education	2	0	0	2	3	Course	Sühendan Semine Er 	GB10-PECE-L	We 13 - 15	1 	0 	0 	0 	0 	0,00 	 00000067 	
+	2023	002	ECEP 352	Early Childhood Education Across Nations	ECEP 352_01	Early Childhood Education	2	0	0	2	4	Course	Fatma Yalçýn 	GB10-PECE-L	Fr 13 - 15	6 	0 	0 	0 	0 	0,00 	 00004802 	
+	2023	002	ECEP 402	Policies in Early Childhood Education	ECEP 402_01	Early Childhood Education	3	0	0	3	4	Course	Melike Kandemir 	G113	Th 11 - 14	32 	0 	0 	0 	0 	0,00 	 00004130 	
+	2023	002	ECON 101	Economics I	ECON 101_01	Department of Economics	3	0	0	3	6	Course	Nazire Nergiz Dinçer 	D230 DB20	Tu 14 - 16 We 12 - 13 Fr 09 - 11	59 	0 	0 	0 	0 	0,00 	 00000051 	
+	2023	002	ECON 101	Economics I	ECON 101_02	Department of Economics	3	0	0	3	6	Course	Osman Berke Duvan (S) 	DB18 D030	Th 13 - 16 Fr 09 - 11	44 	0 	0 	0 	0 	0,00 	 00005815 (S) 	
+	2023	002	ECON 101-O	Economics I	ECON 101-O_1	Department of Economics	3	1	0	4	6	Course	Nazire Nergiz Dinçer 	D230 DB20	Tu 14 - 16 We 12 - 13 Fr 09 - 11	10 	0 	0 	0 	0 	0,00 	 00000051 	
+	2023	002	ECON 101-O	Economics I	ECON 101-O_2	Department of Economics	3	1	0	4	6	Course	Osman Berke Duvan (S) 	DB18 D030	Th 13 - 16 Fr 09 - 11	16 	0 	0 	0 	1 	0,00 	 00005815 (S) 	
+	2023	002	ECON 102	Economics II	ECON 102_01	Department of Economics	3	0	0	3	6	Course	Seyit Mümin Cýlasun 	DB16 D234	Tu 13 - 16 Fr 11 - 13	37 	0 	0 	0 	0 	0,00 	 00004038 	
+	2023	002	ECON 102	Economics II	ECON 102_02	Department of Economics	3	0	0	3	6	Course	Meltem Dayýoðlu Tayfur 	D228 D032	Tu 13 - 16 Fr 11 - 13	30 	0 	0 	0 	0 	0,00 	 00005658 	
+	2023	002	ECON 102	Economics II	ECON 102_03	Department of Economics	3	0	0	3	6	Course	Cavit Görkem Destan (S) 	D032 D030	Mo 11 - 12 Tu 11 - 13 Fr 11 - 13	14 	0 	0 	0 	0 	0,00 	 00005529 (S) 	
+	2023	002	ECON 102-O	Economics II	ECON 102-O_1	Department of Economics	3	1	0	4	6	Course	Seyit Mümin Cýlasun 	DB16 D234	Tu 13 - 16 Fr 11 - 13	22 	0 	0 	0 	0 	0,00 	 00004038 	
+	2023	002	ECON 102-O	Economics II	ECON 102-O_2	Department of Economics	3	1	0	4	6	Course	Meltem Dayýoðlu Tayfur 	D228 D032	Tu 13 - 16 Fr 11 - 13	18 	0 	0 	0 	1 	0,00 	 00005658 	
+	2023	002	ECON 102-O	Economics II	ECON 102-O_3	Department of Economics	3	1	0	4	6	Course	Cavit Görkem Destan (S) 	D032 D030	Mo 11 - 12 Tu 11 - 13 Fr 11 - 13	6 	0 	0 	0 	0 	0,00 	 00005529 (S) 	
+	2023	002	ECON 212	Microeconomics II	ECON 212_01	Department of Economics	3	1	0	3	6	Course	Ayça Tekin Koru 	D030	Tu 15 - 18 Fr 11 - 13	44 	0 	0 	0 	0 	0,00 	 00000006 	
+	2023	002	ECON 222	Macroeconomics II	ECON 222_01	Department of Economics	3	0	0	3	6	Course	Nazire Nergiz Dinçer 	D232 DB14	Tu 11 - 13 We 11 - 12	45 	0 	0 	0 	1 	0,00 	 00000051 	
+	2023	002	ECON 300	Summer Practice  I	ECON 300_01	Department of Economics	1	0	0	1	2	Internship	Nazire Nergiz Dinçer 		Fr 18 - 19	1 	0 	0 	0 	0 	0,00 	 00000051 	
+	2023	002	ECON 321	Advanced Macroeconomic Theory	ECON 321_01	Department of Economics	3	0	0	3	6	Course	Erdem Baþçý 	G213	Th 09 - 12	29 	0 	0 	0 	0 	0,00 	 00003902 	
+	2023	002	ECON 322	Development Economics	ECON 322_01	Department of Economics	3	0	0	3	6	Course	Jülide Yýldýrým Öcal 	K085	Tu 09 - 12	31 	0 	0 	0 	0 	0,00 	 00000173 	
+	2023	002	ECON 332	Econometrics II	ECON 332_01	Department of Economics	3	0	2	4	6	Course	Jülide Yýldýrým Öcal 	GB07-PC-L G105	Tu 13 - 15 We 13 - 16	35 	0 	0 	0 	0 	0,00 	 00000173 	
+	2023	002	ECON 370	Climate Policy and Green Transition	ECON 370_01	Department of Economics	3	0	0	3	6	Course	Arzu Önsal (S) 	G208	Th 13 - 16	40 	0 	0 	0 	1 	0,00 	 00005816 (S) 	
+	2023	002	ECON 400-O	Summer Practice II	ECON 400-O_1	Department of Economics	1	0	0	1	2	Internship	Nazire Nergiz Dinçer 		Fr 19 - 20	9 	0 	0 	0 	0 	0,00 	 00000051 	
+	2023	002	ECON 401	Research Methods	ECON 401_01	Department of Economics	3	0	0	3	7	Course	Kýymet Duygu Erdaþ 	G005	We 09 - 12	4 	0 	0 	0 	0 	0,00 	 00003102 	
+	2023	002	ECON 402	Graduation Paper and Seminar	ECON 402_01	Department of Economics	3	0	0	3	7	Course	Nazire Nergiz Dinçer 		We 18 - 21	5 	0 	0 	0 	0 	0,00 	 00000051 	
+	2023	002	ECON 402	Graduation Paper and Seminar	ECON 402_02	Department of Economics	3	0	0	3	7	Course	Erdem Baþçý 		We 18 - 21	5 	0 	0 	0 	0 	0,00 	 00003902 	
+	2023	002	ECON 402	Graduation Paper and Seminar	ECON 402_03	Department of Economics	3	0	0	3	7	Course	Jülide Yýldýrým Öcal 		We 18 - 21	4 	0 	0 	0 	0 	0,00 	 00000173 	
+	2023	002	ECON 402	Graduation Paper and Seminar	ECON 402_04	Department of Economics	3	0	0	3	7	Course	Meltem Dayýoðlu Tayfur 		We 18 - 21	1 	0 	0 	0 	0 	0,00 	 00005658 	
+	2023	002	ECON 402	Graduation Paper and Seminar	ECON 402_05	Department of Economics	3	0	0	3	7	Course	Cavit Görkem Destan (S) 		We 18 - 21	5 	0 	0 	0 	0 	0,00 	 00005529 (S) 	
+	2023	002	ECON 402	Graduation Paper and Seminar	ECON 402_06	Department of Economics	3	0	0	3	7	Course	Seyit Mümin Cýlasun 		We 18 - 21	3 	0 	0 	0 	0 	0,00 	 00004038 	
+	2023	002	ECON 406	Experimental Economics	ECON 406_01	Department of Economics	3	0	0	3	6	Course	Cavit Görkem Destan (S) 	GB07-PC-L	Mo 13 - 16	32 	0 	0 	0 	2 	0,00 	 00005529 (S) 	
+	2023	002	ECON 470	Environmental, Social, and Governance In	ECON 470_01	Department of Economics	3	0	0	3	6	Course	Iþýl Sevilay Yýlmaz 		Mo 16 - 19	38 	0 	0 	0 	0 	0,00 	 00000864 	
+	2023	002	ED 101	Educational Philosophy	ED 101_01	Department of Educational Sciences	3	0	0	3	5	Course	Tünay Özçelik (S) 	D226	Mo 11 - 13 Tu 13 - 14	49 	0 	0 	0 	0 	0,00 	 00001601 (S) 	
+	2023	002	ED 101	Educational Philosophy	ED 101_02	Department of Educational Sciences	3	0	0	3	5	Course	Tünay Özçelik (S) 	D226	Mo 13 - 15 Tu 14 - 15	47 	0 	0 	0 	0 	0,00 	 00001601 (S) 	
+	2023	002	ED 102	Educational Psychology	ED 102_01	Department of Educational Sciences	3	0	0	3	5	Course	Merih Uðurel Kamýþlý 	D226	Tu 09 - 11 Th 11 - 12	42 	0 	0 	0 	0 	0,00 	 00003364 	
+	2023	002	ED 102	Educational Psychology	ED 102_02	Department of Educational Sciences	3	0	0	3	5	Course	Merih Uðurel Kamýþlý 	D226	We 11 - 13 Th 12 - 13	51 	0 	0 	0 	0 	0,00 	 00003364 	
+	2023	002	ED 200	Educational Sociology	ED 200_01	Department of Educational Sciences	2	0	0	2	3	Course	Yeþer Torun 	F215	We 15 - 17	8 	0 	0 	0 	0 	0,00 	 00004834 	
+	2023	002	ED 201	Instructional Technologies	ED 201_01	Department of Educational Sciences	2	2	0	3	5	Course	Tülin Haþlaman 	GB07-PC-L	We 11 - 13 Fr 09 - 11	30 	0 	0 	0 	1 	0,00 	 00000320 	
+	2023	002	ED 201	Instructional Technologies	ED 201_02	Department of Educational Sciences	2	2	0	3	5	Course	Tülin Haþlaman 	GB07-PC-L	We 13 - 15 Fr 11 - 13	25 	0 	0 	0 	0 	0,00 	 00000320 	
+	2023	002	ED 203	Instructional Principles and Methods	ED 203_01	Department of Educational Sciences	2	2	0	3	5	Course	Tolga Erdoðan 	D226 D228	Mo 09 - 11 Tu 09 - 11	30 	0 	0 	0 	0 	0,00 	 00002542 	
+	2023	002	ED 203	Instructional Principles and Methods	ED 203_02	Department of Educational Sciences	2	2	0	3	5	Course	Sibel Akýn Sabuncu 	D232	Mo 11 - 13 Tu 13 - 15	18 	0 	0 	0 	1 	0,00 	 00001354 	
+	2023	002	ED 203	Instructional Principles and Methods	ED 203_03	Department of Educational Sciences	2	2	0	3	5	Course	Merih Uðurel Kamýþlý 	D226	We 09 - 11 Th 09 - 11	38 	0 	0 	0 	0 	0,00 	 00003364 	
+	2023	002	ED 210	History of Turkish Education	ED 210_01	Department of Educational Sciences	2	0	0	2	3	Course	Tolga Erdoðan 	G112	Mo 13 - 15	17 	0 	0 	0 	0 	0,00 	 00002542 	
+	2023	002	ED 220	Curriculum Development in Education	ED 220_01	Department of Educational Sciences	2	0	0	2	3	Course	Sibel Akýn Sabuncu 	D232	Mo 09 - 11	3 	0 	0 	0 	1 	0,00 	 00001354 	
+	2023	002	ED 230	Drama in Education	ED 230_01	Department of Educational Sciences	2	0	0	2	3	Course	Ozan Cihat Yalçýnkaya (S) 	D226	Th 13 - 15	40 	0 	0 	0 	0 	0,00 	 00003917 (S) 	
+	2023	002	ED 230	Drama in Education	ED 230_02	Department of Educational Sciences	2	0	0	2	3	Course	Ozan Cihat Yalçýnkaya (S) 	D226	Th 15 - 17	29 	0 	0 	0 	1 	0,00 	 00003917 (S) 	
+	2023	002	ED 260	Project Design in Education	ED 260_01	Department of Educational Sciences	2	0	0	2	3	Course	Þahin Ýdil (S) 	D226	Th 18 - 20	1 	0 	0 	0 	1 	0,00 	 00003921 (S) 	
+	2023	002	ED 260	Project Design in Education	ED 260_02	Department of Educational Sciences	2	0	0	2	3	Course	Sibel Akýn Sabuncu 	D232	We 09 - 11	3 	0 	0 	0 	0 	0,00 	 00001354 	
+	2023	002	ED 280	Adult Education and Lifelong Learning	ED 280_01	Department of Educational Sciences	2	0	0	2	3	Course	Nihan Uçar Sarýmanoðlu (S) 	G009	Th 11 - 13	21 	0 	0 	0 	0 	0,00 	 00001833 (S) 	
+	2023	002	ED 290	Sustainable Development and Education	ED 290_01	Department of Educational Sciences	2	0	0	2	3	Course	Mehmet Kesim (S) 	K183	Tu 09 - 11	40 	0 	0 	0 	1 	0,00 	 00002569 (S) 	
+	2023	002	ED 301	Measurement and Evaluation in Education	ED 301_01	Department of Educational Sciences	2	2	0	3	5	Course	Münevver Ýlgün Dibek 	D030 D226	Tu 13 - 15 We 13 - 15	40 	0 	0 	0 	0 	0,00 	 00001984 	
+	2023	002	ED 301	Measurement and Evaluation in Education	ED 301_02	Department of Educational Sciences	2	2	0	3	5	Course	Merve Þahin Kürþad 	G112	Mo 09 - 11 We 09 - 11	13 	0 	0 	0 	1 	0,00 	 00005018 	
+	2023	002	ED 301	Measurement and Evaluation in Education	ED 301_03	Department of Educational Sciences	2	2	0	3	5	Course	Merve Þahin Kürþad 	G112	Mo 11 - 13 We 11 - 13	38 	0 	0 	0 	0 	0,00 	 00005018 	
+	2023	002	ED 302	Research Methods in Education	ED 302_01	Department of Educational Sciences	2	2	0	3	5	Course	Münevver Ýlgün Dibek 	D230 D226	Mo 11 - 13 Tu 15 - 17	52 	0 	0 	0 	0 	0,00 	 00001984 	
+	2023	002	ED 302	Research Methods in Education	ED 302_02	Department of Educational Sciences	2	2	0	3	5	Course	Münevver Ýlgün Dibek 	D230	Mo 13 - 15 We 11 - 13	60 	0 	0 	0 	0 	0,00 	 00001984 	
+	2023	002	ED 350	21st Century Skills for Teachers	ED 350_01	Department of Educational Sciences	2	0	0	2	3	Course	Merve Þahin Kürþad 	G005	Tu 09 - 11	10 	0 	0 	0 	1 	0,00 	 00005018 	
+	2023	002	ED 360	New Media Literacy	ED 360_01	Department of Educational Sciences	2	0	0	2	3	Course	Mehmet Kesim (S) 	G108	Tu 13 - 15	43 	0 	0 	0 	0 	0,00 	 00002569 (S) 	
+	2023	002	ED 390	Turkish Education System	ED 390_01	Department of Educational Sciences	2	0	0	2	3	Course	Yeþer Torun 	G108	Tu 15 - 17	6 	0 	0 	0 	0 	0,00 	 00004834 	
+	2023	002	ED 400	Open and Distance Learning	ED 400_01	Department of Educational Sciences	2	0	0	2	3	Course	Mehmet Kesim (S) 	G108	Tu 11 - 13	40 	0 	0 	0 	0 	0,00 	 00002569 (S) 	
+	2023	002	EDUC 104	Educational Philosophy	EDUC 104_01	Department of Educational Sciences	2	0	0	2	3	Course	Tünay Özçelik (S) 	D226	Mo 11 - 13 Tu 13 - 14	1 	0 	0 	0 	0 	0,00 	 00001601 (S) 	
+	2023	002	EDUC 104	Educational Philosophy	EDUC 104_02	Department of Educational Sciences	2	0	0	2	3	Course	Tünay Özçelik (S) 	D226	Mo 13 - 15 Tu 14 - 15	2 	0 	0 	0 	0 	0,00 	 00001601 (S) 	
+	2023	002	EDUC 201	Instructional Principles and Methods	EDUC 201_02	Department of Educational Sciences	2	0	0	2	3	Course	Sibel Akýn Sabuncu 	D232	Mo 11 - 13 Tu 13 - 15	1 	0 	0 	0 	0 	0,00 	 00001354 	
+	2023	002	EDUC 202	History of Turkish Education	EDUC 202_01	Department of Educational Sciences	2	0	0	2	3	Course	Tolga Erdoðan 	G112	Mo 13 - 15	3 	0 	0 	0 	0 	0,00 	 00002542 	
+	2023	002	EDUC 204	Research Methods in Education	EDUC 204_01	Department of Educational Sciences	2	0	0	2	3	Course	Münevver Ýlgün Dibek 	D230 D226	Mo 11 - 13 Tu 15 - 17	3 	0 	0 	0 	0 	0,00 	 00001984 	
+	2023	002	EDUC 250	Adult Education and Lifelong Learning	EDUC 250_01	Department of Educational Sciences	2	0	0	2	4	Course	Nihan Uçar Sarýmanoðlu (S) 	G009	Th 11 - 13	4 	0 	0 	0 	0 	0,00 	 00001833 (S) 	
+	2023	002	EDUC 251	Open and Distance Education	EDUC 251_01	Department of Educational Sciences	2	0	0	2	4	Course	Mehmet Kesim (S) 	G108	Tu 11 - 13	1 	0 	0 	0 	0 	0,00 	 00002569 (S) 	
+	2023	002	EDUC 257	Drama in Education	EDUC 257_01	Department of Educational Sciences	2	0	0	2	4	Course	Ozan Cihat Yalçýnkaya (S) 	D226	Th 13 - 15	20 	0 	0 	0 	0 	0,00 	 00003917 (S) 	
+	2023	002	EDUC 257	Drama in Education	EDUC 257_02	Department of Educational Sciences	2	0	0	2	4	Course	Ozan Cihat Yalçýnkaya (S) 	D226	Th 15 - 17	27 	0 	0 	0 	0 	0,00 	 00003917 (S) 	
+	2023	002	EDUC 259	Curriculum Development in Education	EDUC 259_01	Department of Educational Sciences	2	0	0	2	4	Course	Sibel Akýn Sabuncu 	D232	Mo 09 - 11	22 	0 	0 	0 	1 	0,00 	 00001354 	
+	2023	002	EDUC 260	Project Design in Education	EDUC 260_01	Department of Educational Sciences	2	0	0	2	4	Course	Þahin Ýdil (S) 	D226	Th 18 - 20	29 	0 	0 	0 	0 	0,00 	 00003921 (S) 	
+	2023	002	EDUC 260	Project Design in Education	EDUC 260_02	Department of Educational Sciences	2	0	0	2	4	Course	Sibel Akýn Sabuncu 	D232	We 09 - 11	7 	0 	0 	0 	0 	0,00 	 00001354 	
+	2023	002	EDUC 301	Classroom Management	EDUC 301_01	Department of Educational Sciences	2	0	0	2	3	Course	Melike Kandemir 	D226	Fr 09 - 12	13 	0 	0 	0 	0 	0,00 	 00004130 	
+	2023	002	EDUC 302	Assessment and Evaluation in Education	EDUC 302_02	Department of Educational Sciences	2	0	0	2	3	Course	Merve Þahin Kürþad 	G112	Mo 09 - 11 We 09 - 11	4 	0 	0 	0 	0 	0,00 	 00005018 	
+	2023	002	EDUC 303	Morals and Ethics in Education	EDUC 303_01	Department of Educational Sciences	2	0	0	2	3	Course	Tolga Erdoðan 	G006	Tu 11 - 13	6 	0 	0 	0 	0 	0,00 	 00002542 	
+	2023	002	EDUC 354	Museum Education	EDUC 354_01	Department of Educational Sciences	2	0	0	2	4	Course	Elif Özcan (S) 	D032	Th 15 - 17	78 	0 	0 	0 	0 	0,00 	 00004129 (S) 	
+	2023	002	EDUC 358	Sustainable Development and Education	EDUC 358_01	Department of Educational Sciences	2	0	0	2	4	Course	Mehmet Kesim (S) 	K183	Tu 09 - 11	27 	0 	0 	0 	0 	0,00 	 00002569 (S) 	
+	2023	002	EDUC 401	Teaching Practice 1 (ELEP)	EDUC 401_01	Department of Educational Sciences	2	6	0	5	10	Course	Arzu Kanat Mutluoðlu 	F117	Mo 13 - 19 Fr 16 - 18	7 	0 	0 	0 	0 	0,00 	 00003047 	
+	2023	002	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_01	Department of Educational Sciences	2	6	0	5	15	Course	Ufuk Balaman 	F115	Mo 13 - 19 Fr 09 - 11	11 	0 	0 	0 	0 	0,00 	 00005531 	
+	2023	002	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_02	Department of Educational Sciences	2	6	0	5	15	Course	Semih Ekin 	F212	Mo 13 - 19 Fr 09 - 11	12 	0 	0 	0 	0 	0,00 	 00005642 	
+	2023	002	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_03	Department of Educational Sciences	2	6	0	5	15	Course	Melike Ünal Gezer 	F204	Mo 13 - 19 Fr 09 - 11	8 	0 	0 	0 	0 	0,00 	 00001712 	
+	2023	002	EDUC 402	Teaching Practice 2 (ELEP)	EDUC 402_04	Department of Educational Sciences	2	6	0	5	15	Course	Erdem Aksoy 	F206	Mo 13 - 19 Fr 09 - 11	12 	0 	0 	0 	0 	0,00 	 00000326 	
+	2023	002	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_01	Department of Educational Sciences	2	6	0	5	12	Course	Çiðdem Alkaþ Ulusoy 	G101	Tu 09 - 15 We 14 - 16	10 	0 	0 	0 	0 	0,00 	 00002095 	
+	2023	002	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_02	Department of Educational Sciences	2	6	0	5	12	Course	Elçin Emre Akdoðan 	F206	Mo 16 - 18 Tu 09 - 15	10 	0 	0 	0 	0 	0,00 	 00001828 	
+	2023	002	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_03	Department of Educational Sciences	2	6	0	5	12	Course	Emine Gül Çelebi 	F214	Tu 09 - 15 We 12 - 14	9 	0 	0 	0 	0 	0,00 	 00003016 	
+	2023	002	EDUC 404	Teaching Practice 2 (MATE)	EDUC 404_04	Department of Educational Sciences	2	6	0	5	12	Course	Gizem Güzeller 	G101	Tu 09 - 15 Fr 10 - 12	9 	0 	0 	0 	0 	0,00 	 00001048 	
+	2023	002	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_01	Department of Educational Sciences	2	6	0	5	15	Course	Fatma Yalçýn 	GB10-PECE-L	We 09 - 15 We 16 - 18	8 	0 	0 	0 	0 	0,00 	 00004802 	
+	2023	002	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_02	Department of Educational Sciences	2	6	0	5	15	Course	Elif Buldu 		We 09 - 15 We 16 - 18	7 	0 	0 	0 	0 	0,00 	 00002609 	
+	2023	002	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_03	Department of Educational Sciences	2	6	0	5	15	Course	Çaðla Öneren Þendil 		We 16 - 18 We 09 - 15	8 	0 	0 	0 	0 	0,00 	 00001058 	
+	2023	002	EDUC 406	Teaching Practice 2 (ECEP)	EDUC 406_04	Department of Educational Sciences	2	6	0	5	15	Course	Melike Kandemir 		We 16 - 18 We 09 - 15	8 	0 	0 	0 	0 	0,00 	 00004130 	
+	2023	002	EDUC 408	Teaching Practice 2 (EGEP)	EDUC 408_01	Department of Educational Sciences	2	6	0	5	12	Course	Berrin Genç Ersoy 	F115	Mo 09 - 15 We 15 - 17	9 	0 	0 	0 	0 	0,00 	 00001062 	
+	2023	002	EDUC 408	Teaching Practice 2 (EGEP)	EDUC 408_02	Department of Educational Sciences	2	6	0	5	12	Course	Kübra Çelikdemir 	F204	Mo 09 - 15 We 15 - 16 We 16 - 17	9 	0 	0 	0 	0 	0,00 	 00003248 	
+	2023	002	EDUC 409	Special Education and Inclusion	EDUC 409_01	Department of Educational Sciences	2	0	0	2	3	Course	Tünay Özçelik (S) 	D226	Tu 11 - 13	26 	0 	0 	0 	0 	0,00 	 00001601 (S) 	
+	2023	002	EDUC 410	Counseling in Schools	EDUC 410_01	Department of Educational Sciences	2	0	0	2	3	Course	Selin Onaylý 	D026	Th 12 - 14	29 	0 	0 	0 	0 	0,00 	 00002607 	
+	2023	002	EDUC 411	Practicum of Counseling in Schools 1	EDUC 411_01	Department of Educational Sciences	2	6	0	5	10	Course	Fatma Zehra Ünlü Kaynakçý 	F104-PSCG-L	Tu 09 - 15 Th 16 - 18	4 	0 	0 	0 	0 	0,00 	 00004120 	
+	2023	002	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_01	Department of Educational Sciences	2	6	0	5	10	Course	Kürþad Demirutku 	F106-PSCG-L	Tu 09 - 15 Th 16 - 18	11 	0 	0 	0 	0 	0,00 	 00001134 	
+	2023	002	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_02	Department of Educational Sciences	2	6	0	5	10	Course	Sýdýka Burcu Üçok 	F112-PSCG-L	Tu 09 - 15 Th 16 - 18	12 	0 	0 	0 	0 	0,00 	 00003224 	
+	2023	002	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_03	Department of Educational Sciences	2	6	0	5	10	Course	Selin Onaylý 	F114-PSCG-L	Tu 09 - 15 Th 16 - 18	12 	0 	0 	0 	0 	0,00 	 00002607 	
+	2023	002	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_04	Department of Educational Sciences	2	6	0	5	10	Course	Nergis Hazal Yýlmaztürk 	F117	Tu 09 - 15 Th 16 - 18	12 	0 	0 	0 	0 	0,00 	 00000509 	
+	2023	002	EDUC 412	Practicum of Counseling in Schools 2	EDUC 412_05	Department of Educational Sciences	2	6	0	5	10	Course	Ayþegül Aracý Ýyiaydýn 	F206	Tu 09 - 15 Th 16 - 18	12 	0 	0 	0 	0 	0,00 	 00000845 	
+	2023	002	EE 202	Circuit Theory II	EE 202_01	Dept.of Electric&Electronics Engineering	3	0	2	4	8	Course	Serkan Þahin 	G003 A317-MF-L	Tu 09 - 11 We 11 - 12 Th 09 - 11	21 	0 	0 	0 	0 	0,00 	 00004098 	
+	2023	002	EE 207	Electrical Circuits and Logic Design	EE 207_01	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Javad Haghighat 	G103 A311-PC-L	Th 09 - 11 Fr 15 - 17	22 	0 	0 	0 	0 	0,00 	 00004595 	
+	2023	002	EE 207	Electrical Circuits and Logic Design	EE 207_02	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Javad Haghighat 	A311-PC-L G103	Th 15 - 17 Fr 10 - 12	24 	0 	0 	0 	0 	0,00 	 00004595 	
+	2023	002	EE 207	Electrical Circuits and Logic Design	EE 207_03	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Kurtuluþ Erinç Akdoðan 	G006 A311-PC-L	Th 09 - 11 Fr 13 - 15	22 	0 	0 	0 	0 	0,00 	 00005011 	
+	2023	002	EE 207	Electrical Circuits and Logic Design	EE 207_04	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Kurtuluþ Erinç Akdoðan 	A311-PC-L G108	Mo 15 - 17 Fr 10 - 12	22 	0 	0 	0 	2 	0,00 	 00005011 	
+	2023	002	EE 222	Digital Logic Design	EE 222_01	Dept.of Electric&Electronics Engineering	2	0	2	3	6	Course	Muhsin Caner Gökçe 	G108 A311-PC-L	We 09 - 11 Th 13 - 15	19 	0 	0 	0 	1 	0,00 	 00001983 	
+	2023	002	EE 252	Microelectronic Devices and Circuits	EE 252_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Çiçek Hatice Boztuð Yerci 	G009	Mo 09 - 11 Tu 13 - 14	24 	0 	0 	0 	2 	0,00 	 00000252 	
+	2023	002	EE 304	Probability and Random Variables	EE 304_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Hüseyin Uður Yýldýz 	G205	Mo 14 - 16 Tu 14 - 15	31 	0 	0 	0 	0 	0,00 	 00000843 	
+	2023	002	EE 312	Communication Systems I	EE 312_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Javad Haghighat 	G103	Th 13 - 15 Fr 12 - 13	27 	0 	0 	0 	0 	0,00 	 00004595 	
+	2023	002	EE 332	Feedback Control Systems	EE 332_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Aykut Yýldýz 	G009 G205	Mo 16 - 17 Tu 15 - 17	27 	0 	0 	0 	0 	0,00 	 00001038 	
+	2023	002	EE 342	Electromagnetic Theory II	EE 342_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Erdem Yazgan 	G205 K184	Mo 13 - 14 Tu 09 - 11	26 	0 	0 	0 	1 	0,00 	 00000309 	
+	2023	002	EE 399-O	Summer Practice I	EE 399_01	Dept.of Electric&Electronics Engineering	1	0	0	1	2	Internship	Aykut Yýldýz 		We 19 - 20	2 	0 	0 	0 	0 	0,00 	 00001038 	
+	2023	002	EE 416	Optical Communications	EE 416_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Muhsin Caner Gökçe 	G203 G010	Tu 13 - 14 We 12 - 14	32 	0 	0 	0 	0 	0,00 	 00001983 	
+	2023	002	EE 418	Optoelectronics	EE 418_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Çiçek Hatice Boztuð Yerci 	G201	Tu 09 - 12	7 	0 	0 	0 	0 	0,00 	 00000252 	
+	2023	002	EE 444	Antenna Engineering	EE 444_01	Dept.of Electric&Electronics Engineering	2	0	2	3	5	Course	Erdem Yazgan 	G205 A326-MF-L	Mo 11 - 13 We 10 - 12	8 	0 	0 	0 	0 	0,00 	 00000309 	
+	2023	002	EE 454	Microprocessors	EE 454_01	Dept.of Electric&Electronics Engineering	2	0	2	3	5	Course	Kurtuluþ Erinç Akdoðan 	A311-PC-L G103	Mo 09 - 11 Fr 13 - 15	15 	0 	0 	0 	0 	0,00 	 00005011 	
+	2023	002	EE 464	Power System Protection	EE 464_01	Dept.of Electric&Electronics Engineering	3	0	0	3	5	Course	Ali Nezih Güven 	G005	Fr 09 - 12	13 	0 	0 	0 	0 	0,00 	 00005782 	
+	2023	002	EE 491	Senior Project I	EE 491_01	Dept.of Electric&Electronics Engineering	1	0	4	3	7	Course	Çiçek Hatice Boztuð Yerci 		We 18 - 19 Fr 18 - 22	6 	0 	0 	0 	0 	0,00 	 00000252 	
+	2023	002	EE 492-O	Senior Project II	EE 492_01	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Aykut Yýldýz 		We 18 - 19 Fr 18 - 22	8 	0 	0 	0 	0 	0,00 	 00001038 	
+	2023	002	EE 492-O	Senior Project II	EE 492_02	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Erdem Yazgan 		We 18 - 19 Fr 18 - 22	7 	0 	0 	0 	0 	0,00 	 00000309 	
+	2023	002	EE 492-O	Senior Project II	EE 492_03	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Hüseyin Uður Yýldýz 		We 18 - 19 Fr 18 - 22	8 	0 	0 	0 	0 	0,00 	 00000843 	
+	2023	002	EE 492-O	Senior Project II	EE 492_04	Dept.of Electric&Electronics Engineering	1	0	4	3	10	Course	Serkan Þahin 		We 18 - 19 Fr 18 - 22	7 	0 	0 	0 	0 	0,00 	 00004098 	
+	2023	002	EE 499-O	Summer Practice II	EE 499_01	Dept.of Electric&Electronics Engineering	1	0	0	1	2	Internship	Hüseyin Uður Yýldýz 		We 20 - 21	2 	0 	0 	0 	0 	0,00 	 00000843 	
+	2023	002	EGEP 251	Children#s Literature	EGEP 251_01	Primary Education	2	0	0	2	4	Course	Sühendan Semine Er 	GB10-PECE-L	We 13 - 15	7 	0 	0 	0 	0 	0,00 	 00000067 	
+	2023	002	EGEP 302	Social Studies Education	EGEP 302_01	Primary Education	3	0	0	3	5	Course	Esra Özcan 	G212	We 13 - 15 Th 13 - 15	1 	0 	0 	0 	0 	0,00 	 00004127 	
+	2023	002	EGEP 350	Inclusive Language Teaching	EGEP 350_01	Primary Education	2	0	0	2	4	Course	Berrin Genç Ersoy 	F115	We 13 - 15	2 	0 	0 	0 	0 	0,00 	 00001062 	
+	2023	002	EGEP 355	Traditional Child Games	EGEP 355_01	Primary Education	2	0	0	2	4	Course	Melike Kandemir 	G205	Fr 15 - 17	4 	0 	0 	0 	0 	0,00 	 00004130 	
+	2023	002	EGEP 402	Character and Values Education	EGEP 402_01	Primary Education	2	0	0	2	3	Course	Esra Özcan 	D126-EF-L	We 11 - 13	16 	0 	0 	0 	0 	0,00 	 00004127 	
+	2023	002	EGEP 404	Art Education	EGEP 404_01	Department of Elementary Education	3	0	0	3	4	Course	Elif Özcan (S) 	D126-EF-L	Th 09 - 12	12 	0 	0 	0 	0 	0,00 	 00004129 (S) 	
+	2023	002	ELEP 110	Structure of English	ELEP 110_01	English Language Education	2	0	0	2	2	Course	Arzu Kanat Mutluoðlu 	D230 D232	Mo 09 - 11 Tu 09 - 11	1 	0 	0 	0 	1 	0,00 	 00003047 	
+	2023	002	ELEP 110	Structure of English	ELEP 110_02	English Language Education	2	0	0	2	2	Course	Arzu Kanat Mutluoðlu 	D228	Tu 16 - 18 Fr 14 - 16	2 	0 	0 	0 	0 	0,00 	 00003047 	
+	2023	002	ELEP 201	Approaches in Eng.Lang.Learn. and Teach.	ELEP 201_01	English Language Education	2	0	0	2	3	Course	Gülsev Pakkan 	G212 D126-EF-L	Tu 11 - 12 We 16 - 18	4 	0 	0 	0 	0 	0,00 	 00004882 	
+	2023	002	ELEP 201	Approaches in Eng.Lang.Learn. and Teach.	ELEP 201_02	English Language Education	2	0	0	2	3	Course	Arzu Þarlanoðlu Vural (S) 	D126-EF-L	We 13 - 16	1 	0 	0 	0 	1 	0,00 	 00001817 (S) 	
+	2023	002	ELEP 203	Linguistics 1	ELEP 203_01	English Language Education	2	0	0	2	3	Course	Mehmet Sak 	G105	We 09 - 12	6 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELEP 203	Linguistics 1	ELEP 203_02	English Language Education	2	0	0	2	3	Course	Mehmet Sak 	G205	Th 09 - 12	1 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELEP 204	Linguistics 2	ELEP 204_01	English Language Education	2	0	0	2	3	Course	Melike Ünal Gezer 	GB05	We 15 - 17	2 	0 	0 	0 	0 	0,00 	 00001712 	
+	2023	002	ELEP 207	English Literature 1	ELEP 207_01	English Language Education	2	0	0	2	4	Course	Taner Can 	K085	We 12 - 15	5 	0 	0 	0 	0 	0,00 	 00001506 	
+	2023	002	ELEP 250	Language and Society	ELEP 250_01	English Language Education	2	0	0	2	4	Course	Semih Ekin 	G103	Fr 15 - 17	18 	0 	0 	0 	0 	0,00 	 00005642 	
+	2023	002	ELEP 252	Pragmatics and Language Teaching	ELEP 252_01	English Language Education	2	0	0	2	4	Course	Mehmet Sak 	D126-EF-L	Tu 13 - 15	33 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELEP 255	Material Design in ELT	ELEP 255_01	English Language Education	2	0	0	2	4	Course	Mehmet Sak 	G113	Tu 12 - 13 Th 15 - 19	3 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELEP 302	Teaching Foreign Lang. to Young Learn. 2	ELEP 302_01	English Language Education	3	0	0	3	5	Course	Semih Ekin 	D230 G105	Mo 15 - 17 Th 13 - 15	8 	0 	0 	0 	0 	0,00 	 00005642 	
+	2023	002	ELEP 302	Teaching Foreign Lang. to Young Learn. 2	ELEP 302_02	English Language Education	3	0	0	3	5	Course	Semih Ekin 	G103	Tu 15 - 17 Th 11 - 13	9 	0 	0 	0 	0 	0,00 	 00005642 	
+	2023	002	ELEP 304	Teaching English Language Skills 2	ELEP 304_01	English Language Education	3	0	0	3	5	Course	Belgin Elmas 	D232	Mo 15 - 17 Th 11 - 13	8 	0 	0 	0 	0 	0,00 	 00002104 	
+	2023	002	ELEP 304	Teaching English Language Skills 2	ELEP 304_02	English Language Education	3	0	0	3	5	Course	Elif Burhan Horasanlý 	G105 G113	Mo 15 - 17 Fr 15 - 17	14 	0 	0 	0 	0 	0,00 	 00005014 	
+	2023	002	ELEP 306	Teaching of Language and Literature 2	ELEP 306_02	English Language Education	2	0	0	2	3	Course	Mehmet Sak 	G205	Th 09 - 12	5 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELEP 353	Sociolinguistics and Language Teaching	ELEP 353_01	English Language Education	2	0	0	2	4	Course	Melike Ünal Gezer 	GB05	We 15 - 17	14 	0 	0 	0 	0 	0,00 	 00001712 	
+	2023	002	ELEP 355	Teaching Integrated Language Skills	ELEP 355_01	English Language Education	2	0	0	2	4	Course	Arzu Kanat Mutluoðlu 	G009	Mo 11 - 13	7 	0 	0 	0 	0 	0,00 	 00003047 	
+	2023	002	ELEP 401	Instructional Design in ELT	ELEP 401_01	English Language Education	3	0	0	3	3	Course	Ufuk Balaman 	G203 G212	Th 09 - 11 Fr 13 - 15	3 	0 	0 	0 	0 	0,00 	 00005531 	
+	2023	002	ELEP 401	Instructional Design in ELT	ELEP 401_02	English Language Education	3	0	0	3	3	Course	Ufuk Balaman 	G205 GB05	Th 16 - 18 Fr 11 - 13	2 	0 	0 	0 	0 	0,00 	 00005531 	
+	2023	002	ELEP 402	Testing in English Lang.Teaching (ELT)	ELEP 402_01	English Language Education	3	0	0	3	4	Course	Erdem Aksoy 	GB05	We 12 - 15	30 	0 	0 	0 	0 	0,00 	 00000326 	
+	2023	002	ELEP 402	Testing in English Lang.Teaching (ELT)	ELEP 402_02	English Language Education	3	0	0	3	4	Course	Erdem Aksoy 	G112	Th 09 - 12	19 	0 	0 	0 	0 	0,00 	 00000326 	
+	2023	002	ELEP 403	Translation	ELEP 403_01	English Language Education	3	0	0	3	3	Course	Mehmet Sak 	G105	We 09 - 12	2 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELEP 411	Instructional Design in ELT	ELEP 411_02	English Language Education	3	0	0	3	5	Course	Ufuk Balaman 	G205 GB05	Th 16 - 18 Fr 11 - 13	3 	0 	0 	0 	0 	0,00 	 00005531 	
+	2023	002	ELEP 412	Testing in Eng. Lang. Teac. (ELT)	ELEP 412_01	English Language Education	3	0	0	3	5	Course	Erdem Aksoy 	GB05	We 12 - 15	7 	0 	0 	0 	0 	0,00 	 00000326 	
+	2023	002	ELEP 412	Testing in Eng. Lang. Teac. (ELT)	ELEP 412_02	English Language Education	3	0	0	3	5	Course	Erdem Aksoy 	G112	Th 09 - 12	11 	0 	0 	0 	0 	0,00 	 00000326 	
+	2023	002	ELEP 413	Translation	ELEP 413_01	English Language Education	3	0	0	3	5	Course	Mehmet Sak 	G105	We 09 - 12	6 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELL 102	History of English Literature II	ELL 102_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Melike Ýrem Alhas 	D228	Mo 14 - 17	44 	0 	0 	0 	0 	0,00 	 00001505 	
+	2023	002	ELL 102	History of English Literature II	ELL 102_02	Dep. of English Language and Literature	3	0	0	3	6	Course	Rukiye Aslýhan Aksoy Sheridan 	K085	Mo 14 - 17	17 	0 	0 	0 	0 	0,00 	 00000569 	
+	2023	002	ELL 104	Research Methods in the Humanities	ELL 104_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Melike Ýrem Alhas 	H007/009-PC	We 09 - 12	40 	0 	0 	0 	0 	0,00 	 00001505 	
+	2023	002	ELL 104	Research Methods in the Humanities	ELL 104_02	Dep. of English Language and Literature	3	0	0	3	6	Course	Melike Ýrem Alhas 	GB13-PC-L	We 14 - 17	21 	0 	0 	0 	0 	0,00 	 00001505 	
+	2023	002	ELL 202	Survey of English Literature II	ELL 202_01	Dep. of English Language and Literature	3	0	0	3	8	Course	Melike Ýrem Alhas 	K184	Mo 09 - 12	29 	0 	0 	0 	0 	0,00 	 00001505 	
+	2023	002	ELL 204	Introduction to Fiction	ELL 204_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Taner Can 	K085	We 12 - 15	22 	0 	0 	0 	2 	0,00 	 00001506 	
+	2023	002	ELL 204-O	Introduction to Fiction	ELL 204-O_01	Dep. of English Language and Literature	3	0	0	3	7	Course	Taner Can 		We 12 - 15	30 	0 	0 	0 	1 	0,00 	 00001506 	
+	2023	002	ELL 212	Perspectives in Cultural Studies	ELL 212_01	Dep. of English Language and Literature	3	2	0	4	8	Course	Taner Can 		Tu 12 - 15	26 	0 	0 	0 	0 	0,00 	 00001506 	
+	2023	002	ELL 212-N	Perspectives in Cultural Studies	ELL 212-N_01	Dep. of English Language and Literature	3	0	0	3	7	Course	Taner Can 	K084	Tu 12 - 15	26 	0 	0 	0 	3 	0,00 	 00001506 	
+	2023	002	ELL 214	Gothic	ELL 214_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Baþak Aðýn 	G112	Tu 09 - 12	41 	0 	0 	0 	0 	0,00 	 00003869 	
+	2023	002	ELL 302	Shakespeare I	ELL 302_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Michael Douglas Sheridan 	G108	Mo 12 - 15	48 	0 	0 	0 	0 	0,00 	 00001400 	
+	2023	002	ELL 304-O	Modern and Contemporary English Poetry	ELL 304-O_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Oliver David Bevington 	K085	Tu 15 - 18	43 	0 	0 	0 	0 	0,00 	 00004941 	
+	2023	002	ELL 316	Satire	ELL 316_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Michael Douglas Sheridan 	G205	Fr 12 - 15	35 	0 	0 	0 	1 	0,00 	 00001400 	
+	2023	002	ELL 318	Creative Writing	ELL 318_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Oliver David Bevington 	G005	Th 14 - 17	26 	0 	0 	0 	0 	0,00 	 00004941 	
+	2023	002	ELL 404	Adaptation Studies	ELL 404_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Baþak Aðýn 	G112	Fr 11 - 14	36 	0 	0 	0 	1 	0,00 	 00003869 	
+	2023	002	ELL 406-O	Graduation Project	ELL 406-O_01	Dep. of English Language and Literature	3	4	0	5	10	Course	Melike Ýrem Alhas 		Fr 18 - 21	7 	0 	0 	0 	1 	0,00 	 00001505 	
+	2023	002	ELL 406-O	Graduation Project	ELL 406-O_02	Dep. of English Language and Literature	3	4	0	5	10	Course	Taner Can 		Fr 18 - 21	2 	0 	0 	0 	0 	0,00 	 00001506 	
+	2023	002	ELL 406-O	Graduation Project	ELL 406-O_03	Dep. of English Language and Literature	3	4	0	5	10	Course	Baþak Aðýn 		Fr 18 - 21	4 	0 	0 	0 	0 	0,00 	 00003869 	
+	2023	002	ELL 406-O	Graduation Project	ELL 406-O_04	Dep. of English Language and Literature	3	4	0	5	10	Course	Michael Douglas Sheridan 		Fr 18 - 21	3 	0 	0 	0 	0 	0,00 	 00001400 	
+	2023	002	ELL 406-O	Graduation Project	ELL 406-O_05	Dep. of English Language and Literature	3	4	0	5	10	Course	Þule Akdoðan Kýlýnç 		Fr 18 - 21	7 	0 	0 	0 	0 	0,00 	 00003253 	
+	2023	002	ELL 406-O	Graduation Project	ELL 406-O_06	Dep. of English Language and Literature	3	4	0	5	10	Course	Oliver David Bevington 		Fr 18 - 21	5 	0 	0 	0 	0 	0,00 	 00004941 	
+	2023	002	ELL 408	Comparative Literature	ELL 408_01	Dep. of English Language and Literature	3	0	0	3	6	Course	Baþak Aðýn 	G113	We 11 - 14	34 	0 	0 	0 	0 	0,00 	 00003869 	
+	2023	002	ELT 102	Practicum 1	ELT 102_01	English Language Education	1	4	0	3	6	Course	Gülsev Pakkan 	G212	Tu 12 - 13 Fr 09 - 13	21 	0 	0 	0 	0 	0,00 	 00004882 	
+	2023	002	ELT 102	Practicum 1	ELT 102_02	English Language Education	1	4	0	3	6	Course	Zeynep Bilki 	D232	Th 13 - 14 Fr 09 - 13	20 	0 	0 	0 	0 	0,00 	 00000882 	
+	2023	002	ELT 102	Practicum 1	ELT 102_03	English Language Education	1	4	0	3	6	Course	Elif Burhan Horasanlý 	G113	Fr 17 - 18 Fr 09 - 13	22 	0 	0 	0 	0 	0,00 	 00005014 	
+	2023	002	ELT 104	Approaches in English Language Teaching	ELT 104_01	English Language Education	3	0	0	3	4	Course	Gülsev Pakkan 	G212 D126-EF-L	Tu 11 - 12 We 16 - 18	27 	0 	0 	0 	0 	0,00 	 00004882 	
+	2023	002	ELT 104	Approaches in English Language Teaching	ELT 104_02	English Language Education	3	0	0	3	4	Course	Arzu Þarlanoðlu Vural (S) 	D126-EF-L	We 13 - 16	37 	0 	0 	0 	0 	0,00 	 00001817 (S) 	
+	2023	002	ELT 106	Linguistics	ELT 106_01	English Language Education	3	0	0	3	5	Course	Mehmet Sak 	G105	We 09 - 12	32 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELT 106	Linguistics	ELT 106_02	English Language Education	3	0	0	3	5	Course	Mehmet Sak 	G205	Th 09 - 12	31 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELT 108	Teaching Grammar	ELT 108_01	English Language Education	2	2	0	3	5	Course	Arzu Kanat Mutluoðlu 	D230 D232	Mo 09 - 11 Tu 09 - 11	43 	0 	0 	0 	1 	0,00 	 00003047 	
+	2023	002	ELT 108	Teaching Grammar	ELT 108_02	English Language Education	2	2	0	3	5	Course	Arzu Kanat Mutluoðlu 	D228	Tu 16 - 18 Fr 14 - 16	25 	0 	0 	0 	0 	0,00 	 00003047 	
+	2023	002	ELT 200	Observation at Different Edu. Levels	ELT 200_01	English Language Education	1	4	0	3	6	Course	Mehmet Sak 	G113	Tu 12 - 13 Th 15 - 19	20 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELT 200	Observation at Different Edu. Levels	ELT 200_02	English Language Education	1	4	0	3	6	Course	Mehmet Sak 	F206	Tu 12 - 13 Th 15 - 19	19 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELT 202	Teaching English to Young Learners 2	ELT 202_01	English Language Education	2	2	0	3	8	Course	Semih Ekin 	D230 G105	Mo 15 - 17 Th 13 - 15	15 	0 	0 	0 	0 	0,00 	 00005642 	
+	2023	002	ELT 202	Teaching English to Young Learners 2	ELT 202_02	English Language Education	2	2	0	3	8	Course	Semih Ekin 	G103	Tu 15 - 17 Th 11 - 13	33 	0 	0 	0 	1 	0,00 	 00005642 	
+	2023	002	ELT 230	Teaching Integrated Skills	ELT 230_01	English Language Education	2	0	0	2	4	Course	Arzu Kanat Mutluoðlu 	G009	Mo 11 - 13	9 	0 	0 	0 	0 	0,00 	 00003047 	
+	2023	002	ELT 260	Psychology of Language Learning&Teaching	ELT 260_01	English Language Education	2	0	0	2	4	Course	Mehmet Sak 	D126-EF-L	Tu 13 - 15	3 	0 	0 	0 	0 	0,00 	 00001457 	
+	2023	002	ELT 290	Sustainable Development in ELT	ELT 290_01	English Language Education	2	0	0	2	4	Course	Semih Ekin 	G103	Fr 15 - 17	3 	0 	0 	0 	0 	0,00 	 00005642 	
+	2023	002	ELT 302	Teaching Listening Skills	ELT 302_01	English Language Education	2	2	0	3	6	Course	Belgin Elmas 	D232	Mo 15 - 17 Th 11 - 13	10 	0 	0 	0 	0 	0,00 	 00002104 	
+	2023	002	ELT 302	Teaching Listening Skills	ELT 302_02	English Language Education	2	2	0	3	6	Course	Elif Burhan Horasanlý 	G105 G113	Mo 15 - 17 Fr 15 - 17	29 	0 	0 	0 	0 	0,00 	 00005014 	
+	2023	002	ELT 304	Materials Adaptation & Evaluation in ELT	ELT 304_01	English Language Education	2	2	0	3	8	Course	Ufuk Balaman 	G203 G212	Th 09 - 11 Fr 13 - 15	22 	0 	0 	0 	0 	0,00 	 00005531 	
+	2023	002	ELT 304	Materials Adaptation & Evaluation in ELT	ELT 304_02	English Language Education	2	2	0	3	8	Course	Ufuk Balaman 	G205 GB05	Th 16 - 18 Fr 11 - 13	17 	0 	0 	0 	1 	0,00 	 00005531 	
+	2023	002	ELT 402	Practice Teaching 2	ELT 402_01	English Language Education	2	6	0	5	10	Course	Ufuk Balaman 	F115	Mo 13 - 19 Fr 09 - 11	1 	0 	0 	0 	0 	0,00 	 00005531 	
+	2023	002	EMT 102	Practicum 1	EMT 102_01	Mathematics Education	1	4	0	3	6	Course	Elif Medetoðullarý 	G009	Mo 09 - 13 Th 10 - 11	20 	0 	0 	0 	0 	0,00 	 00002573 	
+	2023	002	EMT 102	Practicum 1	EMT 102_02	Mathematics Education	1	4	0	3	6	Course	Gizem Güzeller 		Mo 09 - 13 Th 10 - 11	19 	0 	0 	0 	0 	0,00 	 00001048 	
+	2023	002	EMT 104	Calculus 2	EMT 104_01	Mathematics Education	3	2	0	4	6	Course	Elif Medetoðullarý 	G213 G005	Tu 14 - 16 We 09 - 11 Th 13 - 14	31 	0 	0 	0 	0 	0,00 	 00002573 	
+	2023	002	EMT 106	Basic Geometry	EMT 106_01	Mathematics Education	3	0	0	3	5	Course	Elif Medetoðullarý 	G113 G009	We 14 - 16 Th 09 - 10	37 	0 	0 	0 	0 	0,00 	 00002573 	
+	2023	002	EMT 108	History of Mathematics	EMT 108_01	Mathematics Education	2	0	0	2	3	Course	Þeyma Pekgöz (S) 	G213	Tu 12 - 14	37 	0 	0 	0 	0 	0,00 	 00005808 (S) 	
+	2023	002	EMT 202	Mathematics Teaching 1	EMT 202_01	Mathematics Education	2	2	0	3	8	Course	Çiðdem Alkaþ Ulusoy 	G003	We 12 - 14 Th 09 - 11	26 	0 	0 	0 	0 	0,00 	 00002095 	
+	2023	002	EMT 204	Materials Design in Mathematics Educ.	EMT 204_01	Mathematics Education	2	2	0	3	7	Course	Zerrin Toker 	D126-EF-L	Mo 13 - 15 Fr 15 - 17	30 	0 	0 	0 	0 	0,00 	 00001060 	
+	2023	002	EMT 260	Activity Development in Mathematics Educ	EMT 260_01	Mathematics Education	1	2	0	2	3	Course	Merve Dilberoðlu 	G005	Fr 12 - 15	22 	0 	0 	0 	1 	0,00 	 00005526 	
+	2023	002	EMT 290	Teaching Mathematics Through Play	EMT 290_01	Mathematics Education	1	2	0	2	3	Course	Gizem Güzeller 	G005	Fr 15 - 18	5 	0 	0 	0 	0 	0,00 	 00001048 	
+	2023	002	EMT 302	Mathematics Teaching 3	EMT 302_01	Mathematics Education	2	2	0	3	8	Course	Emine Gül Çelebi 	G113	We 09 - 11 Fr 09 - 11	31 	0 	0 	0 	0 	0,00 	 00003016 	
+	2023	002	EMT 304	Technology in Mathematics Education	EMT 304_01	Mathematics Education	2	2	0	3	7	Course	Elçin Emre Akdoðan 	GB13-PC-L	Mo 09 - 11 Th 09 - 11	32 	0 	0 	0 	1 	0,00 	 00001828 	
+	2023	002	EMT 306	Statistics and Probability 2	EMT 306_01	Mathematics Education	2	0	0	2	6	Course	Emine Gül Çelebi 	G009	We 14 - 16	32 	0 	0 	0 	0 	0,00 	 00003016 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_01	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Julia Goggin 	F117 F214	Tu 09 - 11 Th 15 - 17	20 	0 	0 	0 	0 	0,00 	 00001327 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_02	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sercan Çelik 	F212 F217	Mo 11 - 13 We 13 - 15	25 	0 	0 	0 	0 	0,00 	 00000170 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_03	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Gaye Polat 	F204 F215	Tu 16 - 18 Th 13 - 15	22 	0 	0 	0 	1 	0,00 	 00000539 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_04	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sercan Çelik 	F212 F206	Tu 09 - 11 Th 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000170 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_05	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Julia Goggin 	F212 A422	Tu 13 - 15 Th 10 - 12	24 	0 	0 	0 	0 	0,00 	 00001327 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_06	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Julia Goggin 	F204 F223	Mo 12 - 14 We 11 - 13	21 	0 	0 	0 	0 	0,00 	 00001327 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_07	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Atiye Burcu Yeþilyurt 	G009 G112	Mo 14 - 16 We 13 - 15	25 	0 	0 	0 	0 	0,00 	 00000446 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_08	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sercan Çelik 	G205 F215	Tu 11 - 13 Th 11 - 13	25 	0 	0 	0 	0 	0,00 	 00000170 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_09	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Julia Goggin 	F206 F223	Mo 09 - 11 We 09 - 11	24 	0 	0 	0 	0 	0,00 	 00001327 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_10	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Gaye Polat 	F217 F117	We 09 - 11 Fr 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000539 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_11	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sercan Çelik 	F215	Mo 09 - 11 We 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000170 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_12	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Nezih Nal 	G103 G105	We 09 - 11 Fr 09 - 11	22 	0 	0 	0 	1 	0,00 	 00000156 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_13	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Nezih Nal 	F217 F204	We 11 - 13 Fr 11 - 13	25 	0 	0 	0 	0 	0,00 	 00000156 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_14	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Nezih Nal 	F215 F204	Tu 09 - 11 Th 09 - 11	20 	0 	0 	0 	0 	0,00 	 00000156 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_15	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Nezih Nal 	G009 D230	Tu 11 - 13 Th 14 - 16	25 	0 	0 	0 	0 	0,00 	 00000156 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_16	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Gaye Polat 	F215	Tu 13 - 15 Th 09 - 11	24 	0 	0 	0 	0 	0,00 	 00000539 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_17	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Þeniz Ayçiçek 	F215	We 11 - 13 Fr 15 - 17	25 	0 	0 	0 	0 	0,00 	 00000256 	
+	2023	002	ENG 101	English for Academic Purposes	ENG 101_18	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Gaye Polat 	F215	We 13 - 15 Fr 13 - 15	25 	0 	0 	0 	0 	0,00 	 00000539 	
+	2023	002	ENG 102	Expository Writing	ENG 102_01	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hale Ülkü Aydýn 	G005 F117	Mo 16 - 18 We 16 - 18	26 	0 	0 	0 	1 	0,00 	 00000853 	
+	2023	002	ENG 102	Expository Writing	ENG 102_02	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hale Ülkü Aydýn 	F206 F117	Mo 14 - 16 We 14 - 16	25 	0 	0 	0 	2 	0,00 	 00000853 	
+	2023	002	ENG 102	Expository Writing	ENG 102_03	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hale Ülkü Aydýn 	F117 F115	Tu 14 - 16 Th 14 - 16	20 	0 	0 	0 	0 	0,00 	 00000853 	
+	2023	002	ENG 102	Expository Writing	ENG 102_04	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hale Ülkü Aydýn 	F117 F115	Tu 16 - 18 Th 16 - 18	26 	0 	0 	0 	0 	0,00 	 00000853 	
+	2023	002	ENG 102	Expository Writing	ENG 102_05	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Emre Demirel 	F115	We 11 - 13 Fr 16 - 18	25 	0 	0 	0 	0 	0,00 	 00000852 	
+	2023	002	ENG 102	Expository Writing	ENG 102_06	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Emre Demirel 	F115	We 09 - 11 Fr 14 - 16	24 	0 	0 	0 	0 	0,00 	 00000852 	
+	2023	002	ENG 102	Expository Writing	ENG 102_07	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hajar Golmohammadzadeh Khiaban 	G010 F212	Tu 09 - 11 Th 16 - 18	26 	0 	0 	0 	1 	0,00 	 00001008 	
+	2023	002	ENG 102	Expository Writing	ENG 102_08	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Fulya Ýçöz Narlý 	G010 F212	Tu 11 - 13 Th 14 - 16	25 	0 	0 	0 	0 	0,00 	 00000172 	
+	2023	002	ENG 102	Expository Writing	ENG 102_09	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Esra Ordu 	F304	We 11 - 13 Fr 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000450 	
+	2023	002	ENG 102	Expository Writing	ENG 102_10	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Fulya Ýçöz Narlý 	F304 F212	We 13 - 15 Fr 11 - 13	26 	0 	0 	0 	1 	0,00 	 00000172 	
+	2023	002	ENG 102	Expository Writing	ENG 102_11	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Emre Demirel 	F204 F304	Tu 11 - 13 Th 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000852 	
+	2023	002	ENG 102	Expository Writing	ENG 102_12	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sezin Topçu 	F115 F117	Tu 13 - 15 Th 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000859 	
+	2023	002	ENG 102	Expository Writing	ENG 102_13	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hajar Golmohammadzadeh Khiaban 	F117 F206	Tu 11 - 13 Th 14 - 16	19 	0 	0 	0 	2 	0,00 	 00001008 	
+	2023	002	ENG 102	Expository Writing	ENG 102_14	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Cansu Çakmak Özgürel 	G113 G009	Mo 14 - 16 We 12 - 14	25 	0 	0 	0 	0 	0,00 	 00000855 	
+	2023	002	ENG 102	Expository Writing	ENG 102_15	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Emre Demirel 	F204 F304	Tu 09 - 11 Th 11 - 13	22 	0 	0 	0 	1 	0,00 	 00000852 	
+	2023	002	ENG 102	Expository Writing	ENG 102_16	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Cansu Çakmak Özgürel 	F215 F212	Mo 11 - 13 We 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000855 	
+	2023	002	ENG 102	Expository Writing	ENG 102_17	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Elif Davutoðlu 	F117 A422	Mo 09 - 11 We 09 - 11	25 	0 	0 	0 	0 	0,00 	 00000858 	
+	2023	002	ENG 102	Expository Writing	ENG 102_18	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Elif Davutoðlu 	F117 A422	Mo 11 - 13 We 11 - 13	25 	0 	0 	0 	1 	0,00 	 00000858 	
+	2023	002	ENG 102	Expository Writing	ENG 102_19	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Cansu Çakmak Özgürel 	G205 G208	Tu 09 - 11 Th 09 - 11	25 	0 	0 	0 	1 	0,00 	 00000855 	
+	2023	002	ENG 102	Expository Writing	ENG 102_20	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Esra Ordu 	F304 F215	We 09 - 11 Th 15 - 17	25 	0 	0 	0 	0 	0,00 	 00000450 	
+	2023	002	ENG 102	Expository Writing	ENG 102_21	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Hajar Golmohammadzadeh Khiaban 	G203 F214	We 09 - 11 Fr 09 - 11	17 	0 	0 	0 	1 	0,00 	 00001008 	
+	2023	002	ENG 102	Expository Writing	ENG 102_24	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sezin Topçu 	F215 G105	Tu 15 - 17 Th 11 - 13	24 	0 	0 	0 	0 	0,00 	 00000859 	
+	2023	002	ENG 102	Expository Writing	ENG 102_25	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sezin Topçu 	F214 D234	Mo 09 - 11 We 13 - 15	26 	0 	0 	0 	0 	0,00 	 00000859 	
+	2023	002	ENG 102	Expository Writing	ENG 102_26	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Sezin Topçu 	G006 F206	Mo 11 - 13 We 16 - 18	25 	0 	0 	0 	0 	0,00 	 00000859 	
+	2023	002	ENG 102	Expository Writing	ENG 102_27	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Esra Ordu 	F214	Tu 11 - 13 Th 13 - 15	24 	0 	0 	0 	2 	0,00 	 00000450 	
+	2023	002	ENG 102	Expository Writing	ENG 102_28	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Cansu Çakmak Özgürel 	F212 F117	Tu 11 - 13 Th 11 - 13	24 	0 	0 	0 	0 	0,00 	 00000855 	
+	2023	002	ENG 102	Expository Writing	ENG 102_29	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Esra Ordu 	F204 F214	We 14 - 16 Fr 13 - 15	25 	0 	0 	0 	4 	0,00 	 00000450 	
+	2023	002	ENG 102	Expository Writing	ENG 102_30	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Elif Davutoðlu 	F214	Tu 09 - 11 Th 09 - 11	26 	0 	0 	0 	0 	0,00 	 00000858 	
+	2023	002	ENG 102	Expository Writing	ENG 102_31	Basic Sciences	2	2	0	3	5	Mandatory (YOK)	Elif Davutoðlu 	F215 D232	Tu 11 - 13 Th 14 - 16	25 	0 	0 	0 	0 	0,00 	 00000858 	
+	2023	002	ENG 111	Advanced English for Academic Purposes	ENG 111_01	Dep. of English Language and Literature	   3	   0	   0	3	   5	Course	Merve Erentuð 	GB05 G103	Mo 11 - 13 We 11 - 12	25 	0 	0 	0 	0 	0,00 	 00003883 	
+	2023	002	ENG 112	Advanced Writing	ENG 112_01	Dep. of English Language and Literature	   3	   0	   0	3	   5	Course	Merve Erentuð 	F212 D228	Mo 09 - 11 We 13 - 14	22 	0 	0 	0 	1 	0,00 	 00003883 	
+	2023	002	ENG 112	Advanced Writing	ENG 112_02	Dep. of English Language and Literature	   3	   0	   0	3	   5	Course	Merve Erentuð 	F206 F117	Tu 16 - 18 Th 13 - 14	16 	0 	0 	0 	0 	0,00 	 00003883 	
+	2023	002	ENG 112	Advanced Writing	ENG 112_03	Dep. of English Language and Literature	   3	   0	   0	3	   5	Course	Merve Erentuð 	G003 F117	Tu 12 - 13 Th 14 - 16	20 	0 	0 	0 	0 	0,00 	 00003883 	
+	2023	002	ENG 204	Professional Communication in English	ENG 204_01	Basic Sciences	3	   0	   0	3	   5	Course	Fulya Ýçöz Narlý 	D230 G103	We 09 - 11 Fr 09 - 10	17 	0 	0 	0 	0 	0,00 	 00000172 	
+	2023	002	ENG 204	Professional Communication in English	ENG 204_02	Basic Sciences	3	   0	   0	3	   5	Course	Þeniz Ayçiçek 	F204	We 13 - 14 Fr 13 - 15	22 	0 	0 	0 	0 	0,00 	 00000256 	
+	2023	002	ENG 204	Professional Communication in English	ENG 204_03	Basic Sciences	3	   0	   0	3	   5	Course	Þeniz Ayçiçek 	G005 F206	Tu 15 - 17 Th 12 - 13	21 	0 	0 	0 	1 	0,00 	 00000256 	
+	2023	002	ENG 204	Professional Communication in English	ENG 204_04	Basic Sciences	3	   0	   0	3	   5	Course	Þeniz Ayçiçek 	F206 F115	Tu 13 - 14 Th 09 - 11	24 	0 	0 	0 	0 	0,00 	 00000256 	
+	2023	002	ENG 204	Professional Communication in English	ENG 204_05	Basic Sciences	3	   0	   0	3	   5	Course	Fulya Ýçöz Narlý 	F115 F206	Tu 09 - 11 Th 13 - 14	20 	0 	0 	0 	0 	0,00 	 00000172 	
+	2023	002	FREN 102	French II	FREN 102_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Hacer Gürsul (S) 	G113	Tu 09 - 12	29 	0 	0 	0 	1 	0,00 	 00004803 (S) 	
+	2023	002	FREN 102	French II	FREN 102_02	Dep. of English Language and Literature	3	0	0	3	5	Course	Hacer Gürsul (S) 	G003	Tu 13 - 16	30 	0 	0 	0 	0 	0,00 	 00004803 (S) 	
+	2023	002	FREN 202	French IV	FREN 202_01	Dep. of English Language and Literature	3	0	0	3	5	Course	Hacer Gürsul (S) 	G003	Tu 16 - 19	17 	0 	0 	0 	0 	0,00 	 00004803 (S) 	
+	2023	002	GENC 104	Foreign Language 2 (Spanish)	GENC 104_01	General Culture Courses Coordinator	2	0	0	2	3	Course	Nur Gülümser Ýlker (S) 		Tu 16 - 19	2 	0 	0 	0 	0 	0,00 	 00000575 (S) 	
+	2023	002	GENC 202	Community Services	GENC 202_01	General Culture Courses Coordinator	1	2	0	2	3	Course	Deniz Özmeriç 		Th 16 - 18	3 	0 	0 	0 	0 	0,00 	 00004062 	
+	2023	002	GENC 351	Media Literacy	GENC 351_01	General Culture Courses Coordinator	2	0	0	2	3	Course	Mehmet Kesim (S) 	G108	Tu 13 - 15	3 	0 	0 	0 	0 	0,00 	 00002569 (S) 	
+	2023	002	GENC 357	Turkish Classical Music	GENC 357_01	General Culture Courses Coordinator	2	0	0	2	3	Course	Elif Özcan (S) 	D126-EF-L	Th 13 - 15	16 	0 	0 	0 	0 	0,00 	 00004129 (S) 	
+	2023	002	GER 101	Elementary German I	GER 101_01	Basic Sciences	3	0	0	3	5	Course	Ýlknur Aka (S) 	G009	Tu 16 - 19	45 	0 	0 	0 	2 	0,00 	 00000501 (S) 	
+	2023	002	GER 101	Elementary German I	GER 101_02	Basic Sciences	3	0	0	3	5	Course	Ýlknur Aka (S) 	G009	We 16 - 19	50 	0 	0 	0 	1 	0,00 	 00000501 (S) 	
+	2023	002	GER 101	Elementary German I	GER 101_03	Basic Sciences	3	0	0	3	5	Course	Ýlknur Aka (S) 	G009	Th 16 - 19	49 	0 	0 	0 	2 	0,00 	 00000501 (S) 	
+	2023	002	GER 102	Elementary German II	GER 102_01	Basic Sciences	3	0	0	3	5	Course	Ýlknur Aka (S) 	GB05	Tu 12 - 15	18 	0 	0 	0 	1 	0,00 	 00000501 (S) 	
+	2023	002	HIST 101	History of Turkish Republic I	HIST 101_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	We 20 - 22	151 	0 	0 	0 	0 	0,00 	 00000486 	
+	2023	002	HIST 101	History of Turkish Republic I	HIST 101_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	Fr 20 - 22	108 	0 	0 	0 	0 	0,00 	 00000486 	
+	2023	002	HIST 101	History of Turkish Republic I	HIST 101_03	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	Tu 20 - 22	127 	0 	0 	0 	1 	0,00 	 00000486 	
+	2023	002	HIST 102	History of Turkish Republic II	HIST 102_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	Mo 18 - 20	147 	0 	0 	0 	1 	0,00 	 00000486 	
+	2023	002	HIST 102	History of Turkish Republic II	HIST 102_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	Tu 18 - 20	114 	0 	0 	0 	1 	0,00 	 00000486 	
+	2023	002	HIST 102	History of Turkish Republic II	HIST 102_03	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	We 18 - 20	63 	0 	0 	0 	1 	0,00 	 00000486 	
+	2023	002	HIST 102	History of Turkish Republic II	HIST 102_04	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	Th 18 - 20	50 	0 	0 	0 	0 	0,00 	 00000486 	
+	2023	002	HIST 102	History of Turkish Republic II	HIST 102_05	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	Online	Fr 18 - 20	85 	0 	0 	0 	0 	0,00 	 00000486 	
+	2023	002	HIST 160	History of Turkish Republic for Foreigne	HIST 160_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fahri Dikkaya 	K085	Th 16 - 18	69 	0 	0 	0 	2 	0,00 	 00000486 	
+	2023	002	HUM 101	World History I	HUM 101_01	Basic Sciences	3	0	0	3	5	Course	Þule Kýlýç Yýldýz (S) 	D228	Th 13 - 16	59 	0 	0 	0 	0 	0,00 	 00004165 (S) 	
+	2023	002	HUM 101	World History I	HUM 101_02	Basic Sciences	3	0	0	3	5	Course	Þule Kýlýç Yýldýz (S) 	DB20	Fr 13 - 16	59 	0 	0 	0 	0 	0,00 	 00004165 (S) 	
+	2023	002	HUM 102	World History II	HUM 102_01	Basic Sciences	3	0	0	3	5	Course	Fahri Dikkaya 	DB16	Tu 16 - 19	71 	0 	0 	0 	1 	0,00 	 00000486 	
+	2023	002	ID 102	Basics of Three Dimensional Design	ID 102_01	Department of Industrial Design	2	8	0	6	11	Course	Eda Çetiz (S) , Damla Özer , Canan Emine Ünlü 		Mo 09 - 12 Mo 13 - 15 Th 13 - 15 Th 09 - 12	37 	0 	0 	0 	0 	0,00 	 00005674 (S) , 00001508 , 00001511 	
+	2023	002	ID 102-O	Basics of Three Dimensional Design	ID 102-O_01	Department of Industrial Design	2	8	0	6	10	Course	Eda Çetiz (S) , Damla Özer , Canan Emine Ünlü 		Mo 13 - 15 Mo 09 - 12 Th 13 - 15 Th 09 - 12	5 	0 	0 	0 	0 	0,00 	 00005674 (S) , 00001508 , 00001511 	
+	2023	002	ID 112	Visual Communication Techniques II	ID 112_01	Department of Industrial Design	2	2	0	3	5	Course	Mehmet Erçin Okursoy 		We 09 - 13	44 	0 	0 	0 	0 	0,00 	 00002783 	
+	2023	002	ID 121	Introduction to Industrial Design	ID 121_01	Department of Industrial Design	3	0	0	3	5	Course	Damla Özer 	G010	We 14 - 17	7 	0 	0 	0 	0 	0,00 	 00001508 	
+	2023	002	ID 122	Introduction to Industrial Design	ID 122_01	Department of Industrial Design	3	0	0	3	5	Course	Damla Özer 		We 14 - 17	55 	0 	0 	0 	0 	0,00 	 00001508 	
+	2023	002	ID 202	Industrial Design II	ID 202_01	Department of Industrial Design	2	8	0	6	11	Course	Sedef Süner Pla Cerda , Ecem Kumbasar (S) 		Tu 13 - 17 Tu 09 - 12 Fr 09 - 12	36 	0 	0 	0 	0 	0,00 	 00001507 , 00003941 (S) 	
+	2023	002	ID 272	Manufacturing Materials and Technologies	ID 272_01	Department of Industrial Design	3	0	0	3	5	Course	Mehmet Erçin Okursoy 	G203	We 14 - 17	35 	0 	0 	0 	0 	0,00 	 00002783 	
+	2023	002	ID 302	Industrial Design IV	ID 302_01	Department of Industrial Design	2	8	0	6	11	Course	Yunus Altay (S) , Aren Emre Kurtgözü , Zeynep Aðacýkoðlu (S) 		Tu 09 - 12 Fr 13 - 17 Fr 09 - 12	30 	0 	0 	0 	0 	0,00 	 00004824 (S) , 00002628 , 00004832 (S) 	
+	2023	002	ID 311	Model Making	ID 311_01	Department of Industrial Design	2	2	0	3	5	Course	Ecem Kumbasar (S) 		Th 09 - 12	16 	0 	0 	0 	0 	0,00 	 00003941 (S) 	
+	2023	002	ID 312	Computer Graphics and Presentation Techn	ID 312_01	Department of Industrial Design	2	2	0	3	5	Course	Gökhan Çetinkaya (S) 	Online	We 13 - 16	17 	0 	0 	0 	0 	0,00 	 00005673 (S) 	
+	2023	002	ID 320	Sustainable Living and Design	ID 320_01	Department of Industrial Design	2	2	0	3	5	Course	Damla Özer 	F206	We 09 - 12	6 	0 	0 	0 	0 	0,00 	 00001508 	
+	2023	002	ID 362-O	Research in Design	ID 362-O_01	Department of Industrial Design	1	2	0	2	4	Course	Aren Emre Kurtgözü 	G112	Th 13 - 16	30 	0 	0 	0 	0 	0,00 	 00002628 	
+	2023	002	ID 402-O	Industrial Design VI	ID 402-O_01	Department of Industrial Design	2	8	0	6	12	Course	Fikriye Büþra Kaboðlu (S) , Gökhan Çetinkaya (S) , Mehmet Erçin Okursoy 		Tu 13 - 17 Tu 09 - 12 Fr 09 - 12	34 	0 	0 	0 	0 	0,00 	 00005675 (S) , 00005673 (S) , 00002783 	
+	2023	002	ID 430	Design For User Experience	ID 430_01	Department of Industrial Design	2	2	0	3	5	Course	Sedef Süner Pla Cerda 	G006	Mo 13 - 16	20 	0 	0 	0 	0 	0,00 	 00001507 	
+	2023	002	IE 212	Lean Process Design	IE 212_01	Department of Industrial Engineering	3	0	0	3	6	Course	Hakan Bütüner 	A437	We 14 - 15 Th 16 - 18	26 	0 	0 	0 	0 	0,00 	 00005021 	
+	2023	002	IE 222	Engineering Economy & Cost Analysis	IE 222_01	Department of Industrial Engineering	3	0	0	3	6	Course	Ece Zeliha Demirci 	A422	Tu 12 - 14 We 13 - 14	26 	0 	0 	0 	0 	0,00 	 00002621 	
+	2023	002	IE 232	Mathematical Modeling and Optimization I	IE 232_01	Department of Industrial Engineering	3	0	0	3	6	Course	Mehmet Rüþtü Taner 	A422	Mo 16 - 17 Tu 15 - 17	29 	0 	0 	0 	0 	0,00 	 00000039 	
+	2023	002	IE 312	Manufac & Service Operations Planning II	IE 312_01	Department of Industrial Engineering	3	0	0	3	6	Course	Ece Zeliha Demirci 	A422	Tu 11 - 12 Th 12 - 14	26 	0 	0 	0 	0 	0,00 	 00002621 	
+	2023	002	IE 316	Quality Planning and Control	IE 316_01	Department of Industrial Engineering	3	0	0	3	7	Course	Mehmet Rüþtü Taner 	A422 A437	Mo 11 - 13 Tu 12 - 13	28 	0 	0 	0 	0 	0,00 	 00000039 	
+	2023	002	IE 332	Mathematical Modeling & Optimization III	IE 332_01	Department of Industrial Engineering	3	0	0	3	6	Course	Sýrma Karakaya 	A316-L K184 K085	Tu 13 - 14 We 10 - 12	35 	0 	0 	0 	3 	0,00 	 00000478 	
+	2023	002	IE 399	Summer Practice I	IE 399_01	Department of Industrial Engineering	1	0	0	1	3	Internship	Mehmet Rüþtü Taner 		Mo 18 - 19	2 	0 	0 	0 	0 	0,00 	 00000039 	
+	2023	002	IE 446	Design of Experiments	IE 446_01	Department of Industrial Engineering	3	0	0	3	5	Course	Gülser Köksal , Þakir Karakaya (S) 	A316-L F115	Tu 15 - 18	18 	0 	0 	0 	2 	0,00 	 00005664 , 00005822 (S) 	
+	2023	002	IE 466	Humanitarian Logistics	IE 466_01	Department of Industrial Engineering	3	0	0	3	5	Course	Sýrma Karakaya 	A422 A316-L F223	Tu 10 - 11 We 13 - 15	24 	0 	0 	0 	1 	0,00 	 00000478 	
+	2023	002	IE 492-O	Senior Project II	IE 492_01	Department of Industrial Engineering	1	4	0	3	6	Course	Ece Zeliha Demirci 	A316-L	We 16 - 18	10 	0 	0 	0 	0 	0,00 	 00002621 	
+	2023	002	IE 492-O	Senior Project II	IE 492_02	Department of Industrial Engineering	1	4	0	3	6	Course	Sýrma Karakaya 		We 16 - 18	8 	0 	0 	0 	0 	0,00 	 00000478 	
+	2023	002	IE 492-O	Senior Project II	IE 492_03	Department of Industrial Engineering	1	4	0	3	6	Course	Sýrma Karakaya 		We 16 - 18	5 	0 	0 	0 	0 	0,00 	 00000478 	
+	2023	002	IE 499-O	Summer Practice II	IE 499_01	Department of Industrial Engineering	1	0	0	1	2	Internship	Mehmet Rüþtü Taner 		Tu 18 - 19	1 	0 	0 	0 	0 	0,00 	 00000039 	
+	2023	002	ITA 101	Elementary Italian I	ITA 101_01	Basic Sciences	3	0	0	3	5	Course	Aslý Bayar (S) 	G009	Th 13 - 16	58 	0 	0 	0 	1 	0,00 	 00003070 (S) 	
+	2023	002	ITA 101	Elementary Italian I	ITA 101_02	Basic Sciences	3	0	0	3	5	Course	Aslý Bayar (S) 	G009	Fr 13 - 16	57 	0 	0 	0 	1 	0,00 	 00003070 (S) 	
+	2023	002	ITA 101	Elementary Italian I	ITA 101_03	Basic Sciences	3	0	0	3	5	Course	Aslý Bayar (S) 	G112	Tu 16 - 19	49 	0 	0 	0 	0 	0,00 	 00003070 (S) 	
+	2023	002	ITA 102	Elementary Italian II	ITA 102_01	Basic Sciences	3	0	0	3	5	Course	Aslý Bayar (S) 	G009	Fr 16 - 19	37 	0 	0 	0 	2 	0,00 	 00003070 (S) 	
+	2023	002	JAP 101	Elementary Japanese I	JAP 101_01	Basic Sciences	3	0	0	3	5	Course	Nuray Akdemir (S) 	G105	We 16 - 19	27 	0 	0 	0 	0 	0,00 	 00005686 (S) 	
+	2023	002	LAW 263	Fundamental Principles of Law	LAW 263_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	6	Course	Þebnem Akipek Öcal 	DB20	We 09 - 12	39 	0 	0 	0 	0 	0,00 	 00000279 	
+	2023	002	LAW 452	Turkish Tax Law	LAW 452_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Ýdris Hakan Furtun (S) 	F215	Mo 13 - 16	9 	0 	0 	0 	0 	0,00 	 00000555 (S) 	
+	2023	002	LAW 480	Social Media and Law	LAW 480_01	Faculty of Econ. and Administ. Sciences	3	0	0	3	5	Course	Elif Þahin Taþkýn (S) 	F217	Fr 09 - 12	19 	0 	0 	0 	0 	0,00 	 00003913 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_01	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	K183	Mo 09 - 12	53 	0 	0 	0 	0 	0,00 	 00002580 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_02	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	D234	Mo 13 - 16	60 	0 	0 	0 	0 	0,00 	 00002580 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_03	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	D232	We 13 - 16	55 	0 	0 	0 	0 	0,00 	 00002580 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_04	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	K184	We 09 - 12	55 	0 	0 	0 	0 	0,00 	 00002580 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_05	Basic Sciences	3	0	0	3	5	Course	Zümre Gizem Yýlmaz Karahan (S) 	D032	We 16 - 19	53 	0 	0 	0 	0 	0,00 	 00004841 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_06	Basic Sciences	3	0	0	3	5	Course	Rukiye Aslýhan Aksoy Sheridan 	DB14	Tu 11 - 14	57 	0 	0 	0 	2 	0,00 	 00000569 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_07	Basic Sciences	3	0	0	3	5	Course	Tuba Berk (S) 	K184	We 13 - 16	54 	0 	0 	0 	0 	0,00 	 00000071 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_08	Basic Sciences	3	0	0	3	5	Course	Tuba Berk (S) 	K184	Th 13 - 16	53 	0 	0 	0 	1 	0,00 	 00000071 (S) 	
+	2023	002	LIBE 110	Critical Perspectives on Humanity	LIBE 110_09	Basic Sciences	3	0	0	3	5	Course	Tuba Berk (S) 	K184	Fr 13 - 16	58 	0 	0 	0 	0 	0,00 	 00000071 (S) 	
+	2023	002	LIBE 120	Foundations and Frontiers of Science	LIBE 120_01	Basic Sciences	2	0	2	3	5	Course	Mohammad Shikakhwa 	K183	Mo 13 - 14 Tu 16 - 18	68 	0 	0 	0 	0 	0,00 	 00004699 	
+	2023	002	LIBE 120	Foundations and Frontiers of Science	LIBE 120_02	Basic Sciences	2	0	2	3	5	Course	Mohammad Shikakhwa 	K183	Mo 14 - 15 We 13 - 15	67 	0 	0 	0 	0 	0,00 	 00004699 	
+	2023	002	LIBE 120	Foundations and Frontiers of Science	LIBE 120_03	Basic Sciences	2	0	2	3	5	Course	Mohammad Shikakhwa 	K183	Mo 15 - 16 We 16 - 18	70 	0 	0 	0 	0 	0,00 	 00004699 	
+	2023	002	LIBE 120	Foundations and Frontiers of Science	LIBE 120_04	Basic Sciences	2	0	2	3	5	Course	Onur Benli 	K183	Mo 16 - 18 Th 13 - 14	67 	0 	0 	0 	0 	0,00 	 00004109 	
+	2023	002	LIBE 120	Foundations and Frontiers of Science	LIBE 120_05	Basic Sciences	2	0	2	3	5	Course	Onur Benli 	K184	Tu 16 - 18 Th 09 - 10	65 	0 	0 	0 	1 	0,00 	 00004109 	
+	2023	002	LIBE 130	Art and Design	LIBE 130_01	Basic Sciences	3	0	0	3	5	Course	Burcu Asena Salman 	K084	Mo 12 - 15	61 	0 	0 	0 	1 	0,00 	 00000335 	
+	2023	002	LIBE 130	Art and Design	LIBE 130_02	Basic Sciences	3	0	0	3	5	Course	Burcu Asena Salman 	K085	Tu 12 - 15	60 	0 	0 	0 	2 	0,00 	 00000335 	
+	2023	002	LIBE 130	Art and Design	LIBE 130_03	Basic Sciences	3	0	0	3	5	Course	Burcu Asena Salman 	K085	We 15 - 18	62 	0 	0 	0 	0 	0,00 	 00000335 	
+	2023	002	LIBE 130	Art and Design	LIBE 130_04	Basic Sciences	3	0	0	3	5	Course	Burcu Asena Salman 	K085	Th 12 - 15	61 	0 	0 	0 	2 	0,00 	 00000335 	
+	2023	002	LIBE 130	Art and Design	LIBE 130_05	Basic Sciences	3	0	0	3	5	Course	Gültekin Doruk Atay (S) 	K184	Mo 12 - 15	62 	0 	0 	0 	0 	0,00 	 00005871 (S) 	
+	2023	002	LIBE 130	Art and Design	LIBE 130_06	Basic Sciences	3	0	0	3	5	Course	Çaðrým Koçer 	D026	We 15 - 18	63 	0 	0 	0 	1 	0,00 	 00001046 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_01	Basic Sciences	3	0	0	3	5	Course	Senem Yýldýrým Özdem 	G105	Mo 12 - 15	60 	0 	0 	0 	0 	0,00 	 00002048 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_02	Basic Sciences	3	0	0	3	5	Course	Senem Yýldýrým Özdem 	DB14	Mo 16 - 19	62 	0 	0 	0 	0 	0,00 	 00002048 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_03	Basic Sciences	3	0	0	3	5	Course	Jared Matthew Wright 	G213	We 13 - 16	60 	0 	0 	0 	0 	0,00 	 00003928 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_04	Basic Sciences	3	0	0	3	5	Course	Sercan Çýnar (S) 	G112	Fr 16 - 19	57 	0 	0 	0 	1 	0,00 	 00003184 (S) 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_05	Basic Sciences	3	0	0	3	5	Course	Berkay Orhaner 	D026	Th 09 - 12	61 	0 	0 	0 	0 	0,00 	 00000588 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_06	Basic Sciences	3	0	0	3	5	Course	Berkay Orhaner 	G208 D232	Th 16 - 19	59 	0 	0 	0 	0 	0,00 	 00000588 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_07	Basic Sciences	3	0	0	3	5	Course	Berkay Orhaner 	G205	Fr 09 - 12	56 	0 	0 	0 	0 	0,00 	 00000588 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_08	Basic Sciences	3	0	0	3	5	Course	Berkay Orhaner 	D028	Fr 13 - 16	62 	0 	0 	0 	1 	0,00 	 00000588 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_09	Basic Sciences	3	0	0	3	5	Course	Ercan Gündoðan (S) 	G103	Mo 12 - 15	60 	0 	0 	0 	0 	0,00 	 00004088 (S) 	
+	2023	002	LIBE 140	Social and Political Studies	LIBE 140_10	Basic Sciences	3	0	0	3	5	Course	Ercan Gündoðan (S) 	D228	Th 16 - 19	44 	0 	0 	0 	0 	0,00 	 00004088 (S) 	
+	2023	002	LIBE 150	Critical Perspectives in World Literatur	LIBE 150_01	Basic Sciences	3	0	0	3	5	Course	Rukiye Aslýhan Aksoy Sheridan 	DB14	We 14 - 17	51 	0 	0 	0 	2 	0,00 	 00000569 	
+	2023	002	LIBE 150	Critical Perspectives in World Literatur	LIBE 150_02	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	D230	Fr 15 - 18	47 	0 	0 	0 	1 	0,00 	 00002580 (S) 	
+	2023	002	LIT 100	World Literature	LIT 100_01	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	D032	Th 09 - 12	52 	0 	0 	0 	8 	0,00 	 00002580 (S) 	
+	2023	002	LIT 100	World Literature	LIT 100_02	Basic Sciences	3	0	0	3	5	Course	Nuria Saraç (S) 	DB16	Th 13 - 16	62 	0 	0 	0 	3 	0,00 	 00002580 (S) 	
+	2023	002	MATE 304	Teaching of Probability and Statistics	MATE 304_01	Mathematics Education	3	0	0	3	4	Course	Emine Gül Çelebi 	G113	We 09 - 11 Fr 09 - 11	1 	0 	0 	0 	0 	0,00 	 00003016 	
+	2023	002	MATE 305	Statistics	MATE 305_01	Mathematics Education	2	0	0	2	2	Course	Emine Gül Çelebi 	G009	We 14 - 16	1 	0 	0 	0 	0 	0,00 	 00003016 	
+	2023	002	MATE 350	Activity Development in Math. Teaching	MATE 350_01	Mathematics Education	2	0	0	2	4	Course	Merve Dilberoðlu 	G005	Fr 12 - 15	11 	0 	0 	0 	0 	0,00 	 00005526 	
+	2023	002	MATE 351	Materials Design in Mathematics Teaching	MATE 351_01	Mathematics Education	2	0	0	2	4	Course	Zerrin Toker 	D126-EF-L	Mo 13 - 15 Fr 15 - 17	2 	0 	0 	0 	0 	0,00 	 00001060 	
+	2023	002	MATE 355	Teaching Mathematics Through Play	MATE 355_01	Mathematics Education	2	0	0	2	4	Course	Gizem Güzeller 	G005	Fr 15 - 18	20 	0 	0 	0 	0 	0,00 	 00001048 	
+	2023	002	MATE 402	Philosophy of Mathematics	MATE 402_01	Mathematics Education	2	0	0	2	3	Course	Elçin Emre Akdoðan 	D232	Mo 13 - 15	9 	0 	0 	0 	0 	0,00 	 00001828 	
+	2023	002	MATE 404	Modeling in Mathematics Education	MATE 404_01	Mathematics Education	2	0	0	2	4	Course	Çiðdem Alkaþ Ulusoy 	G212	We 09 - 11	15 	0 	0 	0 	0 	0,00 	 00002095 	
+	2023	002	MATH 101	Calculus of One Variable	MATH 101_01	Mathematics	3	2	0	4	7	Course	Engin Özkan 	K184 K183 A514-PC-L	Tu 14 - 16 Th 09 - 11 Fr 15 - 16	67 	0 	0 	0 	0 	0,00 	 00000274 	
+	2023	002	MATH 101	Calculus of One Variable	MATH 101_02	Mathematics	3	2	0	4	7	Course	Þeyda Solmaz 	K183 K084 A514-PC-L	We 11 - 13 Th 12 - 14 Fr 14 - 15	60 	0 	0 	0 	0 	0,00 	 00002637 	
+	2023	002	MATH 101	Calculus of One Variable	MATH 101_03	Mathematics	3	2	0	4	7	Course	Seher Fiþekci Par (S) 	D234 D028 A514-PC-L	Mo 09 - 11 We 09 - 11 Th 15 - 16	59 	0 	0 	0 	0 	0,00 	 00004105 (S) 	
+	2023	002	MATH 102	Multivariable Calculus	MATH 102_01	Mathematics	3	2	0	4	7	Course	Ruþen Kaya 	DB14 A514-PC-L	Mo 09 - 11 We 09 - 11 Th 09 - 10	60 	0 	0 	0 	3 	0,00 	 00001042 	
+	2023	002	MATH 102	Multivariable Calculus	MATH 102_02	Mathematics	3	2	0	4	7	Course	Þeyda Solmaz 	K084 A514-PC-L	Tu 09 - 11 Th 16 - 18 Fr 10 - 11	38 	0 	0 	0 	1 	0,00 	 00002637 	
+	2023	002	MATH 102	Multivariable Calculus	MATH 102_03	Mathematics	3	2	0	4	7	Course	Fatma Fen (S) 	D230 A514-PC-L K084	We 14 - 16 Th 13 - 14 Fr 11 - 13	49 	0 	0 	0 	2 	0,00 	 00005876 (S) 	
+	2023	002	MATH 102	Multivariable Calculus	MATH 102_04	Mathematics	3	2	0	4	7	Course	Ruþen Kaya 	DB14 A514-PC-L	Tu 09 - 11 We 12 - 14 Th 14 - 15	62 	0 	0 	0 	3 	0,00 	 00001042 	
+	2023	002	MATH 102	Multivariable Calculus	MATH 102_05	Mathematics	3	2	0	4	7	Course	Þeyda Solmaz 	G113 K084 A514-PC-L	Tu 14 - 16 Th 09 - 11 Fr 09 - 10	28 	0 	0 	0 	1 	0,00 	 00002637 	
+	2023	002	MATH 102	Multivariable Calculus	MATH 102_06	Mathematics	3	2	0	4	7	Course	Fatma Fen (S) 	D230 A514-PC-L K084	We 16 - 18 Th 10 - 11 Fr 14 - 16	39 	0 	0 	0 	2 	0,00 	 00005876 (S) 	
+	2023	002	MATH 108	Discrete Mathematics	MATH 108_01	Mathematics	3	0	0	3	6	Course	Þükran Gül Erdem 	A437 K084	Mo 09 - 11 Fr 13 - 14	20 	0 	0 	0 	0 	0,00 	 00002574 	
+	2023	002	MATH 108-O	Discrete Mathematics	MATH 108-O_1	Mathematics	3	0	0	3	5	Course	Þükran Gül Erdem 	A437 K084	Mo 09 - 11 Fr 13 - 14	11 	0 	0 	0 	0 	0,00 	 00002574 	
+	2023	002	MATH 111	Introduction to Calculus of One Variable	MATH 111_01	Mathematics	3	2	0	4	7	Course	Ertürk Tuncer 	DB18 DB16 A514-PC-L	Mo 11 - 13 We 11 - 13 Fr 11 - 12	20 	0 	0 	0 	0 	0,00 	 00002610 	
+	2023	002	MATH 111	Introduction to Calculus of One Variable	MATH 111_02	Mathematics	3	2	0	4	7	Course	Ertürk Tuncer 	DB16 A514-PC-L	Tu 11 - 13 Th 11 - 13 Fr 12 - 13	40 	0 	0 	0 	0 	0,00 	 00002610 	
+	2023	002	MATH 113	Calculus I	MATH 113_01	Mathematics	4	0	1	4	8	Course	Ruþen Kaya 	A437 A211-PC-L	Mo 14 - 16 We 15 - 17 Th 11 - 12	7 	0 	0 	0 	0 	0,00 	 00001042 	
+	2023	002	MATH 113-O	Calculus I	MATH 113-O_1	Mathematics	3	1	1	4	7	Course	Ruþen Kaya 	A437 A211-PC-L	Mo 14 - 16 We 15 - 17 Th 11 - 12	5 	0 	0 	0 	1 	0,00 	 00001042 	
+	2023	002	MATH 114	Calculus II	MATH 114_01	Mathematics	4	0	1	4	8	Course	Ruþen Kaya 	A437 A211-PC-L	Mo 12 - 14 Tu 15 - 17 Fr 11 - 12	10 	0 	0 	0 	0 	0,00 	 00001042 	
+	2023	002	MATH 114-O	Calculus II	MATH 114-O_1	Mathematics	3	1	1	4	7	Course	Ruþen Kaya 	A437 A211-PC-L	Mo 12 - 14 Tu 15 - 17 Fr 11 - 12	7 	0 	0 	0 	1 	0,00 	 00001042 	
+	2023	002	MATH 115	Mathematics for Social Sciences I	MATH 115_01	Mathematics	3	1	1	4	7	Course	Ertürk Tuncer 	DB18 DB16 A514-PC-L	Mo 09 - 11 We 09 - 11 Th 16 - 17	64 	0 	0 	0 	1 	0,00 	 00002610 	
+	2023	002	MATH 115	Mathematics for Social Sciences I	MATH 115_02	Mathematics	3	1	1	4	7	Course	Ertürk Tuncer 	DB16 A514-PC-L	Tu 09 - 11 Th 09 - 11 Fr 16 - 17	66 	0 	0 	0 	1 	0,00 	 00002610 	
+	2023	002	MATH 116	Mathematics for Social Sciences II	MATH 116_01	Mathematics	3	1	1	4	7	Course	Merve Gürbüz Çaldað 	DB18 D028 A514-PC-L	Mo 15 - 17 We 13 - 15 Th 11 - 12	60 	0 	0 	0 	2 	0,00 	 00004103 	
+	2023	002	MATH 116	Mathematics for Social Sciences II	MATH 116_02	Mathematics	3	1	1	4	7	Course	Merve Gürbüz Çaldað 	DB18 D028 A514-PC-L	Mo 13 - 15 We 15 - 17 Th 12 - 13	53 	0 	0 	0 	0 	0,00 	 00004103 	
+	2023	002	MATH 120	Linear Algebra	MATH 120_01	Mathematics	3	0	0	3	5	Course	Þükran Gül Erdem 	D228	Mo 12 - 14 We 12 - 13	44 	0 	0 	0 	0 	0,00 	 00002574 	
+	2023	002	MATH 120	Linear Algebra	MATH 120_02	Mathematics	3	0	0	3	5	Course	Fuat Erdem 	D032	Mo 09 - 11 We 13 - 14	18 	0 	0 	0 	1 	0,00 	 00001816 	
+	2023	002	MATH 120	Linear Algebra	MATH 120_03	Mathematics	3	0	0	3	5	Course	Fuat Erdem 	D032	Tu 09 - 11 Th 12 - 13	48 	0 	0 	0 	2 	0,00 	 00001816 	
+	2023	002	MATH 120	Linear Algebra	MATH 120_04	Mathematics	3	0	0	3	5	Course	Fuat Erdem 	D032	Mo 12 - 14 We 12 - 13	31 	0 	0 	0 	1 	0,00 	 00001816 	
+	2023	002	MATH 203	Linear Algebra and Differential Equation	MATH 203_01	Mathematics	3	0	0	3	5	Course	Þeyda Solmaz 	K084 K183	Tu 11 - 12 We 09 - 11	58 	0 	0 	0 	4 	0,00 	 00002637 	
+	2023	002	MATH 203	Linear Algebra and Differential Equation	MATH 203_02	Mathematics	3	0	0	3	5	Course	Samet Sarýoðlan (S) 	D026 D028	Mo 13 - 15 We 11 - 12	55 	0 	0 	0 	2 	0,00 	 00002153 (S) 	
+	2023	002	MATH 203	Linear Algebra and Differential Equation	MATH 203_03	Mathematics	3	0	0	3	5	Course	Samet Sarýoðlan (S) 	D228 D028	Mo 11 - 12 Fr 16 - 18	49 	0 	0 	0 	2 	0,00 	 00002153 (S) 	
+	2023	002	MATH 204	Vector and Complex Calculus	MATH 204_01	Mathematics	3	0	0	3	5	Course	Engin Özkan 	K184 K183	We 12 - 13 Th 11 - 13	19 	0 	0 	0 	0 	0,00 	 00000274 	
+	2023	002	MATH 211	Advanced Calculus I	MATH 211_01	Mathematics	4	0	0	4	8	Course	Mehmet Onur Fen 	A437 A435	Mo 16 - 18 Tu 13 - 15	3 	0 	0 	0 	0 	0,00 	 00000671 	
+	2023	002	MATH 211-O	Advanced Calculus I	MATH 211-O_1	Mathematics	4	0	0	4	7	Course	Mehmet Onur Fen 	A437 A435	Mo 16 - 18 Tu 13 - 15	6 	0 	0 	0 	0 	0,00 	 00000671 	
+	2023	002	MATH 212-O	Advanced Calculus II	MATH 212-O_1	Mathematics	4	0	0	4	7	Course	Engin Özkan 	A216	Tu 11 - 13 We 14 - 16	7 	0 	0 	0 	0 	0,00 	 00000274 	
+	2023	002	MATH 221	Linear Algebra I	MATH 221_01	Mathematics	3	1	0	3	7	Course	Engin Özkan 	A216	Tu 09 - 11 We 09 - 11	2 	0 	0 	0 	0 	0,00 	 00000274 	
+	2023	002	MATH 221-O	Linear Algebra I	MATH 221-O_1	Mathematics	3	0	0	3	6	Course	Engin Özkan 	A216	Tu 09 - 11 We 09 - 11	5 	0 	0 	0 	1 	0,00 	 00000274 	
+	2023	002	MATH 222-O	Linear Algebra II	MATH 222-O_1	Mathematics	3	0	0	3	6	Course	Þükran Gül Erdem 	A437	We 09 - 11 Fr 09 - 11	13 	0 	0 	0 	0 	0,00 	 00002574 	
+	2023	002	MATH 230	Introduction to Probability Theory	MATH 230_01	Mathematics	3	0	0	3	6	Course	Niyazi Anýl Gezer 	DB16 D028	Mo 11 - 13 We 12 - 13	57 	0 	0 	0 	0 	0,00 	 00003329 	
+	2023	002	MATH 232	Introduction to Statistics	MATH 232_01	Mathematics	3	0	0	3	6	Course	Çiðdem Topçu Gülöksüz 	G005 G208	Mo 11 - 13 Th 11 - 12	51 	0 	0 	0 	4 	0,00 	 00004810 	
+	2023	002	MATH 232	Introduction to Statistics	MATH 232_02	Mathematics	3	0	0	3	6	Course	Çiðdem Topçu Gülöksüz 	D026 G208	We 11 - 13 Th 12 - 13	21 	0 	0 	0 	1 	0,00 	 00004810 	
+	2023	002	MATH 233	Statistics for Social Sciences	MATH 233_01	Mathematics	3	1	0	3	5	Course	Çiðdem Topçu Gülöksüz 	G005 H007/009-PC D026	Mo 13 - 15 We 13 - 15	55 	0 	0 	0 	4 	0,00 	 00004810 	
+	2023	002	MATH 240	Introduction to Probability & Statistics	MATH 240_01	Mathematics	3	0	0	3	6	Course	Can Baran Aktaþ 	DB20	Mo 11 - 13 Tu 11 - 12	74 	0 	0 	0 	4 	0,00 	 00001407 	
+	2023	002	MATH 240	Introduction to Probability & Statistics	MATH 240_02	Mathematics	3	0	0	3	6	Course	Can Baran Aktaþ 	DB20	Mo 15 - 16 Tu 14 - 16	70 	0 	0 	0 	2 	0,00 	 00001407 	
+	2023	002	MATH 240	Introduction to Probability & Statistics	MATH 240_03	Mathematics	3	0	0	3	6	Course	Rýza Secer Orkun Keskin 	DB16 D028	Mo 15 - 16 Tu 14 - 16	63 	0 	0 	0 	4 	0,00 	 00001812 	
+	2023	002	MATH 242	Differential Equations	MATH 242_01	Mathematics	3	0	0	3	6	Course	Merve Gürbüz Çaldað 	A437	Fr 14 - 17	17 	0 	0 	0 	1 	0,00 	 00004103 	
+	2023	002	MATH 250	Discrete Mathematics for Engineering	MATH 250_01	Mathematics	3	0	0	3	5	Course	Niyazi Anýl Gezer 	DB16	Mo 09 - 11 We 13 - 14	33 	0 	0 	0 	0 	0,00 	 00003329 	
+	2023	002	MATH 250	Discrete Mathematics for Engineering	MATH 250_02	Mathematics	3	0	0	3	5	Course	Niyazi Anýl Gezer 	DB16	Mo 13 - 15 We 14 - 15	51 	0 	0 	0 	0 	0,00 	 00003329 	
+	2023	002	MATH 314	Complex Analysis	MATH 314_01	Mathematics	4	0	0	4	7	Course	Mehmet Onur Fen 	A435 A437	Mo 14 - 16 Th 12 - 14	16 	0 	0 	0 	1 	0,00 	 00000671 	
+	2023	002	MATH 322	Abstract Algebra II	MATH 322_01	Mathematics	3	1	0	3	7	Course	Fuat Erdem 	A437	Tu 13 - 15 Th 09 - 11	9 	0 	0 	0 	0 	0,00 	 00001816 	
+	2023	002	MATH 352	Numerical Methods	MATH 352_01	Mathematics	3	0	0	3	6	Course	Bengisen Pekmen 	A435 A437	Mo 13 - 14 We 12 - 14	10 	0 	0 	0 	0 	0,00 	 00000247 	
+	2023	002	MATH 411	Introduction to Functional Analysis	MATH 411_01	Mathematics	3	0	0	3	6	Course	Mehmet Onur Fen 	A435 A437	Tu 15 - 17 Th 11 - 12	14 	0 	0 	0 	1 	0,00 	 00000671 	
+	2023	002	MATH 435	Probability Theory	MATH 435_01	Mathematics	3	0	0	3	6	Course	Niyazi Anýl Gezer 	A437	Fr 11 - 14	16 	0 	0 	0 	0 	0,00 	 00003329 	
+	2023	002	MATH 441	Partial Differential Equations	MATH 441_01	Mathematics	3	0	0	3	6	Course	Bengisen Pekmen 	A435 A437	Mo 10 - 12 We 11 - 12	20 	0 	0 	0 	0 	0,00 	 00000247 	
+	2023	002	MATH 491	Senior Project	MATH 491_01	Mathematics	3	0	0	3	6	Course	Bengisen Pekmen , Þükran Gül Erdem , Çiðdem Topçu Gülöksüz 		Fr 18 - 21	3 	0 	0 	0 	0 	0,00 	 00000247 , 00002574 , 00004810 	
+	2023	002	ME 224	Design and Manufacturing	ME 224_01	Department of Mechanical Engineering	   2	   0	   2	3	   6	Course	Þehram Dizeci 	G105 HB03-MF-L	Tu 16 - 18 Th 09 - 11	14 	0 	0 	0 	0 	0,00 	 00000862 	
+	2023	002	ME 241	Introduction to Solid Mechanics	ME 241_01	Department of Mechanical Engineering	3	0	0	3	6	Course	Þehram Dizeci 	G205 G213	Tu 13 - 14 Th 12 - 14	6 	0 	0 	0 	0 	0,00 	 00000862 	
+	2023	002	ME 242	Dynamics	ME 242_01	Department of Mechanical Engineering	3	0	0	3	6	Course	Yiðit Taþcýoðlu , Kutluk Bilge Arýkan 	G113 F212	Tu 13 - 14 Th 12 - 14	7 	0 	0 	0 	0 	0,00 	 00002636 , 00001324 	
+	2023	002	ME 264	Thermodynamics	ME 264_01	Department of Mechanical Engineering	   3	   0	   0	3	   6	Course	Onur Baþ 	F206	Tu 09 - 11 Th 11 - 12	11 	0 	0 	0 	0 	0,00 	 00001495 	
+	2023	002	ME 302	Experimental Engineering	ME 302_01	Department of Mechanical Engineering	   1	   0	   4	3	   5	Course	Ayþe Çaðýl Kandemir 	DB102-MF-L	We 13 - 14 Fr 09 - 13	7 	0 	0 	0 	0 	0,00 	 00001517 	
+	2023	002	ME 302	Experimental Engineering	ME 302_02	Department of Mechanical Engineering	   1	   0	   4	3	   5	Course	Onur Baþ 	DB102-MF-L	We 13 - 14 Fr 14 - 18	10 	0 	0 	0 	1 	0,00 	 00001495 	
+	2023	002	ME 324	Machine Design I	ME 324_01	Department of Mechanical Engineering	   3	   0	   0	3	   5	Course	Mehmet Nurullah Balcý (S) 	G006	Th 14 - 17	16 	0 	0 	0 	0 	0,00 	 00005811 (S) 	
+	2023	002	ME 336	Modeling and Control of Dynamic Systems	ME 336_01	Department of Mechanical Engineering	   3	   0	   0	3	   5	Course	Yiðit Taþcýoðlu 	G212 G003	Mo 14 - 15 We 09 - 11	31 	0 	0 	0 	0 	0,00 	 00002636 	
+	2023	002	ME 345	Mechanics of Materials	ME 345_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Rýza Secer Orkun Keskin 		We 12 - 15 Fr 11 - 13	1 	0 	0 	0 	0 	0,00 	 00001812 	
+	2023	002	ME 362	Heat Transfer	ME 362_01	Department of Mechanical Engineering	   3	   0	   0	3	   5	Course	Sýtký Uslu 	G212 G108	Mo 13 - 14 We 14 - 16	24 	0 	0 	0 	3 	0,00 	 00005663 	
+	2023	002	ME 399-O	Summer Practice I	ME 399_01	Department of Mechanical Engineering	1	0	0	1	2	Internship	Ayþe Çaðýl Kandemir 		Th 18 - 19	4 	0 	0 	0 	0 	0,00 	 00001517 	
+	2023	002	ME 442	Computer Aided Design and Manufacturing	ME 442_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Þehram Dizeci 	G101	Mo 10 - 13	9 	0 	0 	0 	0 	0,00 	 00000862 	
+	2023	002	ME 447	Nanomaterials and Nanotechnology	ME 447_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Ayþe Çaðýl Kandemir 	G108	Mo 15 - 18	9 	0 	0 	0 	0 	0,00 	 00001517 	
+	2023	002	ME 457	Applied Aerodynamics	ME 457_01	Department of Mechanical Engineering	3	0	0	3	5	Course	Onur Baþ 	G101 DB102-MF-L	Tu 12 - 14 Tu 11 - 12	11 	0 	0 	0 	0 	0,00 	 00001495 	
+	2023	002	ME 492	Senior Project	ME 492_01	Department of Mechanical Engineering	   0	   0	   8	4	  12	Course	Yiðit Taþcýoðlu 	G101	We 16 - 18	11 	0 	0 	0 	0 	0,00 	 00002636 	
+	2023	002	ME 492	Senior Project	ME 492_02	Department of Mechanical Engineering	   0	   0	   8	4	  12	Course	Yiðit Taþcýoðlu , Kutluk Bilge Arýkan 		We 16 - 18	3 	0 	0 	0 	0 	0,00 	 00002636 , 00001324 	
+	2023	002	PCG 102	Developmental Psychology 1	PCG 102_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Selin Onaylý 	D232	Fr 09 - 12	2 	0 	0 	0 	0 	0,00 	 00002607 	
+	2023	002	PCG 106	GPC in Schools	PCG 106_01	Guidance and Psychological Counselling	2	0	0	2	5	Course	Nergis Hazal Yýlmaztürk 	D228	We 09 - 12	1 	0 	0 	0 	0 	0,00 	 00000509 	
+	2023	002	PCG 202	Personality Theories	PCG 202_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Ayþegül Aracý Ýyiaydýn 	D230	Th 09 - 12	1 	0 	0 	0 	0 	0,00 	 00000845 	
+	2023	002	PCG 204	Life Span and Adjustment Problems	PCG 204_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Selin Onaylý 	D232	Fr 09 - 12	5 	0 	0 	0 	0 	0,00 	 00002607 	
+	2023	002	PCG 205	Social Psychology	PCG 205_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Kürþad Demirutku 	G103	We 12 - 15	10 	0 	0 	0 	0 	0,00 	 00001134 	
+	2023	002	PCG 206	Character and Value Education	PCG 206_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Kürþad Demirutku 	DB20	Th 11 - 14	2 	0 	0 	0 	0 	0,00 	 00001134 	
+	2023	002	PCG 208	Non-Testing Techniques	PCG 208_01	Guidance and Psychological Counselling	1	2	0	2	3	Course	Ayþegül Aracý Ýyiaydýn 	G213	Mo 16 - 19	2 	0 	0 	0 	0 	0,00 	 00000845 	
+	2023	002	PCG 251	Child Abuse and Neglect	PCG 251_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Þahin Antakyalýoðlu (S) 	G213	We 16 - 19	5 	0 	0 	0 	0 	0,00 	 00005029 (S) 	
+	2023	002	PCG 264	Contemporary Approaches and Models in C.	PCG 264_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Fatma Zehra Ünlü Kaynakçý 	D230	Fr 12 - 15	1 	0 	0 	0 	0 	0,00 	 00004120 	
+	2023	002	PCG 271	Family Relations and Communication	PCG 271_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Ayþegül Aracý Ýyiaydýn 	G213	Mo 16 - 19	16 	0 	0 	0 	1 	0,00 	 00000845 	
+	2023	002	PCG 272	Family Violence	PCG 272_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Ayþegül Aracý Ýyiaydýn 	G213	Mo 16 - 19	1 	0 	0 	0 	0 	0,00 	 00000845 	
+	2023	002	PCG 301	Behavioral Disorders 1	PCG 301_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Gökçen Kuru (S) 	F304	Mo 13 - 16	12 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	PCG 303	Psychological Tests	PCG 303_01	Guidance and Psychological Counselling	1	2	0	2	3	Course	Gökçen Kuru (S) 	G105	Th 15 - 18	1 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	PCG 306	Group Counseling	PCG 306_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Nilüfer Havva Voltan Acar 	G006	Tu 13 - 16	8 	0 	0 	0 	0 	0,00 	 00001372 	
+	2023	002	PCG 306	Group Counseling	PCG 306_02	Guidance and Psychological Counselling	2	0	0	2	3	Course	Nilüfer Havva Voltan Acar 	G005	We 15 - 18	8 	0 	0 	0 	1 	0,00 	 00001372 	
+	2023	002	PCG 307	Theories of Counseling	PCG 307_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Sýdýka Burcu Üçok 	D230	Tu 16 - 19	3 	0 	0 	0 	0 	0,00 	 00003224 	
+	2023	002	PCG 308	Field Prac. in Career Guidance and Cou.	PCG 308_01	Guidance and Psychological Counselling	1	2	0	2	2	Course	Olcay Yýlmaz 	D028	Fr 09 - 12	8 	0 	0 	0 	0 	0,00 	 00001468 	
+	2023	002	PCG 309	Career Guidance and Counseling	PCG 309_01	Guidance and Psychological Counselling	2	0	0	2	2	Course	Olcay Yýlmaz 	D234	We 09 - 11	13 	0 	0 	0 	0 	0,00 	 00001468 	
+	2023	002	PCG 353	Industrial and Organizational Psychology	PCG 353_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Gökçen Kuru (S) 	F304	Mo 13 - 16	7 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	PCG 355	Human Resources Management	PCG 355_01	Guidance and Psychological Counselling	2	0	0	2	4	Course	Gökçen Kuru (S) 	G105	Th 15 - 18	6 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	PCG 402	Children#s Law	PCG 402_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Þahin Antakyalýoðlu (S) 	G213	We 16 - 19	1 	0 	0 	0 	0 	0,00 	 00005029 (S) 	
+	2023	002	PCG 404	Post-Trauma Counseling	PCG 404_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Begüm Serim Yýldýz 	D026	Mo 09 - 11	62 	0 	0 	0 	0 	0,00 	 00002033 	
+	2023	002	PCG 406	Seminars on Guidance and Psych. Couns.	PCG 406_01	Guidance and Psychological Counselling	2	0	0	2	3	Course	Sýdýka Burcu Üçok 	G113	Mo 11 - 14	58 	0 	0 	0 	0 	0,00 	 00003224 	
+	2023	002	PCG 408	Field Practice in Individual Couns. 2	PCG 408_01	Guidance and Psychological Counselling	1	2	0	2	3	Course	Nilüfer Havva Voltan Acar 	F114-PSCG-L	Mo 15 - 16 We 11 - 13	13 	0 	0 	0 	1 	0,00 	 00001372 	
+	2023	002	PCG 408	Field Practice in Individual Couns. 2	PCG 408_02	Guidance and Psychological Counselling	1	2	0	2	3	Course	Melike Ýncioðlu (S) 	F104-PSCG-L	Mo 15 - 16 Fr 13 - 15	12 	0 	0 	0 	0 	0,00 	 00003258 (S) 	
+	2023	002	PCG 408	Field Practice in Individual Couns. 2	PCG 408_03	Guidance and Psychological Counselling	1	2	0	2	3	Course	Melike Ýncioðlu (S) 	F104-PSCG-L	Mo 15 - 16 Fr 15 - 17	12 	0 	0 	0 	0 	0,00 	 00003258 (S) 	
+	2023	002	PCG 408	Field Practice in Individual Couns. 2	PCG 408_04	Guidance and Psychological Counselling	1	2	0	2	3	Course	Nergis Hazal Yýlmaztürk 	F106-PSCG-L	Mo 15 - 16 Th 10 - 12	13 	0 	0 	0 	0 	0,00 	 00000509 	
+	2023	002	PCG 408	Field Practice in Individual Couns. 2	PCG 408_05	Guidance and Psychological Counselling	1	2	0	2	3	Course	Ayþegül Aracý Ýyiaydýn 	F106-PSCG-L	Mo 15 - 16 Th 14 - 16	13 	0 	0 	0 	0 	0,00 	 00000845 	
+	2023	002	PECE 102	Practicum 1	PECE 102_01	Early Childhood Education	1	4	0	3	6	Course	Sühendan Semine Er 	F204	Tu 13 - 14 Fr 09 - 13	15 	0 	0 	0 	0 	0,00 	 00000067 	
+	2023	002	PECE 102	Practicum 1	PECE 102_02	Early Childhood Education	1	4	0	3	6	Course	Adile Gülþah Saranlý 	GB10-PECE-L	Tu 13 - 14 Fr 09 - 13	16 	0 	0 	0 	0 	0,00 	 00000002 	
+	2023	002	PECE 104	Curriculum in Early Childhood Education	PECE 104_01	Early Childhood Education	3	0	0	3	5	Course	Çaðla Öneren Þendil 	GB10-PECE-L	Mo 09 - 12	32 	0 	0 	0 	0 	0,00 	 00001058 	
+	2023	002	PECE 106	Drama in Early Childhood Education	PECE 106_01	Early Childhood Education	1	2	0	2	5	Course	Elif Buldu 	GB10-PECE-L	Mo 14 - 17	27 	0 	0 	0 	0 	0,00 	 00002609 	
+	2023	002	PECE 108	Development and Learning in ECE	PECE 108_01	Early Childhood Education	2	2	0	3	5	Course	Adile Gülþah Saranlý 	GB10-PECE-L	Tu 14 - 16 Fr 15 - 17	30 	0 	0 	0 	0 	0,00 	 00000002 	
+	2023	002	PECE 202	Science Education in Early Childhood	PECE 202_01	Early Childhood Education	3	0	0	3	6	Course	Elif Buldu 	GB10-PECE-L	Th 09 - 12	29 	0 	0 	0 	0 	0,00 	 00002609 	
+	2023	002	PECE 204	Mathematics Education in Early Childhood	PECE 204_01	Early Childhood Education	3	0	0	3	6	Course	Fatma Yalçýn 	GB10-PECE-L	Fr 09 - 12	22 	0 	0 	0 	0 	0,00 	 00004802 	
+	2023	002	PECE 260	Pedagogy of Play	PECE 260_01	Early Childhood Education	2	0	0	2	4	Course	Sühendan Semine Er 	GB10-PECE-L	We 11 - 13	24 	0 	0 	0 	0 	0,00 	 00000067 	
+	2023	002	PECE 302	Classroom Management in ECE	PECE 302_01	Early Childhood Education	3	0	0	3	7	Course	Melike Kandemir 	D226	Fr 09 - 12	26 	0 	0 	0 	1 	0,00 	 00004130 	
+	2023	002	PECE 304	Child Mental Health	PECE 304_01	Early Childhood Education	3	0	0	3	7	Course	Çaðla Öneren Þendil 	GB10-PECE-L	Tu 09 - 12	27 	0 	0 	0 	0 	0,00 	 00001058 	
+	2023	002	PECE 306	Children#s Literature in Early Childhood	PECE 306_01	Early Childhood Education	2	0	0	2	5	Course	Sühendan Semine Er 	GB10-PECE-L	We 13 - 15	25 	0 	0 	0 	0 	0,00 	 00000067 	
+	2023	002	PECE 420	Early Childhood Education Across Nations	PECE 420_01	Early Childhood Education	2	0	0	2	4	Course	Fatma Yalçýn 	GB10-PECE-L	Fr 13 - 15	7 	0 	0 	0 	0 	0,00 	 00004802 	
+	2023	002	PHIL 104	Philosophy and Ethics	PHIL 104_01	Basic Sciences	3	0	0	3	5	Course	Ahmet Ýnam (S) 	G108	We 11 - 14	45 	0 	0 	0 	4 	0,00 	 00000566 (S) 	
+	2023	002	PHYS 101	General Physics I	PHYS 101_01	Basic Sciences	3	0	2	4	6	Course	Onur Benli 	D026 K184	Mo 11 - 13 Th 11 - 12	46 	0 	0 	0 	0 	0,00 	 00004109 	
+	2023	002	PHYS 101	General Physics I	PHYS 101_02	Basic Sciences	3	0	2	4	6	Course	Onur Benli 	K184	Tu 11 - 13 Th 12 - 13	41 	0 	0 	0 	1 	0,00 	 00004109 	
+	2023	002	PHYS 101	General Physics I	PHYS 101_03	Basic Sciences	3	0	2	4	6	Course	Cüneyt Can (S) 	D026 D030	Tu 09 - 11 Th 14 - 15	49 	0 	0 	0 	1 	0,00 	 00001821 (S) 	
+	2023	002	PHYS 101	General Physics I	PHYS 101_04	Basic Sciences	3	0	2	4	6	Course	Cüneyt Can (S) 	D026 DB18	Tu 11 - 13 Th 12 - 13	48 	0 	0 	0 	0 	0,00 	 00001821 (S) 	
+	2023	002	PHYS 102	General Physics II	PHYS 102_01	Basic Sciences	3	0	2	4	6	Course	Cüneyt Can (S) 	DB18	We 09 - 11 Fr 12 - 13	32 	0 	0 	0 	0 	0,00 	 00001821 (S) 	
+	2023	002	PHYS 102	General Physics II	PHYS 102_02	Basic Sciences	3	0	2	4	6	Course	Cüneyt Can (S) 	DB18	We 11 - 13 Fr 13 - 14	42 	0 	0 	0 	0 	0,00 	 00001821 (S) 	
+	2023	002	PHYS 105	Physics I	PHYS 105_01	Basic Sciences	3	0	2	4	6	Course	Süleyman Þinasi Ellialtýoðlu 	K183	Tu 11 - 13 Fr 12 - 13	34 	0 	0 	0 	1 	0,00 	 00000068 	
+	2023	002	PHYS 120	General Astronomy	PHYS 120_01	Basic Sciences	3	0	0	3	5	Course	Sinan Kaan Yerli (S) 	G212	Th 16 - 19	15 	0 	0 	0 	2 	0,00 	 00002027 (S) 	
+	2023	002	PRED 102	Practicum 1	PRED 102_01	Primary Education	1	4	0	3	6	Course	Esra Özcan 	D226 F206	We 16 - 17 Fr 13 - 17	18 	0 	0 	0 	0 	0,00 	 00004127 	
+	2023	002	PRED 102	Practicum 1	PRED 102_02	Primary Education	1	4	0	3	6	Course	Tülin Haþlaman 	F217 F212	We 16 - 17 Fr 13 - 17	14 	0 	0 	0 	0 	0,00 	 00000320 	
+	2023	002	PRED 104	Fundamental Science in Primary Education	PRED 104_01	Primary Education	3	0	0	3	4	Course	Mehmet Þen 	D126-EF-L G005	Mo 09 - 11 Tu 11 - 12	31 	0 	0 	0 	0 	0,00 	 00004404 	
+	2023	002	PRED 106	Development and Learning	PRED 106_01	Primary Education	3	0	0	3	5	Course	Esra Özcan 	D226 D126-EF-L	We 15 - 16 Th 15 - 17	32 	0 	0 	0 	0 	0,00 	 00004127 	
+	2023	002	PRED 202	Classroom Management	PRED 202_01	Primary Education	1	2	0	2	6	Course	Sinem Sözen Özdoðan 	D226	Mo 15 - 17 Fr 16 - 17	27 	0 	0 	0 	0 	0,00 	 00000066 	
+	2023	002	PRED 204	Literacy Education	PRED 204_01	Primary Education	2	2	0	3	6	Course	Berrin Genç Ersoy 	G212	We 11 - 13 Th 11 - 13	25 	0 	0 	0 	0 	0,00 	 00001062 	
+	2023	002	PRED 230	Teaching Turkish as a Foreign Language	PRED 230_01	Primary Education	2	0	0	2	4	Course	Berrin Genç Ersoy 	F115	We 13 - 15	9 	0 	0 	0 	0 	0,00 	 00001062 	
+	2023	002	PRED 302	Practicum 2	PRED 302_01	Primary Education	1	6	0	4	7	Course	Sinem Sözen Özdoðan 	D226	Mo 17 - 18 Fr 09 - 15	23 	0 	0 	0 	0 	0,00 	 00000066 	
+	2023	002	PRED 304	Science Education	PRED 304_01	Primary Education	2	2	0	3	6	Course	Mehmet Þen 	D126-EF-L D232	Tu 09 - 11 Th 09 - 11	23 	0 	0 	0 	0 	0,00 	 00004404 	
+	2023	002	PRED 306	Mathematics Education 2	PRED 306_01	Primary Education	2	2	0	3	6	Course	Kübra Çelikdemir 	D126-EF-L	Tu 11 - 13 We 09 - 11	23 	0 	0 	0 	0 	0,00 	 00003248 	
+	2023	002	PRED 308	Social Studies Education 2	PRED 308_01	Primary Education	2	2	0	3	6	Course	Esra Özcan 	G212	We 13 - 15 Th 13 - 15	22 	0 	0 	0 	0 	0,00 	 00004127 	
+	2023	002	PRED 420	Intelligence Games	PRED 420_01	Primary Education	2	0	0	2	4	Course	Kübra Çelikdemir 	D126-EF-L	Tu 15 - 17	14 	0 	0 	0 	0 	0,00 	 00003248 	
+	2023	002	PRED 480	Environmental Education	PRED 480_01	Primary Education	2	0	0	2	4	Course	Mehmet Þen 	D126-EF-L	Mo 11 - 13	15 	0 	0 	0 	0 	0,00 	 00004404 	
+	2023	002	PSCG 102	Introduction to Counseling and Guidance	PSCG 102_01	Guidance and Psychological Counselling	3	0	0	3	7	Course	Nergis Hazal Yýlmaztürk 	D228	We 09 - 12	31 	0 	0 	0 	0 	0,00 	 00000509 	
+	2023	002	PSCG 104	Life Span Development	PSCG 104_01	Guidance and Psychological Counselling	3	0	0	3	8	Course	Selin Onaylý 	D232	Fr 09 - 12	30 	0 	0 	0 	0 	0,00 	 00002607 	
+	2023	002	PSCG 202	Social Psychology	PSCG 202_01	Guidance and Psychological Counselling	3	0	0	3	6	Course	Kürþad Demirutku 	G103	We 12 - 15	37 	0 	0 	0 	0 	0,00 	 00001134 	
+	2023	002	PSCG 204	Theories of Counseling	PSCG 204_01	Guidance and Psychological Counselling	3	0	0	3	6	Course	Sýdýka Burcu Üçok 	D230	Tu 16 - 19	35 	0 	0 	0 	0 	0,00 	 00003224 	
+	2023	002	PSCG 240	Character and Values Education	PSCG 240_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Kürþad Demirutku 	DB20	Th 11 - 14	15 	0 	0 	0 	0 	0,00 	 00001134 	
+	2023	002	PSCG 280	Child Abuse and Neglect	PSCG 280_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Þahin Antakyalýoðlu (S) 	G213	We 16 - 19	7 	0 	0 	0 	0 	0,00 	 00005029 (S) 	
+	2023	002	PSCG 290	Aggression and Violence Management	PSCG 290_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Ayþegül Aracý Ýyiaydýn 	G213	Mo 16 - 19	32 	0 	0 	0 	0 	0,00 	 00000845 	
+	2023	002	PSCG 302	Crisis and Trauma Counseling	PSCG 302_01	Guidance and Psychological Counselling	3	0	0	3	6	Course	Begüm Serim Yýldýz 	DB16	Fr 09 - 12	49 	0 	0 	0 	0 	0,00 	 00002033 	
+	2023	002	PSCG 304	Group Counseling	PSCG 304_01	Guidance and Psychological Counselling	3	0	0	3	6	Course	Nilüfer Havva Voltan Acar 	G006	Tu 13 - 16	19 	0 	0 	0 	0 	0,00 	 00001372 	
+	2023	002	PSCG 304	Group Counseling	PSCG 304_02	Guidance and Psychological Counselling	3	0	0	3	6	Course	Nilüfer Havva Voltan Acar 	G005	We 15 - 18	30 	0 	0 	0 	0 	0,00 	 00001372 	
+	2023	002	PSCG 340	Contemporary App.and Models in Counsel.	PSCG 340_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Fatma Zehra Ünlü Kaynakçý 	D230	Fr 12 - 15	24 	0 	0 	0 	0 	0,00 	 00004120 	
+	2023	002	PSCG 360	Industrial and Organizational Psychology	PSCG 360_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Gökçen Kuru (S) 	F304	Mo 13 - 16	6 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	PSCG 370	Human Resources Management	PSCG 370_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Gökçen Kuru (S) 	G105	Th 15 - 18	5 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	PSCG 400	Theories of Personality	PSCG 400_01	Guidance and Psychological Counselling	3	0	0	3	5	Course	Ayþegül Aracý Ýyiaydýn 	D230	Th 09 - 12	12 	0 	0 	0 	1 	0,00 	 00000845 	
+	2023	002	PSIR 110	Introduction to Political Studies	PSIR 110_01	Dep. of Political Science Intern. Rel.	3	0	0	3	5	Course	Adile Aylin Özman Erkman 		Fr 13 - 16	114 	0 	0 	0 	0 	0,00 	 00000007 	
+	2023	002	PSIR 214	Political Currents	PSIR 214_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Adile Aylin Özman Erkman 	D230	Fr 09 - 12	40 	0 	0 	0 	0 	0,00 	 00000007 	
+	2023	002	PSIR 216	Political Sociology	PSIR 216_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Gülþen Seven 	GB05	Fr 13 - 16	31 	0 	0 	0 	2 	0,00 	 00001464 	
+	2023	002	PSIR 266	Turkish Constitutional Law	PSIR 266_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Ýsmail Yüksel (S) 	Online	Th 09 - 12	32 	0 	0 	0 	0 	0,00 	 00005817 (S) 	
+	2023	002	PSIR 292	International Relations Theory	PSIR 292_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Zuhal Yeþilyurt Gündüz 	G105	Mo 09 - 12	52 	0 	0 	0 	1 	0,00 	 00000077 	
+	2023	002	PSIR 300-O	Summer Practice  I	PSIR 300-O_1	Dep. of Political Science Intern. Rel.	1	0	0	1	2	Internship	Zuhal Yeþilyurt Gündüz 		Fr 18 - 19	3 	0 	0 	0 	1 	0,00 	 00000077 	
+	2023	002	PSIR 316	Politics of Masculinities	PSIR 316_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Selin Akyüz Tursun 	A435	We 09 - 12	31 	0 	0 	0 	0 	0,00 	 00002563 	
+	2023	002	PSIR 336	Contemporary Turkish Politics	PSIR 336_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Selin Akyüz Tursun 	G005	We 12 - 15	39 	0 	0 	0 	0 	0,00 	 00002563 	
+	2023	002	PSIR 352	History of Political Thought II	PSIR 352_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Gülþen Seven 	D028	Tu 09 - 12	44 	0 	0 	0 	0 	0,00 	 00001464 	
+	2023	002	PSIR 374	Comparative Politics	PSIR 374_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Kerem Kýlýçdaroðlu 	G213	Mo 13 - 16	44 	0 	0 	0 	1 	0,00 	 00001769 	
+	2023	002	PSIR 394	Diplomatic History	PSIR 394_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Senem Yýldýrým Özdem 	G010	Tu 13 - 16	47 	0 	0 	0 	4 	0,00 	 00002048 	
+	2023	002	PSIR 400-O	Summer Practice II	PSIR 400-O_1	Dep. of Political Science Intern. Rel.	1	0	0	1	2	Internship	Zuhal Yeþilyurt Gündüz 		Fr 19 - 20	11 	0 	0 	0 	0 	0,00 	 00000077 	
+	2023	002	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_1	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Zuhal Yeþilyurt Gündüz 		Tu 18 - 21	5 	0 	0 	0 	0 	0,00 	 00000077 	
+	2023	002	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_3	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Gülþen Seven 		Tu 18 - 21	4 	0 	0 	0 	0 	0,00 	 00001464 	
+	2023	002	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_4	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Selin Akyüz Tursun 		Tu 18 - 21	5 	0 	0 	0 	0 	0,00 	 00002563 	
+	2023	002	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_5	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Senem Yýldýrým Özdem 		Tu 18 - 21	5 	0 	0 	0 	0 	0,00 	 00002048 	
+	2023	002	PSIR 402-O	Graduation Paper and Seminar	PSIR 402-O_6	Dep. of Political Science Intern. Rel.	3	0	0	3	7	Course	Kerem Kýlýçdaroðlu 		Tu 18 - 21	5 	0 	0 	0 	0 	0,00 	 00001769 	
+	2023	002	PSIR 422	Current Issues in World Politics	PSIR 422_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Emre Demir 	G203	Mo 16 - 19	25 	0 	0 	0 	9 	0,00 	 00000019 	
+	2023	002	PSIR 491	Foreign Policy Analysis	PSIR 491_01	Dep. of Political Science Intern. Rel.	3	0	0	3	6	Course	Emre Demir 	F212	We 16 - 19	11 	0 	0 	0 	0 	0,00 	 00000019 	
+	2023	002	PSY 102	General Psychology	PSY 102_01	Department of Psychology	3	0	0	3	6	Course	Baðdat Deniz Kaynak 	G103	Tu 12 - 15	40 	0 	0 	0 	0 	0,00 	 00003893 	
+	2023	002	PSY 102	General Psychology	PSY 102_02	Department of Psychology	3	0	0	3	6	Course	Baðdat Deniz Kaynak 	G010	Th 12 - 15	39 	0 	0 	0 	0 	0,00 	 00003893 	
+	2023	002	PSY 104	Psychology	PSY 104_01	Department of Psychology	3	0	0	3	5	Course	Burcu Altýn 	K183	Fr 09 - 12	39 	0 	0 	0 	2 	0,00 	 00002572 	
+	2023	002	PSY 204	Research Methods II	PSY 204_01	Department of Psychology	2	2	0	3	7	Course	Canay Doðulu 	D234	Tu 12 - 14 Th 14 - 16	42 	0 	0 	0 	0 	0,00 	 00002576 	
+	2023	002	PSY 204	Research Methods II	PSY 204_02	Department of Psychology	2	2	0	3	7	Course	Canay Doðulu 	D234	Tu 14 - 16 Th 12 - 14	47 	0 	0 	0 	0 	0,00 	 00002576 	
+	2023	002	PSY 206	Applied Research & Data Analysis	PSY 206_01	Department of Psychology	2	2	0	3	6	Course	Emrah Keser 	A514-PC-L	Mo 09 - 11 We 13 - 15	61 	0 	0 	0 	4 	0,00 	 00002739 	
+	2023	002	PSY 206	Applied Research & Data Analysis	PSY 206_02	Department of Psychology	2	2	0	3	6	Course	Emrah Keser 	A514-PC-L	Mo 13 - 15 We 09 - 11	68 	0 	0 	0 	3 	0,00 	 00002739 	
+	2023	002	PSY 222	Life-Span Development II	PSY 222_01	Department of Psychology	3	0	0	3	6	Course	Sevi Gizem Zeybek 	D228	Fr 09 - 12	37 	0 	0 	0 	0 	0,00 	 00002022 	
+	2023	002	PSY 222	Life-Span Development II	PSY 222_02	Department of Psychology	3	0	0	3	6	Course	Sevi Gizem Zeybek 	D234	Fr 16 - 19	44 	0 	0 	0 	0 	0,00 	 00002022 	
+	2023	002	PSY 232	Social Psychology II	PSY 232_01	Department of Psychology	3	0	0	3	6	Course	Beril Türkoðlu Demirel 	D234	Fr 13 - 16	23 	0 	0 	0 	0 	0,00 	 00003892 	
+	2023	002	PSY 232-O	Social Psychology	PSY 232-O_01	Department of Psychology	3	0	0	3	6	Course	Beril Türkoðlu Demirel 	K184	Th 16 - 19	26 	0 	0 	0 	0 	0,00 	 00003892 	
+	2023	002	PSY 232-O	Social Psychology	PSY 232-O_02	Department of Psychology	3	0	0	3	6	Course	Beril Türkoðlu Demirel 	K085	Th 09 - 12	31 	0 	0 	0 	0 	0,00 	 00003892 	
+	2023	002	PSY 244	Sport Psychology	PSY 244_01	Department of Psychology	3	0	0	3	6	Course	Mustafa Ozan Altýn (S) 	Online	Mo 18 - 21	59 	0 	0 	0 	0 	0,00 	 00005866 (S) 	
+	2023	002	PSY 308	Testing and Measurement in Psychology	PSY 308_01	Department of Psychology	2	2	2	3	7	Course	Deniz Okay 	D030 D230	Tu 09 - 11 Th 12 - 14	25 	0 	0 	0 	0 	0,00 	 00000959 	
+	2023	002	PSY 308	Testing and Measurement in Psychology	PSY 308_02	Department of Psychology	2	2	2	3	7	Course	Deniz Okay 	DB20 D228	Tu 12 - 14 Th 09 - 11	52 	0 	0 	0 	0 	0,00 	 00000959 	
+	2023	002	PSY 312	Biopsychology	PSY 312_01	Department of Psychology	3	0	0	3	6	Course	Buse Merve Ürgen 	G113	Tu 16 - 19	50 	0 	0 	0 	0 	0,00 	 00004102 	
+	2023	002	PSY 312	Biopsychology	PSY 312_02	Department of Psychology	3	0	0	3	6	Course	Buse Merve Ürgen 	G103	We 15 - 18	54 	0 	0 	0 	1 	0,00 	 00004102 	
+	2023	002	PSY 317	Sensation and Perception	PSY 317_01	Department of Psychology	3	0	0	3	6	Course	Buse Merve Ürgen 	G006	We 09 - 12	8 	0 	0 	0 	0 	0,00 	 00004102 	
+	2023	002	PSY 332	Psychology of Emotion	PSY 332_01	Department of Psychology	3	0	0	3	6	Course	Baðdat Deniz Kaynak 	G003	Fr 09 - 12	28 	0 	0 	0 	3 	0,00 	 00003893 	
+	2023	002	PSY 342	Psychopathology	PSY 342_01	Department of Psychology	3	0	0	3	6	Course	Yaðmur Ar Karcý 	K085	Mo 11 - 14	41 	0 	0 	0 	0 	0,00 	 00001334 	
+	2023	002	PSY 342	Psychopathology	PSY 342_02	Department of Psychology	3	0	0	3	6	Course	Yaðmur Ar Karcý 	K084	Mo 15 - 18	44 	0 	0 	0 	1 	0,00 	 00001334 	
+	2023	002	PSY 343	Clinical Psychology	PSY 343_01	Department of Psychology	3	0	0	3	6	Course	Yaðmur Ar Karcý 	K084	We 12 - 15	18 	0 	0 	0 	0 	0,00 	 00001334 	
+	2023	002	PSY 344	Theories of Child Psychotherapy	PSY 344_01	Department of Psychology	3	0	0	3	6	Course	Burcu Altýn 	G103	Tu 09 - 12	32 	0 	0 	0 	0 	0,00 	 00002572 	
+	2023	002	PSY 344	Theories of Child Psychotherapy	PSY 344_02	Department of Psychology	3	0	0	3	6	Course	Burcu Altýn 	G108	Th 09 - 12	30 	0 	0 	0 	2 	0,00 	 00002572 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_01	Department of Psychology	3	2	0	4	8	Course	Burcu Altýn 		Fr 16 - 19	10 	0 	0 	0 	0 	0,00 	 00002572 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_02	Department of Psychology	3	2	0	4	8	Course	Yaðmur Ar Karcý 		Fr 16 - 19	10 	0 	0 	0 	0 	0,00 	 00001334 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_03	Department of Psychology	3	2	0	4	8	Course	Beril Türkoðlu Demirel 		Fr 16 - 19	11 	0 	0 	0 	0 	0,00 	 00003892 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_04	Department of Psychology	3	2	0	4	8	Course	Baðdat Deniz Kaynak 		Fr 16 - 19	10 	0 	0 	0 	0 	0,00 	 00003893 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_05	Department of Psychology	3	2	0	4	8	Course	Buse Merve Ürgen 		Fr 16 - 19	9 	0 	0 	0 	0 	0,00 	 00004102 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_06	Department of Psychology	3	2	0	4	8	Course	Emrah Keser 		Fr 16 - 19	8 	0 	0 	0 	0 	0,00 	 00002739 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_07	Department of Psychology	3	2	0	4	8	Course	Canay Doðulu 		Fr 16 - 19	10 	0 	0 	0 	0 	0,00 	 00002576 	
+	2023	002	PSY 402	Graduation Paper and Seminar	PSY 402_08	Department of Psychology	3	2	0	4	8	Course	Canay Doðulu 		Fr 16 - 19	12 	0 	0 	0 	0 	0,00 	 00002576 	
+	2023	002	PSY 442	Developmental  Psychopathology	PSY 442_01	Department of Psychology	   3	   0	   0	3	   6	Course	Sevi Gizem Zeybek 	GB05	We 09 - 12	23 	0 	0 	0 	2 	0,00 	 00002022 	
+	2023	002	PSY 442	Developmental  Psychopathology	PSY 442_02	Department of Psychology	   3	   0	   0	3	   6	Course	Sevi Gizem Zeybek 	G006	We 15 - 18	34 	0 	0 	0 	0 	0,00 	 00002022 	
+	2023	002	PSY 448	Trauma Psychology	PSY 448_01	Department of Psychology	3	0	0	3	6	Course	Deniz Okay 	G006	Fr 13 - 16	43 	0 	0 	0 	0 	0,00 	 00000959 	
+	2023	002	RUS 101	Elementary Russian I	RUS 101_01	Basic Sciences	3	0	0	3	5	Course	Liudmila Nosova Kural (S) 	G213	Tu 16 - 19	27 	0 	0 	0 	3 	0,00 	 00001359 (S) 	
+	2023	002	SENG 212	Software Requirements Engineering	SENG 212_01	Department of Software Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	G203	Fr 09 - 12	29 	0 	0 	0 	0 	0,00 	 00003895 	
+	2023	002	SENG 214	Software Engineering	SENG 214_01	Department of Software Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	D032	Tu 13 - 16	70 	0 	0 	0 	0 	0,00 	 00003895 	
+	2023	002	SENG 214	Software Engineering	SENG 214_02	Department of Software Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	DB20	We 15 - 18	70 	0 	0 	0 	1 	0,00 	 00003895 	
+	2023	002	SENG 214	Software Engineering	SENG 214_03	Department of Software Engineering	3	0	0	3	6	Course	Elif Kurtaran Özbudak 	D026	Fr 15 - 18	69 	0 	0 	0 	0 	0,00 	 00003895 	
+	2023	002	SENG 216	Web Programming	SENG 216_01	Department of Software Engineering	3	0	0	3	6	Course	Fýrat Akba 	D030	Fr 13 - 16	23 	0 	0 	0 	3 	0,00 	 00004099 	
+	2023	002	SENG 218	Object Oriented Anaylsis and Design	SENG 218_01	Department of Software Engineering	3	0	0	3	6	Course	Özlem Albayrak 	K183	Tu 13 - 16	21 	0 	0 	0 	0 	0,00 	 00005055 	
+	2023	002	SENG 342	Sofware Quality Assurance	SENG 342_01	Department of Software Engineering	3	0	0	3	5	Course	Tansel Dökeroðlu 	DB14 D230	Mo 14 - 16 Tu 12 - 13	20 	0 	0 	0 	0 	0,00 	 00000337 	
+	2023	002	SENG 399	Summer Internship	SENG 399_01	Department of Software Engineering	1	0	0	1	2	Internship	Emin Kuðu 		Mo 18 - 19	2 	0 	0 	0 	0 	0,00 	 00001446 	
+	2023	002	SENG 442	Parallel and Distributed Computing	SENG 442_01	Department of Software Engineering	3	0	0	3	6	Course	Tansel Dökeroðlu 	D234 D230	Mo 11 - 13 Tu 11 - 12	35 	0 	0 	0 	3 	0,00 	 00000337 	
+	2023	002	SENG 444	Social Issues and Professional Practices	SENG 444_01	Department of Software Engineering	3	0	0	3	5	Course	Emin Kuðu 	D230	Tu 09 - 11 We 13 - 14	15 	0 	0 	0 	0 	0,00 	 00001446 	
+	2023	002	SENG 453	Software Validation and Verification	SENG 453_01	Department of Software Engineering	2	0	2	3	5	Course	Tansel Dökeroðlu 	D230 D232	Tu 13 - 14 We 11 - 13	35 	0 	0 	0 	2 	0,00 	 00000337 	
+	2023	002	SENG 474	Deep Learning	SENG 474_01	Department of Software Engineering	3	0	0	3	5	Course	Yücel Çimtay 	D026	Mo 15 - 18	7 	0 	0 	0 	0 	0,00 	 00003890 	
+	2023	002	SENG 491-O	Senior Project I	SENG 491_01	Department of Software Engineering	1	4	0	3	8	Project	Özlem Albayrak 		Th 18 - 19	4 	0 	0 	0 	0 	0,00 	 00005055 	
+	2023	002	SENG 492-O	Senior Project II	SENG 492_01	Department of Software Engineering	1	4	0	3	8	Project	Özlem Albayrak 		Fr 18 - 19	8 	0 	0 	0 	0 	0,00 	 00005055 	
+	2023	002	SOC 103	Introduction to Sociology	SOC 103_01	Department of Sociology	3	0	0	3	5	Course	Gül Çorbacýoðlu Aksak (S) 	D232	We 16 - 19	55 	0 	0 	0 	0 	0,00 	 00005647 (S) 	
+	2023	002	SOC 103	Introduction to Sociology	SOC 103_02	Department of Sociology	3	0	0	3	5	Course	Gül Çorbacýoðlu Aksak (S) 	DB16	Th 16 - 19	57 	0 	0 	0 	1 	0,00 	 00005647 (S) 	
+	2023	002	SOC 104	Introduction to Sociology II	SOC 104_01	Department of Sociology	3	0	0	3	6	Course	Aylin Çakýroðlu Çevik 	A435	Tu 11 - 13 Th 16 - 17	19 	0 	0 	0 	0 	0,00 	 00001057 	
+	2023	002	SOC 202	Research Methods II	SOC 202_01	Department of Sociology	2	3	0	4	8	Course	Aylin Çakýroðlu Çevik 	A216	Tu 14 - 16 Th 11 - 13	12 	0 	0 	0 	0 	0,00 	 00001057 	
+	2023	002	SOC 204	Sociological Theories II: Classics	SOC 204_01	Department of Sociology	3	0	0	3	7	Course	Mehmet Alper Yalçýnkaya 	F115	Tu 11 - 13 Th 13 - 14	2 	0 	0 	0 	0 	0,00 	 00004097 	
+	2023	002	SOC 204-O	Sociological Theories II: Classics	SOC 204-O_01	Department of Sociology	3	0	0	3	6	Course	Mehmet Alper Yalçýnkaya 		Tu 11 - 13 Th 13 - 14	16 	0 	0 	0 	0 	0,00 	 00004097 	
+	2023	002	SOC 210	Sociology of Family	SOC 210_01	Department of Sociology	3	0	0	3	6	Course	Gülçin Con Wright 	G203	We 11 - 14	36 	0 	0 	0 	0 	0,00 	 00002571 	
+	2023	002	SOC 220	New media and Communication Studies	SOC 220_01	Department of Sociology	3	0	0	3	6	Course	Jared Matthew Wright 	G112	Mo 15 - 17 Th 16 - 17	33 	0 	0 	0 	0 	0,00 	 00003928 	
+	2023	002	SOC 302	Development of Sociology in Turkey	SOC 302_01	Department of Sociology	2	2	0	3	6	Course	Mehmet Alper Yalçýnkaya 	F206 F115	Tu 14 - 16 Th 12 - 13	12 	0 	0 	0 	0 	0,00 	 00004097 	
+	2023	002	SOC 304	Demography and Society	SOC 304_01	Department of Sociology	3	0	0	3	6	Course	Gülçin Con Wright 	G203	Tu 11 - 13 Th 11 - 12	25 	0 	0 	0 	2 	0,00 	 00002571 	
+	2023	002	SOC 314	Religion and Modernity	SOC 314_01	Department of Sociology	3	0	0	3	6	Course	Mehmet Alper Yalçýnkaya 	G105	Fr 11 - 14	36 	0 	0 	0 	1 	0,00 	 00004097 	
+	2023	002	SOC 401	Graduation Project and Seminar I	SOC 401_01	Department of Sociology	3	2	0	4	8	Course	Jared Matthew Wright 		Mo 11 - 14	1 	0 	0 	0 	0 	0,00 	 00003928 	
+	2023	002	SOC 402	Graduation Project and Seminar	SOC 402_01	Department of Sociology	3	2	0	4	8	Course	Aylin Çakýroðlu Çevik 	A422	Fr 14 - 17	12 	0 	0 	0 	0 	0,00 	 00001057 	
+	2023	002	SOC 404	Sociology of Work	SOC 404_01	Department of Sociology	2	2	0	3	6	Course	Kezban Çelik 	G003	We 14 - 17	35 	0 	0 	0 	1 	0,00 	 00001055 	
+	2023	002	SOC 423	Gender and Sexuality	SOC 423_01	Department of Sociology	2	2	0	3	6	Course	Gülçin Con Wright 		Th 18 - 21	5 	0 	0 	0 	0 	0,00 	 00002571 	
+	2023	002	SPA 101	Elementary Spanish I	SPA 101_01	Basic Sciences	3	0	0	3	5	Course	Nur Gülümser Ýlker (S) 	G208	Mo 13 - 16	57 	0 	0 	0 	2 	0,00 	 00000575 (S) 	
+	2023	002	SPA 101	Elementary Spanish I	SPA 101_02	Basic Sciences	3	0	0	3	5	Course	Nur Gülümser Ýlker (S) 	G208	Mo 16 - 19	60 	0 	0 	0 	1 	0,00 	 00000575 (S) 	
+	2023	002	SPA 101	Elementary Spanish I	SPA 101_03	Basic Sciences	3	0	0	3	5	Course	Nur Gülümser Ýlker (S) 	G208	Tu 13 - 16	54 	0 	0 	0 	0 	0,00 	 00000575 (S) 	
+	2023	002	SPA 102	Elementary Spanish II	SPA 102_01	Basic Sciences	3	0	0	3	5	Course	Nur Gülümser Ýlker (S) 	G208	Tu 16 - 19	48 	0 	0 	0 	1 	0,00 	 00000575 (S) 	
+	2023	002	TEDU 101	First Year Experience at TEDU	TEDU 101_01	Basic Sciences	0	0	0	0	1	Course	Deniz Özmeriç , Kerem Ermiþ 		We 17 - 18	125 	0 	0 	0 	0 	0,00 	 00004062 , 00003879 	
+	2023	002	TEDU 101	First Year Experience at TEDU	TEDU 101_02	Basic Sciences	0	0	0	0	1	Course	Deniz Özmeriç , Kerem Ermiþ 		We 17 - 18	131 	0 	0 	0 	0 	0,00 	 00004062 , 00003879 	
+	2023	002	TEDU 101	First Year Experience at TEDU	TEDU 101_03	Basic Sciences	0	0	0	0	1	Course	Kerem Ermiþ , Deniz Özmeriç 		We 17 - 18	125 	0 	0 	0 	0 	0,00 	 00003879 , 00004062 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_01	Basic Sciences	1	0	0	1	1	Course	Bezen Coþkun (S) 	G010	Mo 09 - 11	55 	0 	0 	0 	1 	0,00 	 00002049 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_02	Basic Sciences	1	0	0	1	1	Course	Bezen Coþkun (S) 	G003	Mo 16 - 18	59 	0 	0 	0 	3 	0,00 	 00002049 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_03	Basic Sciences	1	0	0	1	1	Course	Gökçen Aydýn Dalarslan 	G208	Tu 09 - 11	52 	0 	0 	0 	0 	0,00 	 00003067 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_04	Basic Sciences	1	0	0	1	1	Course	Bezen Coþkun (S) 	D028	Mo 11 - 13	59 	0 	0 	0 	0 	0,00 	 00002049 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_05	Basic Sciences	1	0	0	1	1	Course	Bezen Coþkun (S) 	G003	Mo 14 - 16	60 	0 	0 	0 	0 	0,00 	 00002049 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_06	Basic Sciences	1	0	0	1	1	Course	Gökçen Aydýn Dalarslan 	G208	Tu 11 - 13	60 	0 	0 	0 	0 	0,00 	 00003067 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_07	Basic Sciences	1	0	0	1	1	Course	Þevval Kübra Özer Kaya 	G203	Tu 14 - 16	46 	0 	0 	0 	3 	0,00 	 00004074 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_08	Basic Sciences	1	0	0	1	1	Course	Þevval Kübra Özer Kaya 	G203	Tu 16 - 18	59 	0 	0 	0 	1 	0,00 	 00004074 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_09	Basic Sciences	1	0	0	1	1	Course	Þevval Kübra Özer Kaya 	D028	Th 09 - 11	48 	0 	0 	0 	0 	0,00 	 00004074 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_10	Basic Sciences	1	0	0	1	1	Course	Derya Aðaoðlu (S) 	D032	Th 13 - 15	58 	0 	0 	0 	0 	0,00 	 00005687 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_11	Basic Sciences	1	0	0	1	1	Course	Derya Aðaoðlu (S) 	D232	Fr 14 - 16	59 	0 	0 	0 	5 	0,00 	 00005687 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_12	Basic Sciences	1	0	0	1	1	Course	Derya Aðaoðlu (S) 	D032	Fr 09 - 11	28 	0 	0 	0 	0 	0,00 	 00005687 (S) 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_13	Basic Sciences	1	0	0	1	1	Course	Deniz Özmeriç 	D028	Th 16 - 18	50 	0 	0 	0 	3 	0,00 	 00004062 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_14	Basic Sciences	1	0	0	1	1	Course	Gökçen Aydýn Dalarslan 	D028	Th 11 - 13	59 	0 	0 	0 	4 	0,00 	 00003067 	
+	2023	002	TEDU 102	Service Learning	TEDU 102_15	Basic Sciences	1	0	0	1	1	Course	Deniz Özmeriç 	G112	We 15 - 17	54 	0 	0 	0 	0 	0,00 	 00004062 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_01	Basic Sciences	2	0	2	3	5	Course	Kerem Ermiþ 	D032 Online	Mo 14 - 16 Tu 16 - 18	73 	0 	0 	0 	1 	0,00 	 00003879 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_02	Basic Sciences	2	0	2	3	5	Course	Kerem Ermiþ 	D032 Online	Mo 16 - 18 Tu 18 - 20	68 	0 	0 	0 	0 	0,00 	 00003879 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_03	Basic Sciences	2	0	2	3	5	Course	Mustafa Koç (S) 	K084 Online	We 16 - 18 Th 16 - 18	60 	0 	0 	0 	1 	0,00 	 00005688 (S) 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_04	Basic Sciences	2	0	2	3	5	Course	Mustafa Koç (S) 	K084 Online	We 18 - 20 Th 18 - 20	49 	0 	0 	0 	0 	0,00 	 00005688 (S) 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_05	Basic Sciences	2	0	2	3	5	Course	Rükiye Altýn (S) 	Online	Th 16 - 18 Fr 16 - 18	76 	0 	0 	0 	0 	0,00 	 00005685 (S) 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_06	Basic Sciences	2	0	2	3	5	Course	Cengizhan Gökben (S) 	Online	Th 18 - 20 Fr 18 - 20	84 	0 	0 	0 	0 	0,00 	 00005684 (S) 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_07	Basic Sciences	2	0	2	3	5	Course	Kadir Yücel Kaya (S) 	Online	We 18 - 20 Th 18 - 20	51 	0 	0 	0 	0 	0,00 	 00005862 (S) 	
+	2023	002	TEDU 109	Digital Competence	TEDU 109_08	Basic Sciences	2	0	2	3	5	Course	Kadir Yücel Kaya (S) 	Online	We 16 - 18 Th 16 - 18	35 	0 	0 	0 	0 	0,00 	 00005862 (S) 	
+	2023	002	TEDU 120	Career Planning	TEDU 120_01	Basic Sciences	0	0	0	0	1	Course	Gökçen Kuru (S) 	D026	Fr 13 - 14	12 	0 	0 	0 	0 	0,00 	 00003306 (S) 	
+	2023	002	TEDU 400	Student Development Seminar	TEDU 400_01	Basic Sciences	0	0	0	0	1	Mandatory (YOK)				92 	0 	0 	0 	0 	0,00 		
+	2023	002	TEDU 400	Student Development Seminar	TEDU 400_02	Basic Sciences	0	0	0	0	1	Mandatory (YOK)				70 	0 	0 	0 	0 	0,00 		
+	2023	002	TEDU 400	Student Development Seminar	TEDU 400_03	Basic Sciences	0	0	0	0	1	Mandatory (YOK)				121 	0 	0 	0 	0 	0,00 		
+	2023	002	TEDU 400	Student Development Seminar	TEDU 400_04	Basic Sciences	0	0	0	0	1	Mandatory (YOK)				74 	1 	0 	0 	0 	0,00 		
+	2023	002	TINT 102	Studio 2	TINT 102_01	Dep. of Interior Arch. and Env. Design	2	8	0	6	11	Course	Yeþim Kutkan Öztürk (S) , Selim Sertel Öztürk (S) , Kenan Eren Þansal , Güliz Taþdemir 		Tu 14 - 17 Tu 09 - 13 Fr 09 - 12	41 	0 	0 	0 	0 	0,00 	 00004827 (S) , 00004830 (S) , 00004813 , 00004179 	
+	2023	002	TINT 102-O	Studio 2	TINT 102-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	10	Course	Güliz Taþdemir , Kenan Eren Þansal , Yeþim Kutkan Öztürk (S) , Selim Sertel Öztürk (S) 		Tu 09 - 13 Tu 14 - 17 Fr 09 - 12	11 	0 	0 	0 	0 	0,00 	 00004179 , 00004813 , 00004827 (S) , 00004830 (S) 	
+	2023	002	TINT 112	Visual Communication Techniques 2	TINT 112_01	Dep. of Interior Arch. and Env. Design	1	4	0	3	5	Course	Güliz Taþdemir , Yeþim Kutkan Öztürk (S) 		We 13 - 17	46 	0 	0 	0 	0 	0,00 	 00004179 , 00004827 (S) 	
+	2023	002	TINT 112-O	Visual Communication Techniques 2	TINT 112-O_1	Dep. of Interior Arch. and Env. Design	2	2	0	3	5	Course	Yeþim Kutkan Öztürk (S) , Güliz Taþdemir 		We 13 - 17	12 	0 	0 	0 	0 	0,00 	 00004827 (S) , 00004179 	
+	2023	002	TINT 202	Studio 4	TINT 202_01	Dep. of Interior Arch. and Env. Design	2	8	0	6	12	Course	Nur Ayalp , Barýþ Yakýn , Engin Öncüoðlu (S) , Mustafa Oðuz Yalým (S) , Umut Þumnu (S) 		Mo 09 - 13 Mo 14 - 17 Th 09 - 12	12 	0 	0 	0 	0 	0,00 	 00001874 , 00002629 , 00004826 (S) , 00003947 (S) , 00005676 (S) 	
+	2023	002	TINT 202-O	Studio 4	TINT 202-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	11	Course	Nur Ayalp , Barýþ Yakýn , Mustafa Oðuz Yalým (S) , Engin Öncüoðlu (S) , Umut Þumnu (S) 		Mo 09 - 13 Mo 14 - 17 Th 09 - 12	38 	0 	0 	0 	0 	0,00 	 00001874 , 00002629 , 00003947 (S) , 00004826 (S) , 00005676 (S) 	
+	2023	002	TINT 212	Environmental Systems and Comfort	TINT 212_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	4	Course	Bilal Ýlkay Aslan 		Th 13 - 16	13 	0 	0 	0 	0 	0,00 	 00001510 	
+	2023	002	TINT 212-O	Environmental Systems and Comfort	TINT 212-O_1	Dep. of Interior Arch. and Env. Design	1	0	0	1	2	Course	Bilal Ýlkay Aslan 		Th 13 - 16	38 	0 	0 	0 	0 	0,00 	 00001510 	
+	2023	002	TINT 222	Culture and Theory 2	TINT 222_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	4	Course	Yeþim Kutkan Öztürk (S) 		We 09 - 12	15 	0 	0 	0 	0 	0,00 	 00004827 (S) 	
+	2023	002	TINT 222-O	Culture and Theory 2	TINT 222-O_1	Dep. of Interior Arch. and Env. Design	2	1	0	2	5	Course	Yeþim Kutkan Öztürk (S) 	G205	We 09 - 12	39 	0 	0 	0 	0 	0,00 	 00004827 (S) 	
+	2023	002	TINT 302-O	Studio 6	TINT 302-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	11	Course	Emre Seles (S) , Ece Yalým (S) , Bilal Ýlkay Aslan 		Tu 09 - 13 Tu 14 - 17 Fr 09 - 12	36 	0 	0 	0 	0 	0,00 	 00004825 (S) , 00004107 (S) , 00001510 	
+	2023	002	TINT 318	Design for All	TINT 318_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	5	Course	Kenan Eren Þansal 	GB05	Mo 13 - 16	25 	0 	0 	0 	0 	0,00 	 00004813 	
+	2023	002	TINT 372-O	Advanced Detailing	TINT 372-O_1	Dep. of Interior Arch. and Env. Design	3	0	0	3	5	Course	Barýþ Yakýn , Nur Ayalp 		We 09 - 12	34 	0 	0 	0 	0 	0,00 	 00002629 , 00001874 	
+	2023	002	TINT 402-O	Studio 8	TINT 402-O_1	Dep. of Interior Arch. and Env. Design	2	8	0	6	12	Course	Umut Þumnu (S) , Mustafa Oðuz Yalým (S) 		Mo 09 - 12 Th 09 - 13 Th 14 - 17	42 	0 	0 	0 	0 	0,00 	 00005676 (S) , 00003947 (S) 	
+	2023	002	TINT 420	Color, Theory and Application in Interio	TINT 420_01	Dep. of Interior Arch. and Env. Design	2	2	0	3	5	Course	Ece Yalým (S) 	F217	Th 09 - 12	11 	0 	0 	0 	0 	0,00 	 00004107 (S) 	
+	2023	002	TINT 421	Theory of Design	TINT 421_01	Dep. of Interior Arch. and Env. Design	3	0	0	3	5	Course	Filiz Köse (S) 	G003	Fr 14 - 17	29 	0 	0 	0 	0 	0,00 	 00004108 (S) 	
+	2023	002	TUR 101	Turkish I	TUR 101_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	Tu 20 - 22	148 	0 	0 	0 	2 	0,00 	 00001829 	
+	2023	002	TUR 101	Turkish I	TUR 101_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	Th 20 - 22	148 	0 	0 	0 	1 	0,00 	 00001829 	
+	2023	002	TUR 101	Turkish I	TUR 101_03	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	We 20 - 22	62 	0 	0 	0 	3 	0,00 	 00001829 	
+	2023	002	TUR 102	Turkish II	TUR 102_01	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	Mo 18 - 20	151 	0 	0 	0 	3 	0,00 	 00001829 	
+	2023	002	TUR 102	Turkish II	TUR 102_02	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	Tu 18 - 20	150 	0 	0 	0 	0 	0,00 	 00001829 	
+	2023	002	TUR 102	Turkish II	TUR 102_03	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	We 18 - 20	148 	0 	0 	0 	1 	0,00 	 00001829 	
+	2023	002	TUR 102	Turkish II	TUR 102_04	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	Th 18 - 20	147 	0 	0 	0 	1 	0,00 	 00001829 	
+	2023	002	TUR 102	Turkish II	TUR 102_05	Basic Sciences	2	0	0	2	2	Mandatory (YOK)	Fatma Akýn Çelebi 	Online	Fr 18 - 20	150 	0 	0 	0 	1 	0,00 	 00001829 	
+	2023	002	TUR 160	Turkish for Foreigners II	TUR 160_01	Basic Sciences	2	0	0	2	2	Course	Fatma Akýn Çelebi 	K085	Fr 16 - 18	85 	0 	0 	0 	2 	0,00 	 00001829 	
+	2023	002	VCODE 102	Introduction to Design Methods	VCODE 102_01	Department of Visual Communication Desig	2	8	0	6	10	Course	Tuðba Özer (S) , Hayri Þengün (S) , Ersan Ocak 		Tu 09 - 12 Tu 13 - 15 Fr 09 - 12 Fr 13 - 15	31 	0 	0 	0 	0 	0,00 	 00005662 (S) , 00003929 (S) , 00001264 	
+	2023	002	VCODE 112	Visual Communication Techniques II	VCODE 112_01	Department of Visual Communication Desig	2	2	0	3	6	Course	Tuðba Özer (S) , Hayri Þengün (S) , Berke Atasoy 		Th 09 - 13	30 	0 	0 	0 	0 	0,00 	 00005662 (S) , 00003929 (S) , 00003851 	
+	2023	002	VCODE 112-O	Visual Communication Techniques II	VCODE112-O_1	Department of Visual Communication Desig	2	2	0	3	5	Course	Hayri Þengün (S) , Tuðba Özer (S) , Berke Atasoy 		Th 09 - 13	3 	0 	0 	0 	0 	0,00 	 00003929 (S) , 00005662 (S) , 00003851 	
+	2023	002	VCODE 202	Visual Communication Design Studio II	VCODE 202_01	Department of Visual Communication Desig	2	8	0	6	11	Course	Naz Yýldýz (S) , Levent Yüce Ýnce 	H208-MTF	Mo 13 - 15 Mo 09 - 12 Th 13 - 15 Th 09 - 12	20 	0 	0 	0 	0 	0,00 	 00005677 (S) , 00004784 	
+	2023	002	VCODE 252	Photography and Image Processing	VCODE 252_01	Department of Visual Communication Desig	2	2	0	3	6	Course	Levent Yüce Ýnce 	H210-MTF	We 09 - 13	10 	0 	0 	0 	0 	0,00 	 00004784 	
+	2023	002	VCODE 252-O	Photography and Image Processing	VCODE252-O_1	Department of Visual Communication Desig	2	1	0	2	5	Course	Levent Yüce Ýnce 		We 09 - 12	12 	0 	0 	0 	0 	0,00 	 00004784 	
+	2023	002	VCODE 302-O	Visual Communication Design Studio IV	VCODE302-O_1	Department of Visual Communication Desig	2	8	0	6	11	Course	Berke Atasoy 		Tu 09 - 12 Tu 13 - 15 Fr 09 - 12 Fr 13 - 15	2 	0 	0 	0 	0 	0,00 	 00003851 	
+	2023	002	VCODE 322	Analyzing Visual Texts	VCODE 322_01	Department of Visual Communication Desig	3	0	0	3	5	Course	Duygu Onay Çöker 	F204	Mo 09 - 12	8 	0 	0 	0 	0 	0,00 	 00001021 	
+	2023	002	VCODE 322	Analyzing Visual Texts	VCODE 322_02	Department of Visual Communication Desig	3	0	0	3	5	Course	Duygu Onay Çöker 	F204	We 09 - 12	11 	0 	0 	0 	1 	0,00 	 00001021 	
+	2023	002	VCODE 352-O	Video Production Design	VCODE352-O_1	Department of Visual Communication Desig	3	0	0	3	5	Course	Ersan Ocak 		Th 09 - 13	2 	0 	0 	0 	0 	0,00 	 00001264 	
+	2023	002	VIP 200	Vertically Integrated Project I	VIP 200_01	Basic Sciences	1	0	4	3	5	Course	Aras Alkýþ 	G213	Th 16 - 19	6 	0 	0 	0 	1 	0,00 	 00001340 	
